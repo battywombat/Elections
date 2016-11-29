@@ -1,0 +1,42 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+BILLS_TO_ISSUES	create_database.py	/^BILLS_TO_ISSUES = {$/;"	kind:variable	line:20
+CUTOFF_DATE	create_database.py	/^CUTOFF_DATE = datetime.date(2007, 1, 3)$/;"	kind:variable	line:123
+DATA_ROOT	create_database.py	/^DATA_ROOT = '.\/data'$/;"	kind:variable	line:9
+DATES	legislature_districts.py	/^DATES = [$/;"	kind:variable	line:57
+HOUSE_DISTRICTS	create_database.py	/^HOUSE_DISTRICTS = [x for x in range(1, 100)]$/;"	kind:variable	line:12
+HOUSE_PAGE	legislature_districts.py	/^HOUSE_PAGE = "https:\/\/en.wikipedia.org\/wiki\/Representative_history_of_the_Ohio_House_of_Representatives"$/;"	kind:variable	line:16
+ISSUES	create_database.py	/^ISSUES = [$/;"	kind:variable	line:13
+SENATE_DISTRICTS	create_database.py	/^SENATE_DISTRICTS = [x for x in range(1, 34)]$/;"	kind:variable	line:11
+SENATE_DISTRICTS	legislature_districts.py	/^SENATE_DISTRICTS = [x for x in range(1, 34)]$/;"	kind:variable	line:20
+SENATE_POSTFIX	legislature_districts.py	/^SENATE_POSTFIX = "_senatorial_district"$/;"	kind:variable	line:19
+SENATE_PREFIX	legislature_districts.py	/^SENATE_PREFIX = "https:\/\/en.wikipedia.org\/wiki\/Ohio's_"$/;"	kind:variable	line:18
+add_rawdata	create_database.py	/^def add_rawdata(conn):$/;"	kind:function	line:64
+add_sponsor_info	create_database.py	/^def add_sponsor_info(conn):$/;"	kind:function	line:124
+add_year_folder	create_database.py	/^def add_year_folder(conn, folder):$/;"	kind:function	line:68
+connect_bills_to_issues	create_database.py	/^def connect_bills_to_issues(conn):$/;"	kind:function	line:50
+create_database.py	create_database.py	1;"	kind:file	line:1
+date_regex	legislature_districts.py	/^date_regex = re.compile("("+"|".join(DATES)+") ([0-9]+), ([0-9]{4})")$/;"	kind:variable	line:75
+date_to_num	legislature_districts.py	/^def date_to_num(date):$/;"	kind:function	line:72
+get_child_by_attrib	legislature_districts.py	/^def get_child_by_attrib(root, tag, value) -> ET:$/;"	kind:function	line:48
+get_child_by_tag	legislature_districts.py	/^def get_child_by_tag(root, tag):$/;"	kind:function	line:53
+get_date	legislature_districts.py	/^def get_date(datestring):$/;"	kind:function	line:78
+get_house_wiki	legislature_districts.py	/^def get_house_wiki() -> dict:$/;"	kind:function	line:129
+get_map	legislature_districts.py	/^def get_map() -> dict:$/;"	kind:function	line:35
+get_senate_wiki	legislature_districts.py	/^def get_senate_wiki() -> dict:$/;"	kind:function	line:152
+get_table	legislature_districts.py	/^def get_table(root):$/;"	kind:function	line:147
+get_wiki_body	legislature_districts.py	/^def get_wiki_body(root: ET) -> ET:$/;"	kind:function	line:122
+legislature_districts.py	legislature_districts.py	1;"	kind:file	line:1
+main	create_database.py	/^def main():$/;"	kind:function	line:27
+main	legislature_districts.py	/^def main() -> None:$/;"	kind:function	line:22
+make_districts	create_database.py	/^def make_districts(conn):$/;"	kind:function	line:40
+make_issues	create_database.py	/^def make_issues(conn):$/;"	kind:function	line:46
+prefix	legislature_districts.py	/^def prefix(x):$/;"	kind:function	line:25
+process_district_row	legislature_districts.py	/^def process_district_row(row: ET) -> tuple:$/;"	kind:function	line:90
+process_district_table	legislature_districts.py	/^def process_district_table(r, d, table: ET, house: str) -> tuple:$/;"	kind:function	line:106
+process_district_tables	legislature_districts.py	/^def process_district_tables(r, d, house) -> dict:$/;"	kind:function	line:117
+simple_date_regex	legislature_districts.py	/^simple_date_regex = re.compile("("+"|".join(DATES)+") ([0-9]{4})")$/;"	kind:variable	line:76

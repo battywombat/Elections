@@ -1,0 +1,986 @@
+bill_id,roll_call_id,date,description,yea,nay,nv
+667094,384176,2015-01-09,"House Adopted",96,0,0
+667095,384164,2015-01-09,"House Adopted",97,0,0
+667096,384177,2015-01-09,"House Adopted",97,0,0
+667097,384166,2015-01-09,"House Adopted",97,0,0
+667098,384174,2015-01-09,"House Adopted",97,0,0
+667098,385810,2015-01-05,"Senate Adopted",33,0,0
+667099,384179,2015-01-09,"House Adopted",97,0,0
+667100,384170,2015-01-09,"House Adopted",97,0,0
+667101,384168,2015-01-14,"House Adopted",94,0,0
+667101,384169,2015-01-09,"House Adopted",92,5,0
+667102,384173,2015-01-09,"House Adopted",97,0,0
+667102,444556,2015-01-05,"Senate Adopted",33,0,0
+667103,384178,2015-01-09,"Senate Adopted",33,0,0
+667104,384171,2015-01-09,"Senate Adopted",33,0,0
+667104,384172,2015-01-09,"Senate Adopted",33,0,0
+667105,384175,2015-01-09,"House Adopted",97,0,0
+667106,384165,2015-01-09,"House Adopted",97,0,0
+667590,384167,2015-01-09,"House Adopted",93,0,0
+680620,384163,2015-01-14,"House Adopted",94,0,0
+687719,477385,2015-05-12,"House Favorable Passage",12,6,0
+687719,477436,2015-09-30,"House Adopted",91,0,0
+701518,387183,2015-01-28,"House Adopted",94,0,0
+701518,387334,2015-01-28,"Senate Adopted",33,0,0
+703329,396569,2015-02-18,"House Favorable Passage",11,0,0
+703329,401199,2015-02-25,"House Passed",96,0,0
+703329,484141,2015-12-09,"Senate Favorable Passage",8,1,0
+703329,486156,2016-01-20,"Senate Passed",31,1,0
+703354,397194,2015-02-18,"House Favorable Passage",11,0,0
+703354,397903,2015-02-18,"House Passed",88,4,0
+703396,389676,2015-02-04,"House Favorable Passage",20,0,0
+703396,394253,2015-02-11,"House Passed",95,0,0
+703396,403586,2015-03-03,"Senate Favorable Passage",9,0,0
+703396,408971,2015-03-11,"Senate Passed",33,0,0
+703416,445475,2015-05-12,"House Favorable Passage",16,4,0
+703416,452310,2015-05-27,"House Passed",78,16,0
+703462,443599,2015-05-06,"House Favorable Passage",12,1,0
+703462,445631,2015-05-12,"House Passed",92,0,0
+703462,462456,2015-06-24,"Senate Favorable Passage",8,0,0
+703462,463221,2015-06-25,"Senate Passed",32,0,0
+703462,463222,2015-06-25,"Senate Passed",32,0,0
+703484,415960,2015-03-24,"House Favorable Passage",10,0,0
+703484,440750,2015-04-29,"House Passed",95,0,0
+703484,545963,2016-05-17,"Senate Favorable Passage",11,0,0
+703484,546378,2016-05-18,"Senate Passed",31,0,0
+703510,452156,2015-05-26,"House Favorable Passage",18,0,0
+703510,462755,2015-06-24,"House Passed",98,0,0
+703510,548698,2016-05-25,"Senate Passed",34,0,0
+703510,548699,2016-05-25,"Senate Favorable Passage",11,0,0
+703531,396766,2015-02-18,"House Favorable Passage",11,0,0
+703531,397513,2015-02-18,"House Passed",92,1,0
+703581,404835,2015-03-05,"House Favorable Passage",17,0,0
+703581,406543,2015-03-04,"House Passed",98,0,0
+703581,460186,2015-06-16,"Senate Passed",33,0,0
+703581,484961,2015-05-27,"Senate Favorable Passage",11,0,0
+703602,404190,2015-03-04,"House Favorable Passage",13,0,0
+703602,412025,2015-03-17,"House Passed",96,0,0
+703602,459465,2015-06-12,"Senate Favorable Passage",9,0,0
+703602,476964,2015-09-23,"Senate Passed",33,0,0
+703602,476965,2015-09-23,"Senate Passed",33,0,0
+703624,399116,2015-01-28,"Senate Adopted",29,4,0
+703648,417616,2015-03-26,"House Passed",95,0,0
+703648,424320,2015-03-31,"House Favorable Passage",13,0,0
+703648,448323,2015-05-20,"Senate Favorable Passage",10,0,0
+703648,456335,2015-06-03,"Senate Passed",32,0,0
+703670,412257,2015-03-17,"House Favorable Passage",13,0,0
+703670,413302,2015-03-18,"House Passed",98,0,0
+703711,424408,2015-03-31,"House Favorable Passage",12,1,0
+703711,463530,2015-03-25,"House ",12,1,0
+703711,484994,2015-03-25,"House Re-referred",12,1,0
+703731,548893,2016-05-25,"House Passed",71,26,0
+703731,548894,2016-05-25,"House Favorable Passage",13,8,0
+703750,449136,2015-05-20,"House Favorable Passage",15,0,0
+703750,458800,2015-06-10,"House Passed",95,0,0
+703750,481407,2015-11-18,"Senate Favorable Passage",10,0,0
+703774,416008,2015-03-25,"House Favorable Passage",13,6,0
+703774,418000,2015-03-26,"House Passed",70,25,0
+703774,462980,2015-06-25,"Senate Favorable Passage",8,0,0
+703774,463459,2015-06-25,"Senate Passed",31,0,0
+703774,477352,2015-06-30,"House Failed",35,59,0
+703793,392518,2015-02-10,"House Favorable Passage",18,0,0
+703793,394063,2015-02-11,"House Passed",95,0,0
+703793,400919,2015-02-25,"Senate Favorable Passage",12,0,0
+703793,404766,2015-03-04,"Senate Passed",31,0,0
+704323,408014,2015-03-10,"House Favorable Passage",13,0,0
+704323,435257,2015-03-17,"House Passed",96,0,0
+704379,387180,2015-01-28,"House Adopted",94,0,0
+707896,438311,2015-04-22,"Senate Adopted",33,0,0
+707896,442750,2015-05-04,"Senate Favorable Passage",11,0,0
+708719,432628,2015-04-15,"Senate Passed",33,0,0
+708719,461953,2015-06-23,"House Favorable Passage",14,0,0
+708719,473462,2015-03-25,"Senate Favorable Passage",10,0,0
+708719,484068,2015-12-01,"House Passed",94,0,0
+708753,396905,2015-02-18,"Senate Passed",32,0,0
+708753,397458,2015-02-19,"Senate Favorable Passage",10,0,0
+708753,415551,2015-03-24,"House Favorable Passage",12,1,0
+708753,416974,2015-03-25,"House Passed",96,0,0
+708785,416350,2015-03-25,"Senate Passed",32,1,0
+708785,416351,2015-03-25,"Senate Favorable Passage",9,1,0
+708785,448487,2015-05-20,"House Favorable Passage",13,0,0
+708837,439703,2015-04-28,"Senate Favorable Passage",10,0,0
+708837,440753,2015-04-29,"Senate Passed",32,1,0
+708837,451191,2015-05-26,"House Favorable Passage",12,0,0
+708837,452428,2015-05-27,"House Passed",92,3,0
+708852,400948,2015-02-25,"Senate Favorable Passage",10,1,0
+709040,416415,2015-03-25,"Senate Passed",24,9,0
+709040,473470,2015-03-25,"Senate Favorable Passage",9,4,0
+709057,477702,2015-10-14,"Senate Passed",32,0,0
+709057,480487,2015-10-13,"Senate Favorable Passage",10,0,0
+709057,481468,2015-11-19,"House Favorable Passage",12,0,0
+709057,484134,2015-12-08,"House Passed",92,0,0
+709074,409119,2015-03-11,"Senate Passed",33,0,0
+709074,409120,2015-03-11,"Senate Favorable Passage",9,0,0
+709091,394722,2015-02-11,"Senate Passed",31,0,0
+709091,401689,2015-02-26,"Senate Favorable Passage",12,0,0
+709091,487512,2016-01-26,"House Favorable Passage",20,0,0
+709091,488155,2016-01-27,"House Passed",97,0,0
+709091,488156,2016-01-27,"House Passed",96,1,0
+709125,443583,2015-05-06,"Senate Passed",32,1,0
+709125,473474,2015-04-29,"Senate Favorable Passage",10,0,0
+710036,396782,2015-02-18,"House Favorable Passage",17,0,0
+710036,398644,2015-02-18,"House Passed",94,0,0
+710036,456553,2015-06-03,"Senate Passed",32,0,0
+710036,484747,2015-04-22,"Senate Favorable Passage",10,0,0
+710068,396579,2015-02-18,"House ",11,0,0
+710068,484995,2015-02-18,"House Re-referred",11,0,0
+710135,404747,2015-03-04,"House Passed",84,14,0
+710135,405092,2015-03-05,"House Favorable Passage",12,0,0
+710172,405697,2015-03-05,"House ",15,0,0
+710172,444149,2015-05-07,"House Favorable Passage",9,4,0
+710172,477445,2015-09-30,"House Passed",61,31,0
+710172,486239,2015-02-25,"House Re-referred",14,0,0
+710309,440396,2015-04-29,"House Favorable Passage",11,0,0
+710309,452698,2015-05-27,"House Passed",92,3,0
+710309,544981,2016-05-11,"Senate Passed",33,0,0
+710506,412075,2015-03-17,"House Favorable Passage",15,0,0
+710506,416953,2015-03-25,"House Passed",96,0,0
+710506,464510,2015-06-30,"Senate Passed",32,0,0
+710506,473469,2015-06-25,"Senate Favorable Passage",13,0,0
+710631,448407,2015-05-19,"House Favorable Passage",21,0,0
+710631,460540,2015-06-17,"House Passed",84,14,0
+711222,403794,2015-03-03,"House Favorable Passage",7,0,0
+711222,412206,2015-03-17,"House Passed",96,0,0
+711344,408924,2015-03-11,"House Favorable Passage",17,0,0
+711344,413208,2015-03-18,"House Passed",98,0,0
+711344,477362,2015-09-30,"Senate Passed",32,0,0
+711344,480501,2015-09-30,"Senate Favorable Passage",8,0,0
+715690,531751,2016-04-13,"Senate Passed",33,1,0
+715841,408913,2015-03-11,"Senate Favorable Passage",9,0,0
+715841,446523,2015-05-13,"Senate Passed",32,1,0
+715931,477714,2015-10-14,"Senate Passed",32,0,0
+715931,480511,2015-09-30,"Senate Favorable Passage",11,0,0
+715991,410517,2015-03-13,"Senate ",9,3,0
+715991,412810,2015-03-18,"Senate Passed",22,10,0
+715991,435403,2015-03-13,"Senate Favorable Passage",9,3,0
+715991,440492,2015-04-29,"House Favorable Passage",8,3,0
+715991,441248,2015-04-29,"House Passed",61,34,0
+717231,439731,2015-04-28,"House ",14,1,0
+717231,444531,2015-05-08,"House Favorable Passage",28,3,0
+717231,484120,2015-12-01,"House Passed",92,2,0
+717231,484997,2015-04-29,"House Re-referred",14,1,0
+717231,548577,2016-05-25,"Senate Favorable Passage",12,0,0
+717231,551814,2016-05-25,"Senate Passed",34,0,0
+717322,412559,2015-03-18,"House Favorable Passage",10,0,0
+717322,431977,2015-04-15,"House Passed",95,0,0
+717585,417046,2015-03-26,"House Favorable Passage",11,0,0
+717585,417785,2015-03-26,"House Passed",82,12,0
+717585,438687,2015-04-22,"Senate Passed",32,0,0
+717585,448307,2015-05-20,"Senate Favorable Passage",10,0,0
+717763,396731,2015-02-18,"House ",11,0,0
+717763,460362,2015-06-17,"House Favorable Passage",9,2,0
+717763,481415,2015-11-17,"House Passed",68,29,0
+717763,484993,2015-02-18,"House Re-referred",11,0,0
+717863,408117,2015-03-10,"House ",12,0,0
+717863,409375,2015-03-11,"House Passed",96,0,0
+717863,409376,2015-03-11,"House Favorable Passage",29,0,0
+717863,462364,2015-06-23,"Senate Favorable Passage",11,0,0
+717863,463165,2015-06-25,"Senate Passed",31,0,0
+717863,463166,2015-06-25,"Senate Passed",31,0,0
+717863,463167,2015-06-25,"Senate Passed",32,0,0
+717863,486409,2015-03-10,"House Re-referred",12,0,0
+718125,408690,2015-03-10,"House ",12,0,0
+718125,408980,2015-03-11,"House Favorable Passage",29,0,0
+718125,424462,2015-03-11,"House Passed",96,0,0
+718125,462396,2015-06-23,"Senate Favorable Passage",11,0,0
+718125,462628,2015-06-24,"Senate Passed",32,0,0
+718125,486483,2015-03-10,"House Re-referred",12,0,0
+718449,405038,2015-03-05,"House Favorable Passage",16,0,0
+718449,408699,2015-03-10,"House Adopted",91,3,0
+718449,484960,2015-10-21,"Senate Favorable Passage",10,0,0
+718503,403500,2015-03-03,"House Passed",97,0,0
+718503,405059,2015-03-05,"House Favorable Passage",31,0,0
+718503,412841,2015-03-18,"Senate Passed",32,0,0
+718503,413295,2015-03-18,"House Failed",1,91,0
+718503,473468,2015-03-18,"Senate Favorable Passage",11,0,0
+718559,484076,2015-12-09,"House Favorable Passage",17,0,0
+718611,462504,2015-06-24,"House Favorable Passage",12,0,0
+718611,477422,2015-09-30,"House Passed",91,1,0
+718611,484080,2015-12-09,"Senate Passed",32,1,0
+718611,484081,2015-12-09,"Senate Passed",19,14,0
+718611,484082,2015-12-09,"Senate Passed",22,11,0
+718611,484083,2015-12-09,"Senate Passed",23,10,0
+718611,484084,2015-12-09,"Senate Favorable Passage",11,0,0
+720104,434849,2015-04-20,"House Favorable Passage",21,11,0
+720104,437501,2015-04-22,"House Passed",63,36,0
+720104,461076,2015-06-18,"House Failed",0,81,0
+720104,461436,2015-06-18,"Senate Passed",23,10,0
+720104,473466,2015-06-18,"Senate Favorable Passage",9,4,0
+720237,460151,2015-06-16,"House Favorable Passage",18,0,0
+720237,462810,2015-06-25,"House Passed",93,2,0
+720237,548569,2016-05-25,"Senate Passed",34,0,0
+720237,548570,2016-05-25,"Senate Passed",34,0,0
+720237,548571,2016-05-25,"Senate Favorable Passage",11,0,0
+720411,405070,2015-03-05,"House Favorable Passage",21,0,0
+720411,424505,2015-03-10,"House Passed",94,0,0
+720494,481464,2015-11-19,"House Favorable Passage",15,0,0
+720494,500133,2016-02-17,"House Passed",98,0,0
+720624,495081,2016-02-11,"Senate Favorable Passage",10,0,0
+720711,400704,2015-02-25,"House Favorable Passage",14,0,0
+720711,401092,2015-02-25,"House Passed",97,0,0
+720711,463521,2015-06-25,"Senate Passed",32,0,0
+720711,473471,2015-06-23,"Senate Favorable Passage",8,0,0
+720800,542826,2016-05-04,"House Favorable Passage",14,0,0
+720800,546602,2016-05-18,"House Passed",96,0,0
+721063,481447,2015-11-17,"Senate Passed",31,0,0
+721063,484972,2015-09-30,"Senate Favorable Passage",11,0,0
+721102,461131,2015-06-18,"House Favorable Passage",7,4,0
+721102,530698,2016-04-12,"House Passed",82,11,0
+722504,393832,2015-01-28,"House Adopted",76,19,0
+722504,400641,2015-02-11,"Senate Adopted",26,3,0
+725734,459338,2015-06-11,"Senate Favorable Passage",10,0,0
+725734,460108,2015-06-16,"Senate Passed",32,1,0
+725734,487496,2016-01-26,"House Favorable Passage",15,0,0
+727000,415989,2015-03-24,"House Favorable Passage",11,4,0
+727000,416545,2015-03-25,"House Passed",55,40,0
+728437,439021,2015-04-23,"Senate Favorable Passage",10,0,0
+728437,439022,2015-04-23,"Senate ",10,0,0
+728437,439023,2015-04-22,"Senate Passed",33,0,0
+728437,486058,2016-01-20,"House Favorable Passage",12,0,0
+728437,488018,2016-01-26,"House Passed",96,0,0
+728519,462711,2015-06-24,"Senate Passed",31,1,0
+728519,473483,2015-06-24,"Senate Favorable Passage",11,1,0
+728519,545083,2016-05-11,"House Favorable Passage",12,0,0
+728519,548125,2016-05-24,"House Passed",95,2,0
+728645,415208,2015-03-24,"House Favorable Passage",13,0,0
+728645,440889,2015-04-29,"House Passed",92,2,0
+728645,484133,2015-12-09,"Senate Passed",32,1,0
+728645,484774,2015-10-19,"Senate Favorable Passage",8,0,0
+728686,448190,2015-05-19,"House Passed",92,6,0
+728686,458180,2015-05-06,"House Favorable Passage",18,0,0
+728686,462363,2015-06-24,"Senate Favorable Passage",8,4,0
+728686,462621,2015-06-24,"Senate Passed",18,14,0
+728686,462622,2015-06-24,"Senate Failed",13,19,0
+729387,446363,2015-05-13,"Senate Passed",33,0,0
+729387,464657,2015-06-30,"House Passed",92,0,0
+729387,473479,2015-06-24,"House Favorable Passage",18,0,0
+729387,473480,2015-04-22,"Senate Favorable Passage",8,0,0
+729878,446431,2015-05-13,"House Passed",92,1,0
+729878,459680,2015-04-21,"House Favorable Passage",16,0,0
+733381,477366,2015-09-30,"Senate Passed",32,0,0
+733381,480500,2015-09-30,"Senate Favorable Passage",10,0,0
+733592,463519,2015-06-25,"Senate Passed",32,0,0
+733592,473464,2015-06-25,"Senate Favorable Passage",11,0,0
+733605,480496,2015-10-22,"Senate Favorable Passage",9,1,0
+733605,481395,2015-11-17,"Senate Passed",30,1,0
+733605,541090,2016-05-03,"House Favorable Passage",18,0,0
+733605,542051,2016-05-04,"House Passed",91,1,0
+736045,443963,2015-05-07,"House Favorable Passage",13,0,0
+736045,500651,2016-02-17,"House Passed",95,0,0
+736213,444785,2015-05-08,"House Favorable Passage",13,0,0
+736213,547841,2016-05-24,"House Passed",90,7,0
+736268,448505,2015-05-19,"House Favorable Passage",19,0,0
+736268,452362,2015-05-27,"House Passed",95,0,0
+736268,484073,2015-12-09,"Senate Favorable Passage",8,1,0
+736496,487368,2016-01-26,"House Favorable Passage",14,1,0
+736496,544733,2016-05-11,"House Passed",89,6,0
+741798,444763,2015-05-08,"House Favorable Passage",11,2,0
+741798,477433,2015-09-30,"House Passed",92,0,0
+741895,434813,2015-04-20,"House Favorable Passage",12,0,0
+741895,443973,2015-05-06,"House Passed",98,0,0
+741895,476969,2015-09-23,"Senate Passed",33,0,0
+741895,480533,2015-09-23,"Senate Favorable Passage",11,0,0
+742610,445924,2015-05-13,"House Favorable Passage",12,7,0
+742610,458820,2015-06-10,"House Passed",61,33,0
+743159,423922,2015-03-30,"House Favorable Passage",16,0,0
+743159,432175,2015-04-15,"House Passed",95,0,0
+743159,480518,2015-10-21,"Senate Favorable Passage",10,0,0
+743159,486094,2016-01-20,"Senate Passed",33,0,0
+743197,443711,2015-05-06,"Senate Passed",33,0,0
+743197,458605,2015-06-10,"House Favorable Passage",14,0,0
+743197,462777,2015-06-25,"House Passed",94,0,0
+743197,473472,2015-04-22,"Senate Favorable Passage",9,0,0
+743288,434921,2015-04-20,"Senate Favorable Passage",9,1,0
+743415,439884,2015-04-28,"Senate Favorable Passage",8,2,0
+743415,440798,2015-04-29,"Senate Passed",30,3,0
+743415,546898,2016-05-18,"House Favorable Passage",10,3,0
+743415,548682,2016-05-25,"House Passed",88,8,0
+744054,443759,2015-05-06,"House Adopted",97,1,0
+744054,459755,2015-04-30,"House Favorable Passage",23,0,0
+744054,461710,2015-06-17,"Senate Adopted",32,1,0
+744054,473545,2015-06-16,"Senate Favorable Passage",11,0,0
+744094,463527,2015-06-17,"House Favorable Passage",9,0,0
+744094,500397,2016-02-17,"House Adopted",93,0,0
+744094,545613,2016-05-11,"Senate Adopted",34,0,0
+744271,434870,2015-04-20,"House Favorable Passage",11,0,0
+744271,445503,2015-05-12,"House Adopted",92,0,0
+744271,486648,2015-10-21,"Senate Favorable Passage",7,0,0
+744557,452333,2015-05-27,"House Favorable Passage",12,0,0
+744557,458709,2015-06-10,"House Passed",91,4,0
+744812,473459,2015-03-04,"Senate Adopted",31,0,0
+744955,473458,2015-03-04,"Senate Adopted",31,0,0
+745309,505793,2016-02-24,"House Favorable Passage",9,5,0
+747453,438748,2015-04-22,"Senate Passed",32,1,0
+747453,452526,2015-05-27,"House Favorable Passage",17,0,0
+747453,462878,2015-06-25,"House Passed",93,3,0
+747453,473460,2015-04-22,"Senate Favorable Passage",9,0,0
+747553,462323,2015-06-23,"Senate Favorable Passage",10,0,0
+747553,463177,2015-06-25,"Senate Passed",32,0,0
+747654,464666,2015-06-30,"Senate Passed",32,0,0
+747654,473492,2015-06-17,"Senate Favorable Passage",8,0,0
+747654,477564,2015-10-07,"House Passed",98,0,0
+747654,480514,2015-10-07,"House Favorable Passage",18,0,0
+747845,473467,2015-06-16,"Senate Favorable Passage",11,0,0
+747941,454525,2015-05-29,"Senate Favorable Passage",11,0,0
+747941,460187,2015-06-16,"Senate Passed",33,0,0
+748656,448641,2015-05-20,"House Favorable Passage",10,0,0
+748656,462644,2015-06-24,"House Passed",93,4,0
+748708,488489,2016-01-28,"House Favorable Passage",19,0,0
+748708,531622,2016-04-13,"House Passed",84,8,0
+748708,548586,2016-05-25,"Senate Passed",34,0,0
+748708,548587,2016-05-25,"Senate Favorable Passage",12,0,0
+748924,444498,2015-05-08,"House Favorable Passage",11,0,0
+748924,445653,2015-05-12,"House Passed",92,0,0
+748924,488484,2016-01-28,"Senate Favorable Passage",9,1,0
+748924,547797,2016-05-24,"Senate Passed",24,10,0
+749178,477419,2015-09-30,"Senate Passed",32,0,0
+749178,480529,2015-09-30,"Senate Favorable Passage",8,0,0
+749178,487913,2016-01-26,"House Favorable Passage",15,0,0
+749178,505516,2016-02-23,"House Passed",97,0,0
+749327,457262,2015-06-04,"Senate Favorable Passage",11,0,0
+749327,464465,2015-06-30,"Senate Passed",32,0,0
+749327,544789,2016-05-11,"House Favorable Passage",10,1,0
+749327,548594,2016-05-25,"House Passed",97,0,0
+751728,463529,2015-06-24,"House Favorable Passage",18,0,0
+751728,464532,2015-06-30,"House Passed",92,0,0
+751728,538089,2016-04-25,"Senate Favorable Passage",10,0,0
+751728,542520,2016-05-04,"Senate Passed",34,0,0
+755536,441612,2015-04-29,"House Favorable Passage",10,0,0
+755536,446524,2015-05-13,"House Passed",93,0,0
+755536,484736,2015-10-21,"Senate Favorable Passage",11,0,0
+755536,486199,2016-01-20,"Senate Passed",33,0,0
+758134,462505,2015-06-24,"Senate Passed",23,9,0
+758134,473461,2015-06-24,"Senate Favorable Passage",8,2,0
+758164,484139,2015-12-09,"Senate Passed",33,0,0
+758164,484140,2015-12-09,"Senate Favorable Passage",12,0,0
+758164,547881,2016-05-24,"House Favorable Passage",11,0,0
+758164,548609,2016-05-25,"House Passed",96,0,0
+758189,473491,2015-06-25,"Senate Favorable Passage",13,0,0
+758189,494909,2016-02-10,"Senate Passed",32,0,0
+758214,473478,2015-05-27,"Senate Favorable Passage",11,0,0
+758214,477408,2015-09-30,"Senate Passed",32,0,0
+758214,487465,2016-01-26,"House Favorable Passage",16,0,0
+758214,548036,2016-05-24,"House Passed",97,0,0
+758239,476971,2015-09-23,"Senate Passed",33,0,0
+758239,486376,2015-09-23,"Senate Favorable Passage",11,0,0
+758932,444512,2015-05-08,"House Favorable Passage",13,0,0
+758932,448309,2015-05-19,"House Passed",96,1,0
+758932,546894,2016-05-19,"Senate Favorable Passage",8,0,0
+758932,547900,2016-05-24,"Senate Passed",34,0,0
+759332,443838,2015-05-06,"House Favorable Passage",19,0,0
+759332,449013,2015-05-20,"House Passed",90,6,0
+759332,477569,2015-10-07,"Senate Passed",32,0,0
+759332,480494,2015-09-30,"Senate Favorable Passage",8,0,0
+759383,462448,2015-06-24,"Senate Passed",32,0,0
+759383,473463,2015-06-17,"Senate Favorable Passage",8,0,0
+759383,481483,2015-11-19,"House Favorable Passage",17,0,0
+759383,530906,2016-04-12,"House Passed",93,0,0
+761959,448614,2015-05-19,"House Favorable Passage",17,0,0
+761959,452506,2015-05-27,"House Passed",93,2,0
+761959,481391,2015-11-17,"Senate Passed",30,1,0
+761959,484723,2015-11-17,"Senate Favorable Passage",12,0,0
+761959,484724,2015-10-21,"Senate Favorable Passage",10,0,0
+761971,545066,2016-05-11,"House Favorable Passage",15,0,0
+761971,546528,2016-05-18,"House Adopted",92,3,0
+762037,460470,2015-06-17,"House Favorable Passage",12,0,0
+762037,501199,2015-10-06,"House Re-referred",12,0,0
+762037,546476,2016-05-18,"House Passed",96,0,0
+762686,460002,2015-06-16,"House Favorable Passage",13,0,0
+762686,480492,2015-09-16,"House ",13,0,0
+762686,481387,2015-11-17,"House Passed",93,0,0
+762686,484983,2015-09-16,"House Re-referred",13,0,0
+762771,460150,2015-06-16,"House Favorable Passage",9,3,0
+762817,416521,2015-03-25,"House Adopted",96,0,0
+765235,441250,2015-04-29,"House Favorable Passage",9,0,0
+765235,443786,2015-05-06,"House Passed",98,0,0
+765235,457345,2015-06-04,"Senate Favorable Passage",11,0,0
+765235,461539,2015-06-18,"Senate Passed",33,0,0
+765250,538245,2016-04-26,"House Favorable Passage",18,1,0
+765329,443442,2015-05-06,"House Favorable Passage",19,0,0
+765329,453023,2015-05-27,"House Passed",94,0,0
+765329,480486,2015-10-21,"Senate Favorable Passage",9,0,0
+765329,484113,2015-12-09,"Senate Passed",33,0,0
+767051,477557,2015-10-07,"Senate Passed",32,0,0
+767051,480520,2015-09-30,"Senate Favorable Passage",9,1,0
+768559,457921,2015-06-08,"House Favorable Passage",12,0,0
+768559,477566,2015-10-07,"House Passed",98,0,0
+768559,484737,2015-12-09,"Senate Favorable Passage",10,0,0
+768559,531875,2016-04-13,"Senate Passed",34,0,0
+768650,439004,2015-04-22,"House Passed",56,43,0
+768650,439005,2015-04-22,"House Favorable Passage",9,4,0
+768650,452534,2015-05-27,"Senate Passed",23,10,0
+768650,455941,2015-06-02,"Senate Favorable Passage",6,3,0
+768672,548899,2016-05-25,"House Favorable Passage",18,1,0
+768691,463122,2015-06-26,"House Favorable Passage",14,0,0
+768691,547871,2016-05-24,"House Passed",81,16,0
+769075,462445,2015-06-24,"Senate Passed",32,0,0
+769075,473473,2015-06-17,"Senate Favorable Passage",9,0,0
+769647,462493,2015-06-24,"Senate Favorable Passage",9,0,0
+769647,463411,2015-06-25,"Senate Passed",32,0,0
+769701,445706,2015-05-12,"House Favorable Passage",15,0,0
+769701,448916,2015-05-20,"House Passed",96,0,0
+769701,462605,2015-06-24,"Senate Passed",32,0,0
+769701,473476,2015-06-17,"Senate Favorable Passage",10,0,0
+769852,484062,2015-12-09,"House Favorable Passage",16,0,0
+769852,487389,2016-01-26,"House Passed",96,0,0
+769852,547815,2016-05-24,"Senate Passed",34,0,0
+772323,445355,2015-05-12,"House Favorable Passage",14,5,0
+772323,477424,2015-09-30,"House Adopted",91,0,0
+772636,486066,2015-10-21,"Senate Favorable Passage",10,0,0
+772636,505981,2016-02-24,"House Favorable Passage",18,1,0
+772636,531358,2016-04-12,"House Adopted",80,13,0
+772665,441252,2015-04-29,"House Favorable Passage",18,0,0
+772665,446055,2015-05-13,"House Adopted",93,0,0
+772665,464869,2015-06-30,"Senate Adopted",32,0,0
+772665,473558,2015-06-17,"Senate Favorable Passage",10,0,0
+773042,463524,2015-06-17,"House Favorable Passage",9,0,0
+773042,477435,2015-09-30,"House Passed",92,0,0
+774225,481355,2015-11-17,"House Favorable Passage",21,0,0
+774225,487731,2016-01-26,"House Passed",95,1,0
+774225,546679,2016-05-18,"Senate Passed",31,0,0
+774236,462645,2015-06-24,"House Favorable Passage",10,0,0
+774236,494825,2016-02-10,"House Passed",95,0,0
+774247,460392,2015-06-17,"House Favorable Passage",16,0,0
+774247,462581,2015-06-24,"House Passed",97,1,0
+774260,480507,2015-10-13,"House Favorable Passage",11,0,0
+774260,531374,2016-04-12,"House Passed",93,0,0
+774268,458908,2015-06-11,"House Favorable Passage",11,0,0
+774268,477563,2015-10-07,"House Passed",97,1,0
+774268,540681,2016-05-02,"Senate Favorable Passage",10,0,0
+774268,547917,2016-05-24,"Senate Passed",34,0,0
+774481,457910,2015-06-08,"House Favorable Passage",11,1,0
+774481,460546,2015-06-17,"House Passed",82,16,0
+774481,548544,2016-05-25,"Senate Passed",29,5,0
+774504,462381,2015-06-24,"House ",19,0,0
+774504,484734,2015-11-19,"House Favorable Passage",28,0,0
+774504,484977,2015-09-16,"House Re-referred",11,0,0
+774504,484978,2015-06-24,"House Re-referred",19,0,0
+774541,535411,2016-04-20,"House Favorable Passage",11,0,0
+774541,546758,2016-05-18,"House Passed",96,0,0
+774554,463057,2015-06-26,"House Favorable Passage",14,0,0
+774554,498264,2016-02-16,"House Re-referred",11,0,0
+774554,535544,2016-04-20,"House Passed",94,0,0
+774554,548864,2016-05-25,"Senate Passed",34,0,0
+775359,484785,2016-01-13,"House Favorable Passage",11,0,0
+775359,488139,2016-01-27,"House Passed",96,1,0
+775359,548591,2016-05-25,"Senate Passed",33,0,0
+775368,459763,2015-06-15,"House Favorable Passage",9,4,0
+775368,464686,2015-06-30,"House Passed",62,31,0
+775368,545167,2016-05-11,"Senate Passed",24,10,0
+775410,463304,2015-06-25,"Senate Passed",21,11,0
+775410,473477,2015-06-24,"Senate Favorable Passage",9,3,0
+775410,541004,2016-05-03,"House Favorable Passage",8,3,0
+775410,542062,2016-05-04,"House Passed",50,45,0
+775410,542063,2016-05-04,"House Passed",59,34,0
+775410,542064,2016-05-04,"House Passed",62,33,0
+775410,542065,2016-05-04,"House Passed",61,34,0
+775410,542066,2016-05-04,"Senate Failed",9,25,0
+775776,484125,2015-12-03,"House Favorable Passage",11,0,0
+775776,494592,2016-02-10,"House Passed",95,0,0
+775776,548739,2016-05-25,"Senate Passed",34,0,0
+775776,548740,2016-05-25,"Senate Favorable Passage",11,0,0
+776500,535405,2016-04-20,"House Favorable Passage",9,2,0
+776532,463528,2015-06-24,"House Favorable Passage",18,0,0
+776532,464521,2015-06-30,"House Passed",92,0,0
+776532,481438,2015-11-18,"Senate Favorable Passage",11,0,0
+776532,484067,2015-12-09,"Senate Passed",33,0,0
+776588,488640,2016-01-27,"House Favorable Passage",11,0,0
+776588,494940,2016-02-10,"House Passed",95,0,0
+776640,481481,2015-11-19,"House Favorable Passage",17,0,0
+776640,484071,2015-12-09,"House Passed",92,0,0
+776640,546071,2016-05-17,"Senate Favorable Passage",9,0,0
+776640,546662,2016-05-18,"Senate Passed",31,0,0
+777353,476970,2015-09-23,"Senate Passed",33,0,0
+777353,484989,2015-09-23,"Senate Favorable Passage",11,0,0
+777353,548214,2016-05-24,"House Favorable Passage",11,1,0
+777353,548728,2016-05-25,"House Passed",96,1,0
+778074,480490,2015-10-07,"House Favorable Passage",18,0,0
+778074,484124,2015-12-01,"House Passed",92,2,0
+778087,462852,2015-06-25,"House Favorable Passage",11,0,0
+778087,477565,2015-10-07,"House Passed",97,1,0
+778288,458737,2015-06-09,"House Favorable Passage",11,2,0
+778288,460551,2015-06-17,"House Passed",96,2,0
+778315,461133,2015-06-18,"Senate Favorable Passage",10,0,0
+778315,461646,2015-06-18,"Senate Passed",33,0,0
+778315,480498,2015-10-07,"House Favorable Passage",13,0,0
+778315,484121,2015-12-09,"House Passed",92,0,0
+778361,480482,2015-10-07,"House Favorable Passage",18,0,0
+778361,484108,2015-12-01,"House Passed",94,0,0
+778361,548466,2016-05-25,"Senate Passed",34,0,0
+778379,480495,2015-10-19,"House Favorable Passage",12,0,0
+778379,484075,2015-12-01,"House Passed",94,0,0
+778379,538196,2016-04-26,"Senate Favorable Passage",12,0,0
+778379,542429,2016-05-04,"Senate Passed",34,0,0
+778988,463086,2015-06-26,"House Favorable Passage",12,0,0
+780137,463065,2015-06-26,"House Favorable Passage",11,0,0
+780137,505852,2016-02-24,"House Passed",86,7,0
+780139,481463,2015-11-19,"House Favorable Passage",17,0,0
+780139,500036,2016-02-17,"House Passed",98,0,0
+780144,548517,2016-05-25,"House Passed",96,1,0
+780144,548518,2016-05-25,"House Favorable Passage",17,0,0
+780182,541957,2016-05-04,"Senate Passed",31,3,0
+780182,541958,2016-05-04,"Senate Favorable Passage",12,0,0
+780540,460371,2015-06-16,"House Favorable Passage",13,0,0
+780540,477570,2015-10-07,"House Adopted",86,11,0
+780560,463525,2015-06-24,"House Favorable Passage",18,0,0
+780560,477580,2015-10-07,"House Adopted",98,0,0
+780560,484870,2015-12-03,"Senate Favorable Passage",8,0,0
+780560,531300,2016-04-12,"Senate Adopted",34,0,0
+780570,480506,2015-10-07,"House Favorable Passage",18,0,0
+780570,484100,2015-12-08,"House Passed",92,0,0
+780570,545136,2016-05-11,"Senate Favorable Passage",8,0,0
+780570,546369,2016-05-18,"Senate Passed",31,0,0
+780957,462989,2015-06-25,"House Favorable Passage",11,0,0
+780993,449126,2015-05-20,"House Adopted",96,0,0
+780999,464506,2015-06-30,"Senate Passed",32,0,0
+780999,473465,2015-06-25,"Senate Favorable Passage",13,0,0
+781009,480519,2015-10-14,"Senate Favorable Passage",11,0,0
+781009,563373,2016-09-28,"Senate Passed",31,0,0
+781190,546719,2016-05-18,"House Favorable Passage",12,0,0
+781927,481482,2015-11-19,"House Favorable Passage",17,0,0
+781927,484103,2015-12-09,"House Passed",92,0,0
+781927,547877,2016-05-24,"Senate Passed",34,0,0
+781944,481480,2015-11-19,"House Favorable Passage",12,1,0
+781944,484150,2015-12-09,"House Passed",84,8,0
+781944,547958,2016-05-24,"Senate Passed",30,3,0
+782109,535513,2016-04-20,"Senate Passed",34,0,0
+782109,547845,2016-05-24,"House Passed",97,0,0
+782424,480521,2015-10-22,"House Favorable Passage",9,0,0
+782424,480605,2015-10-27,"House Passed",91,0,0
+782424,529450,2016-04-07,"Senate Favorable Passage",10,0,0
+782424,532208,2016-04-13,"Senate Passed",34,0,0
+782449,481428,2015-11-18,"Senate Favorable Passage",9,0,0
+782449,484070,2015-12-09,"Senate Passed",31,2,0
+782449,548850,2016-05-25,"House Passed",84,10,0
+782449,548851,2016-05-25,"House Favorable Passage",21,0,0
+782587,484137,2015-12-03,"House Favorable Passage",9,0,0
+782587,500321,2016-02-17,"House Passed",96,2,0
+783324,534988,2016-04-19,"Senate Favorable Passage",10,1,0
+783324,535360,2016-04-20,"Senate Passed",31,2,0
+783342,462616,2015-06-24,"House Favorable Passage",11,2,0
+783342,462745,2015-06-25,"House Passed",95,0,0
+783342,484101,2015-12-09,"Senate Passed",32,1,0
+783342,484925,2015-12-01,"Senate Favorable Passage",10,0,0
+783362,460668,2015-06-17,"House Passed",96,2,0
+783362,463509,2015-06-25,"Senate Passed",31,1,0
+783362,473443,2015-06-25,"Senate Favorable Passage",10,1,0
+783362,473444,2015-06-17,"House Favorable Passage",13,0,0
+783370,484127,2015-12-03,"House Favorable Passage",12,0,0
+783370,487455,2016-01-26,"House Passed",95,0,0
+783481,484114,2015-12-03,"House Favorable Passage",9,0,0
+783481,505834,2016-02-24,"House Passed",94,0,0
+783481,541107,2016-05-03,"Senate Favorable Passage",12,0,0
+783481,546453,2016-05-18,"Senate Passed",31,0,0
+784437,463120,2015-06-26,"House Favorable Passage",14,0,0
+784437,477420,2015-09-30,"House Passed",92,0,0
+784437,505587,2016-02-24,"Senate Favorable Passage",11,0,0
+784437,531538,2016-04-12,"Senate Passed",34,0,0
+784444,542495,2016-05-05,"House Favorable Passage",17,2,0
+784451,463108,2015-06-26,"House Favorable Passage",14,0,0
+784451,477429,2015-09-30,"House Passed",92,0,0
+784451,480468,2015-10-21,"Senate Passed",31,0,0
+784451,480509,2015-10-21,"Senate Favorable Passage",11,0,0
+784453,480499,2015-10-13,"House Favorable Passage",11,0,0
+784453,484069,2015-12-08,"House Passed",92,0,0
+784453,531666,2016-04-13,"Senate Favorable Passage",12,0,0
+784453,536343,2016-04-20,"Senate Passed",34,0,0
+784455,480522,2015-10-13,"House Favorable Passage",11,0,0
+784455,504807,2016-02-23,"House Passed",97,0,0
+784456,480502,2015-10-07,"Senate Favorable Passage",9,0,0
+784456,481378,2015-11-17,"Senate Passed",31,0,0
+784843,480493,2015-10-07,"Senate Favorable Passage",10,0,0
+784843,481366,2015-11-17,"Senate Passed",31,0,0
+784843,504456,2016-02-23,"House Favorable Passage",12,1,0
+784843,506087,2016-02-24,"House Passed",92,0,0
+784846,477705,2015-10-14,"Senate Passed",32,0,0
+784846,484968,2015-10-13,"Senate Favorable Passage",9,0,0
+784846,488654,2016-01-27,"House Favorable Passage",11,0,0
+784846,506673,2016-02-24,"House Passed",94,0,0
+784881,462946,2015-06-25,"House Favorable Passage",11,0,0
+784881,488580,2016-01-27,"House Passed",96,0,0
+784889,480783,2015-11-02,"House Favorable Passage",17,1,0
+784933,544936,2016-05-11,"Senate Favorable Passage",11,0,0
+784961,500192,2016-02-17,"House Favorable Passage",17,0,0
+784961,504816,2016-02-23,"House Adopted",94,1,0
+785479,480489,2015-10-19,"House Favorable Passage",14,0,0
+785479,484123,2015-12-01,"House Passed",94,0,0
+785479,542003,2016-05-04,"Senate Favorable Passage",10,0,0
+785479,563348,2016-09-28,"Senate Passed",31,0,0
+785501,463526,2015-06-24,"House Favorable Passage",10,0,0
+785501,464627,2015-06-30,"House Passed",91,1,0
+785501,484144,2015-12-09,"Senate Passed",33,0,0
+785501,484145,2015-12-09,"Senate Favorable Passage",13,0,0
+785523,462409,2015-06-24,"House Favorable Passage",11,2,0
+785523,463010,2015-06-24,"House Adopted",81,12,0
+785523,464431,2015-06-30,"Senate Adopted",20,9,0
+785523,473553,2015-06-30,"Senate Favorable Passage",9,4,0
+785588,484104,2015-12-09,"Senate Passed",33,0,0
+785588,484971,2015-10-21,"Senate Favorable Passage",8,2,0
+785681,477578,2015-10-07,"Senate Adopted",31,1,0
+785681,480626,2015-10-07,"Senate Favorable Passage",10,0,0
+785681,484868,2015-12-08,"House Adopted",67,24,0
+785681,484869,2015-12-03,"House Favorable Passage",9,1,0
+785702,548516,2016-05-25,"House Re-referred",15,1,0
+786002,481382,2015-11-17,"Senate Passed",31,0,0
+786002,484932,2015-10-21,"Senate Favorable Passage",10,0,0
+786002,539361,2016-04-28,"House Favorable Passage",11,0,0
+786002,546512,2016-05-18,"House Passed",96,0,0
+786009,480515,2015-10-07,"Senate Favorable Passage",10,0,0
+786009,484102,2015-12-09,"Senate Passed",33,0,0
+786278,548888,2016-05-25,"House Favorable Passage",11,1,0
+786295,486052,2016-01-20,"House Favorable Passage",12,0,0
+786425,535600,2016-04-20,"House Favorable Passage",15,0,0
+786425,544991,2016-05-11,"House Passed",94,0,0
+786439,477703,2015-10-14,"Senate Passed",32,0,0
+786439,484054,2015-12-09,"House Passed",92,0,0
+786439,484980,2015-12-03,"House Favorable Passage",12,0,0
+786439,484981,2015-10-07,"Senate Favorable Passage",10,0,0
+786512,463058,2015-06-25,"House Adopted",96,0,0
+786521,500027,2016-02-17,"House Favorable Passage",13,0,0
+786521,535312,2016-04-20,"House Passed",94,0,0
+786521,548500,2016-05-25,"Senate Passed",34,0,0
+786521,548501,2016-05-25,"Senate Favorable Passage",13,0,0
+786739,548121,2016-05-24,"House Favorable Passage",8,3,0
+786739,548733,2016-05-25,"House Passed",62,35,0
+786988,488308,2016-01-27,"House Favorable Passage",8,3,0
+786988,548021,2016-05-24,"House Passed",95,2,0
+787407,546889,2016-05-18,"House Favorable Passage",18,0,0
+787407,547975,2016-05-24,"House Passed",97,0,0
+787650,480512,2015-10-07,"Senate Favorable Passage",10,0,0
+787650,481381,2015-11-17,"Senate Passed",31,0,0
+787661,487625,2016-01-26,"House Favorable Passage",16,0,0
+787661,505128,2016-02-23,"House Passed",96,1,0
+787779,539069,2016-04-27,"Senate Passed",33,0,0
+787886,545070,2016-05-11,"House Favorable Passage",9,4,0
+788050,480510,2015-10-07,"Senate Favorable Passage",10,0,0
+788050,481374,2015-11-17,"Senate Passed",31,0,0
+788422,506883,2016-02-24,"House Favorable Passage",13,0,0
+788423,481364,2015-11-17,"House Passed",62,33,0
+788423,481365,2015-11-17,"House Favorable Passage",9,4,0
+788423,488054,2016-01-27,"Senate Passed",22,8,0
+788423,488055,2016-01-27,"Senate Favorable Passage",9,3,0
+788835,476961,2015-09-23,"Senate Adopted",23,10,0
+788835,480683,2015-09-23,"Senate Favorable Passage",8,4,0
+788835,533654,2016-04-13,"House Favorable Passage",11,3,0
+788890,481177,2015-11-12,"House Favorable Passage",13,1,0
+788890,484055,2015-12-08,"House Passed",92,0,0
+788890,535694,2016-04-20,"Senate Favorable Passage",13,0,0
+788890,539033,2016-04-27,"Senate Passed",33,0,0
+789342,480784,2015-11-02,"House Favorable Passage",13,0,0
+789342,484066,2015-12-08,"House Passed",92,0,0
+789342,546824,2016-05-19,"Senate Favorable Passage",8,0,0
+789342,563337,2016-09-28,"Senate Passed",31,0,0
+789449,530987,2016-04-12,"Senate Passed",34,0,0
+789449,547843,2016-05-24,"House Passed",95,2,0
+789667,481462,2015-11-19,"House Favorable Passage",13,0,0
+789667,484119,2015-12-08,"House Passed",92,0,0
+789667,544008,2016-05-10,"Senate Favorable Passage",10,0,0
+789667,546379,2016-05-18,"Senate Passed",31,0,0
+789670,484085,2015-12-09,"House Favorable Passage",15,0,0
+789670,501361,2016-02-02,"House Re-referred",12,0,0
+789670,504702,2016-02-23,"House Passed",97,0,0
+789670,544050,2016-05-10,"Senate Favorable Passage",12,0,0
+789670,545979,2016-05-17,"Senate Passed",32,1,0
+789699,548858,2016-05-25,"Senate Passed",34,0,0
+789699,548859,2016-05-25,"Senate Favorable Passage",12,0,0
+790045,499901,2016-02-17,"House Favorable Passage",12,0,0
+790052,480513,2015-10-07,"Senate Favorable Passage",10,0,0
+790052,481399,2015-11-17,"Senate Passed",31,0,0
+790052,500678,2016-02-17,"House Favorable Passage",12,0,0
+790095,484077,2015-12-09,"House Favorable Passage",9,0,0
+790095,501170,2016-02-17,"House Passed",98,0,0
+790095,544042,2016-05-10,"Senate Favorable Passage",10,0,0
+790095,546019,2016-05-17,"Senate Passed",33,0,0
+790133,480319,2015-10-21,"Senate Passed",33,0,0
+790133,480503,2015-10-21,"Senate Favorable Passage",10,0,0
+790134,480307,2015-10-21,"Senate Passed",33,0,0
+790134,480565,2015-10-27,"House Passed",87,6,0
+790134,484948,2015-10-27,"House Favorable Passage",17,1,0
+790134,484949,2015-10-21,"Senate Favorable Passage",10,0,0
+790183,480899,2015-11-05,"House Favorable Passage",12,0,0
+790183,504974,2016-02-23,"House Passed",96,1,0
+790884,484058,2015-12-03,"House Favorable Passage",9,2,0
+790886,488312,2016-01-27,"House Favorable Passage",13,0,0
+790886,500667,2016-02-17,"House Adopted",94,0,0
+790893,488317,2016-01-27,"House Favorable Passage",13,0,0
+791082,505922,2016-02-24,"House Favorable Passage",19,0,0
+791082,546513,2016-05-18,"House Passed",92,2,0
+791098,500033,2016-02-17,"House Favorable Passage",13,0,0
+791098,530734,2016-04-12,"House Passed",94,0,0
+791144,488474,2016-01-28,"Senate Favorable Passage",9,0,0
+791144,494346,2016-02-10,"Senate Passed",32,0,0
+791144,542084,2016-05-04,"House Favorable Passage",13,0,0
+791144,546509,2016-05-18,"House Passed",95,0,0
+791145,480330,2015-10-21,"Senate Passed",23,10,0
+791145,484963,2015-10-21,"Senate Favorable Passage",9,3,0
+791147,488462,2016-01-27,"Senate Favorable Passage",11,0,0
+791147,495109,2016-02-10,"Senate Passed",32,0,0
+791147,545078,2016-05-11,"House Favorable Passage",12,0,0
+791147,546687,2016-05-18,"House Passed",96,0,0
+791148,477015,2015-09-23,"Senate Adopted",33,0,0
+791675,480508,2015-10-19,"House Favorable Passage",9,0,0
+791675,480606,2015-10-27,"House Passed",92,0,0
+791675,480607,2015-10-27,"House Passed",91,1,0
+791675,484146,2015-12-09,"Senate Passed",32,0,0
+791675,484147,2015-12-09,"Senate Passed",32,0,0
+791675,484148,2015-12-09,"Senate Passed",22,10,0
+791675,484149,2015-12-09,"Senate Favorable Passage",13,0,0
+791677,541002,2016-05-03,"House Favorable Passage",11,0,0
+791677,546505,2016-05-18,"House Passed",92,4,0
+791688,484072,2015-12-09,"House Favorable Passage",10,0,0
+791688,488093,2016-01-27,"House Passed",95,1,0
+791688,548561,2016-05-25,"Senate Passed",33,0,0
+791688,548562,2016-05-25,"Senate Favorable Passage",9,0,0
+791690,484109,2015-12-09,"House Passed",92,0,0
+791690,484110,2015-12-03,"House Favorable Passage",11,0,0
+791697,538836,2016-04-27,"House Favorable Passage",9,4,0
+791814,546514,2016-05-18,"House Favorable Passage",9,4,0
+791814,548606,2016-05-25,"House Passed",72,25,0
+791909,488311,2016-01-27,"House Favorable Passage",15,0,0
+791910,477440,2015-09-30,"House Adopted",29,0,0
+791911,477434,2015-09-30,"House Adopted",61,0,0
+791912,484079,2015-12-01,"Senate Favorable Passage",10,0,0
+791912,541049,2016-05-03,"House Favorable Passage",11,0,0
+791992,480516,2015-10-19,"House Favorable Passage",14,0,0
+791992,481416,2015-11-17,"House Passed",97,0,0
+791992,546426,2016-05-18,"Senate Passed",31,0,0
+791996,548578,2016-05-25,"House Favorable Passage",8,4,0
+791997,506827,2016-02-24,"House Favorable Passage",11,0,0
+791997,535402,2016-04-20,"House Passed",93,2,0
+791997,548824,2016-05-25,"Senate Passed",33,0,0
+792109,538215,2016-04-26,"Senate Favorable Passage",11,0,0
+792109,538997,2016-04-27,"Senate Passed",33,0,0
+792190,484783,2016-01-13,"House Favorable Passage",11,0,0
+792190,488094,2016-01-27,"House Passed",97,0,0
+792190,548520,2016-05-25,"Senate Passed",34,0,0
+792323,505596,2016-02-23,"House Favorable Passage",12,0,0
+792323,539280,2016-04-27,"House Passed",95,0,0
+792329,480463,2015-10-21,"Senate Passed",31,0,0
+792329,480488,2015-10-21,"Senate Favorable Passage",13,0,0
+792329,484130,2015-12-09,"House Passed",92,0,0
+792329,484131,2015-12-09,"House Passed",90,2,0
+792329,484132,2015-12-08,"House Favorable Passage",11,0,0
+792712,546441,2016-05-18,"House Favorable Passage",13,0,0
+792712,547885,2016-05-24,"House Passed",97,0,0
+792716,539222,2016-04-27,"Senate Passed",33,0,0
+792723,542555,2016-05-05,"Senate Favorable Passage",12,0,0
+792723,545023,2016-05-11,"Senate Passed",34,0,0
+792730,486371,2016-01-20,"House Favorable Passage",12,0,0
+792736,477675,2015-10-07,"House Adopted",86,11,0
+792736,477676,2015-06-17,"House Favorable Passage",13,0,0
+792952,488266,2016-01-27,"House Favorable Passage",12,0,0
+792964,537794,2016-04-25,"House Favorable Passage",12,0,0
+792964,544098,2016-05-10,"House Passed",84,12,0
+792968,484138,2015-12-03,"House Favorable Passage",25,1,0
+795661,535602,2016-04-20,"Senate Favorable Passage",11,0,0
+795661,546001,2016-05-17,"Senate Passed",33,0,0
+795824,546484,2016-05-18,"House Favorable Passage",12,0,0
+795824,547868,2016-05-24,"House Passed",81,16,0
+795896,484063,2015-12-09,"House Favorable Passage",10,0,0
+795896,546726,2016-05-18,"House Adopted",95,0,0
+795964,542641,2016-05-04,"Senate Passed",34,0,0
+795978,530990,2016-04-12,"Senate Passed",34,0,0
+795983,539358,2016-04-27,"Senate Favorable Passage",8,2,0
+795983,542034,2016-05-04,"Senate Passed",23,11,0
+796221,499940,2016-02-17,"House Favorable Passage",13,0,0
+796221,505769,2016-02-24,"House Passed",94,0,0
+796221,546950,2016-05-19,"Senate Favorable Passage",11,0,0
+796221,547811,2016-05-24,"Senate Passed",34,0,0
+796226,486300,2016-01-20,"House Favorable Passage",11,0,0
+796226,488393,2016-01-27,"House Passed",96,0,0
+796248,548900,2016-05-25,"House Passed",78,17,0
+796255,500485,2016-02-17,"House Favorable Passage",12,0,0
+796533,531759,2016-04-13,"House Favorable Passage",12,1,0
+796533,546502,2016-05-18,"House Passed",87,6,0
+796545,488045,2016-01-27,"House Favorable Passage",15,0,0
+796545,505874,2016-02-24,"House Passed",93,0,0
+796545,548467,2016-05-25,"Senate Passed",34,0,0
+796545,548468,2016-05-25,"Senate Favorable Passage",11,0,0
+796824,548537,2016-05-25,"House Passed",96,0,0
+796824,548538,2016-05-25,"House Favorable Passage",13,0,0
+796837,531719,2016-04-13,"House Favorable Passage",30,0,0
+796837,544781,2016-05-11,"House Passed",95,0,0
+796837,548533,2016-05-25,"Senate Passed",34,0,0
+796837,548534,2016-05-25,"Senate Favorable Passage",13,0,0
+796901,484064,2015-12-09,"Senate Favorable Passage",10,0,0
+796901,486237,2016-01-20,"Senate Passed",33,0,0
+796901,530838,2016-04-12,"House Favorable Passage",12,0,0
+796901,538752,2016-04-27,"House Passed",95,0,0
+797060,545055,2016-05-11,"Senate Passed",34,0,0
+797060,548663,2016-05-25,"House Passed",95,0,0
+797320,488082,2016-01-27,"House Favorable Passage",11,2,0
+797320,546506,2016-05-18,"House Adopted",71,22,0
+797346,488303,2016-01-27,"House Favorable Passage",13,0,0
+797346,501333,2016-02-17,"House Adopted",94,1,0
+797408,481362,2015-11-17,"House Adopted",65,29,0
+797425,539387,2016-04-27,"Senate Favorable Passage",11,0,0
+797425,542523,2016-05-04,"Senate Passed",34,0,0
+797883,548831,2016-05-25,"Senate Passed",34,0,0
+797883,548832,2016-05-25,"Senate Favorable Passage",11,0,0
+798407,488125,2016-01-27,"House Favorable Passage",11,0,0
+798407,494450,2016-02-10,"House Passed",95,0,0
+798417,501355,2016-02-17,"House Favorable Passage",12,0,0
+798950,535388,2016-04-20,"House Favorable Passage",20,0,0
+798956,547862,2016-05-24,"House Favorable Passage",12,0,0
+799092,481963,2015-12-08,"House Adopted",92,0,0
+799160,535381,2016-04-20,"Senate Favorable Passage",13,0,0
+799160,539151,2016-04-27,"Senate Passed",33,0,0
+799160,548841,2016-05-25,"House Favorable Passage",17,0,0
+799161,535400,2016-04-20,"House Favorable Passage",15,1,0
+799161,542020,2016-05-04,"House Passed",94,1,0
+799161,542021,2016-05-04,"House Passed",61,34,0
+799163,531894,2016-04-13,"House Favorable Passage",15,0,0
+799163,544137,2016-05-10,"House Passed",95,0,0
+800484,548574,2016-05-25,"Senate Passed",24,10,0
+800484,548575,2016-05-25,"Senate Favorable Passage",9,3,0
+800485,498609,2016-02-16,"House Favorable Passage",9,0,0
+800485,506065,2016-02-24,"House Passed",81,12,0
+800485,506066,2016-02-24,"House Passed",62,31,0
+800485,506067,2016-02-24,"House Passed",62,31,0
+800487,531782,2016-04-13,"House Favorable Passage",13,0,0
+800487,535300,2016-04-20,"House Passed",95,0,0
+800487,548582,2016-05-25,"Senate Passed",34,0,0
+800491,505790,2016-02-24,"House Favorable Passage",18,0,0
+801153,531777,2016-04-13,"House Favorable Passage",11,5,0
+801870,531833,2016-04-13,"House Favorable Passage",11,5,0
+801886,546507,2016-05-18,"House Passed",94,1,0
+802512,546061,2016-05-17,"Senate Passed",33,0,0
+809663,545061,2016-05-12,"House Favorable Passage",13,0,0
+809663,546533,2016-05-18,"House Passed",96,0,0
+813098,504101,2016-02-22,"House Favorable Passage",11,4,0
+813098,532355,2016-04-13,"House Passed",72,22,0
+813156,506776,2016-02-24,"House Favorable Passage",12,0,0
+813156,542422,2016-05-04,"House Passed",87,5,0
+813156,548527,2016-05-25,"Senate Passed",34,0,0
+819389,488089,2016-01-27,"Senate Passed",30,0,0
+819389,488090,2016-01-27,"Senate Favorable Passage",11,0,0
+819389,493064,2016-02-09,"House Favorable Passage",25,0,0
+819389,494190,2016-02-10,"House Passed",95,0,0
+820068,537758,2016-04-25,"House Favorable Passage",11,0,0
+820068,538727,2016-04-27,"House Adopted",94,1,0
+820149,488294,2016-01-27,"House Favorable Passage",15,0,0
+820149,500990,2016-02-17,"House Adopted",94,1,0
+826720,504540,2016-02-23,"Senate Favorable Passage",8,0,0
+826720,504680,2016-02-23,"Senate Passed",32,1,0
+826720,538920,2016-04-27,"House Passed",94,1,0
+827653,531795,2016-04-13,"House Favorable Passage",11,1,0
+827653,546588,2016-05-18,"House Passed",92,4,0
+827682,500389,2016-02-17,"House Favorable Passage",12,0,0
+827710,506146,2016-02-24,"House Favorable Passage",13,0,0
+827710,532601,2016-04-13,"House Passed",92,0,0
+827710,546473,2016-05-18,"Senate Favorable Passage",9,0,0
+827710,547820,2016-05-24,"Senate Passed",34,0,0
+827738,542038,2016-05-04,"House Favorable Passage",13,0,0
+827738,547880,2016-05-24,"House Passed",96,0,0
+827767,538673,2016-04-27,"House Favorable Passage",11,0,0
+827767,546873,2016-05-18,"House Passed",95,1,0
+827794,500163,2016-02-17,"House Passed",98,0,0
+827794,500164,2016-02-17,"House Favorable Passage",19,0,0
+827794,546162,2016-05-17,"Senate Passed",33,0,0
+827824,487830,2016-01-26,"House Adopted",32,0,0
+829443,542838,2016-05-04,"House Favorable Passage",19,0,0
+829443,546540,2016-05-18,"House Passed",95,1,0
+832470,539322,2016-04-28,"House Favorable Passage",10,0,0
+832470,544088,2016-05-10,"House Passed",96,0,0
+832537,542048,2016-05-04,"House Favorable Passage",13,0,0
+832537,547889,2016-05-24,"House Passed",97,0,0
+832962,548652,2016-05-25,"House Passed",76,21,0
+836034,535391,2016-04-20,"House Favorable Passage",11,0,0
+836034,547869,2016-05-24,"House Passed",93,3,0
+836121,542113,2016-05-04,"House Favorable Passage",13,0,0
+836121,544728,2016-05-11,"House Passed",94,0,0
+839595,545957,2016-05-17,"Senate Favorable Passage",8,0,0
+839595,546591,2016-05-18,"Senate Passed",31,0,0
+842380,541931,2016-05-04,"House Favorable Passage",12,0,0
+842380,546517,2016-05-18,"House Passed",95,0,0
+842412,545079,2016-05-11,"House Favorable Passage",13,0,0
+842412,548593,2016-05-25,"House Passed",97,0,0
+842441,545053,2016-05-12,"House Favorable Passage",13,0,0
+842441,546436,2016-05-18,"House Passed",71,24,0
+842501,537812,2016-04-25,"House Favorable Passage",11,0,0
+842501,546912,2016-05-18,"House Passed",95,0,0
+848627,541007,2016-05-03,"House Favorable Passage",19,0,0
+848627,542367,2016-05-04,"House Passed",95,0,0
+848627,542368,2016-05-04,"House Passed",62,33,0
+848627,548713,2016-05-25,"Senate Passed",33,1,0
+848859,538661,2016-04-27,"House Favorable Passage",11,0,0
+848859,544723,2016-05-11,"House Passed",94,1,0
+850473,546474,2016-05-18,"House Favorable Passage",17,0,0
+850473,548597,2016-05-25,"House Passed",92,5,0
+850632,500057,2016-02-17,"House Adopted",95,0,0
+853824,542056,2016-05-04,"House Favorable Passage",12,0,0
+853824,544767,2016-05-11,"House Passed",93,0,0
+854630,505455,2016-02-23,"Senate Adopted",22,0,0
+854720,548729,2016-05-25,"House Favorable Passage",28,2,0
+854762,504996,2016-02-23,"Senate Adopted",31,0,0
+854968,504681,2016-02-23,"Senate Adopted",31,2,0
+854968,508338,2016-02-24,"House Adopted",86,8,0
+855268,546468,2016-05-18,"House Favorable Passage",9,1,0
+856910,548868,2016-05-25,"Senate Passed",34,0,0
+856955,547968,2016-05-24,"Senate Passed",34,0,0
+857308,542479,2016-05-04,"House Favorable Passage",13,4,0
+858864,544747,2016-05-11,"House Passed",95,0,0
+858864,544748,2016-05-11,"House Favorable Passage",32,0,0
+858864,548704,2016-05-25,"Senate Passed",34,0,0
+858864,548705,2016-05-25,"Senate Favorable Passage",13,0,0
+860722,546467,2016-05-18,"Senate Favorable Passage",9,0,0
+860722,547962,2016-05-24,"Senate Passed",34,0,0
+862685,544949,2016-05-11,"Senate Passed",33,0,0
+862685,548608,2016-05-25,"House Passed",97,0,0
+864000,545122,2016-05-11,"Senate Passed",24,10,0
+864000,545123,2016-05-11,"Senate Favorable Passage",9,3,0
+864000,548697,2016-05-25,"House Passed",64,32,0
+864000,551895,2016-05-25,"House Favorable Passage",9,3,0
+865195,538679,2016-04-27,"House Favorable Passage",19,0,0
+865195,546536,2016-05-18,"House Passed",95,0,0
+866871,548873,2016-05-25,"House Passed",92,5,0
+866871,548874,2016-05-25,"House Favorable Passage",9,2,0
+868317,542701,2016-05-04,"Senate Passed",34,0,0
+868317,542702,2016-05-04,"Senate Favorable Passage",12,0,0
+869900,542841,2016-05-05,"House Favorable Passage",18,0,0
+869900,544791,2016-05-11,"House Passed",95,0,0
+871315,544765,2016-05-11,"House Passed",95,0,0
+871315,544766,2016-05-11,"House Favorable Passage",11,1,0
+871315,548464,2016-05-25,"Senate Passed",34,0,0
+871581,547174,2016-05-19,"Senate Favorable Passage",11,0,0
+871581,547907,2016-05-24,"Senate Passed",34,0,0
+872040,531423,2016-04-12,"House Adopted",62,0,0
+872308,534526,2016-04-19,"Senate Favorable Passage",12,0,0
+872308,535445,2016-04-20,"Senate Passed",33,1,0
+872308,541986,2016-05-04,"House Passed",94,1,0
+872308,541987,2016-05-04,"House Favorable Passage",30,0,0
+872329,546176,2016-05-17,"Senate Passed",33,0,0
+872579,541008,2016-05-03,"House Favorable Passage",19,0,0
+872579,546435,2016-05-18,"House Adopted",93,1,0
+872922,546222,2016-05-17,"Senate Passed",33,0,0
+872937,543617,2016-05-09,"House Favorable Passage",8,0,0
+872937,544081,2016-05-10,"House Passed",71,25,0
+872937,548494,2016-05-25,"Senate Passed",19,15,0
+872937,548495,2016-05-25,"Senate Favorable Passage",7,5,0
+872980,548580,2016-05-25,"House Passed",92,4,0
+872980,548581,2016-05-25,"House Favorable Passage",12,1,0
+873690,539045,2016-04-27,"Senate Passed",33,0,0
+873690,539046,2016-04-27,"Senate Passed",33,0,0
+873690,539047,2016-04-27,"Senate Favorable Passage",11,0,0
+873690,544762,2016-05-11,"House Passed",94,1,0
+873690,544763,2016-05-11,"House Favorable Passage",30,0,0
+873788,535270,2016-04-20,"House Adopted",95,0,0
+874181,546469,2016-05-18,"House Favorable Passage",18,0,0
+874188,548588,2016-05-25,"House Passed",91,6,0
+874188,548589,2016-05-25,"House Favorable Passage",14,1,0
+874203,548869,2016-05-25,"Senate Passed",34,0,0
+874609,539255,2016-04-27,"House Adopted",94,0,0
+875443,544977,2016-05-11,"Senate Passed",34,0,0
+875443,548610,2016-05-25,"House Passed",96,0,0
+876209,542458,2016-05-04,"Senate Adopted",33,1,0
+876209,547113,2016-05-18,"House Favorable Passage",10,0,0
+876209,547982,2016-05-24,"House Adopted",94,3,0
+877554,563343,2016-09-28,"Senate Passed",23,8,0
+877554,563344,2016-09-28,"Senate Favorable Passage",8,3,0
+878081,548555,2016-05-25,"Senate Passed",22,11,0
+878177,563338,2016-09-28,"Senate Passed",30,1,0
+878177,563339,2016-09-28,"Senate Favorable Passage",11,0,0
+879456,548001,2016-05-24,"House Adopted",97,0,0
+884329,558835,2016-08-02,"House Adopted",57,0,0
+884335,558837,2016-08-02,"House Adopted",57,0,0
+884348,558859,2016-08-02,"House Adopted",88,0,0

@@ -1,0 +1,1165 @@
+bill_id,roll_call_id,date,description,yea,nay,nv
+216375,103932,2011-01-03,"House - Resolution Adoption",94,0,0
+216376,104042,2011-01-03,"House - Resolution Adoption",94,0,0
+216377,104050,2011-01-03,"House - Resolution Adoption",94,0,0
+216378,103815,2011-01-03,"House - Resolution Adoption",93,0,0
+216379,103855,2011-01-03,"House - Resolution Adoption",94,0,0
+216380,103856,2011-01-03,"House - Resolution Adoption",94,0,0
+216381,103865,2011-01-03,"House - Resolution Adoption",94,0,0
+216382,103874,2011-01-03,"House - Resolution Adoption",94,0,0
+216383,103890,2011-01-03,"House - Resolution Adoption",94,0,0
+216384,103905,2011-01-03,"House - Resolution Adoption",94,0,0
+216385,103910,2011-01-03,"House - Resolution Adoption",94,0,0
+226826,36478,2011-02-01,"House - Amendment",36,60,0
+226826,36479,2011-02-01,"House - Amendment",38,58,0
+226826,36480,2011-02-01,"House - Amendment",38,58,0
+226826,36481,2011-02-01,"House - Amendment",38,58,0
+226826,36482,2011-02-01,"House - Amendment",38,57,0
+226826,36483,2011-02-01,"House - Amendment",38,58,0
+226826,36484,2011-02-01,"House - Amendment",38,58,0
+226826,36485,2011-02-01,"House - Amendment",40,56,0
+226826,36486,2011-02-01,"House - Third Consideration",59,37,0
+226826,39396,2011-02-16,"Senate - Motion to Table Amendment",23,10,0
+226826,39397,2011-02-16,"Senate - Motion to Table Amendment",23,10,0
+226826,39398,2011-02-16,"Senate - Third Consideration",31,2,0
+226826,39399,2011-02-16,"House - Senate Amendments",60,35,0
+226827,40843,2011-02-23,"House - Amendment",39,58,0
+226827,40844,2011-02-23,"House - Third Consideration",97,0,0
+226830,57779,2011-03-29,"House - Amendment",96,0,0
+226830,57780,2011-03-29,"House - Third Consideration",95,1,0
+226830,90220,2011-06-07,"Senate - Third Consideration",33,0,0
+226830,103981,2011-06-08,"House - Senate Amendments",95,2,0
+226834,31553,2011-02-08,"House - Third Consideration",98,0,0
+226834,55448,2011-03-22,"Senate - Third Consideration",33,0,0
+226839,95308,2011-06-28,"House - Third Consideration",69,29,0
+226839,147436,2012-01-31,"Senate - Third Consideration",27,5,0
+226839,150944,2012-02-08,"House - Senate Amendments",67,30,0
+226843,105839,2011-12-14,"House - Motion to Table Amendment",54,40,0
+226843,105840,2011-12-14,"House - Third Consideration",82,12,0
+226843,178821,2012-03-28,"Senate - Third Consideration",33,0,0
+226843,187015,2012-04-18,"House - Senate Amendments",82,8,0
+226844,65405,2011-04-12,"House - Resolution Adoption",70,26,0
+226844,95360,2011-06-28,"Senate - Resolution Adoption",32,0,0
+226844,95361,2011-06-28,"House - Senate Amendments",69,27,0
+226847,103938,2011-01-11,"House - Resolution Adoption",56,0,0
+226848,103970,2011-01-11,"House - Resolution Adoption",57,0,0
+226849,103982,2011-01-11,"House - Resolution Adoption",58,0,0
+226850,150151,2011-01-11,"House - Resolution Adoption",94,2,0
+226851,104010,2011-01-03,"Senate - Resolution Adoption",32,0,0
+226853,104019,2011-01-11,"Senate - Resolution Adoption",18,0,0
+226854,104030,2011-01-11,"Senate - Resolution Adoption",28,0,0
+226855,104037,2011-01-11,"Senate - Resolution Adoption",30,0,0
+228700,52099,2011-03-16,"House - Third Consideration",96,0,0
+228700,153737,2012-02-14,"Senate - Third Consideration",33,0,0
+228700,154775,2012-02-15,"House - Senate Amendments",92,0,0
+228701,55421,2011-03-22,"House - Amendment",39,58,0
+228701,55422,2011-03-22,"House - Amendment",37,59,0
+228701,55423,2011-03-22,"House - Third Consideration",65,32,0
+228701,67011,2011-04-13,"House - Senate Amendments",75,22,0
+228701,67012,2011-04-13,"Senate - Third Consideration",26,6,0
+228702,42455,2011-03-01,"House - Third Consideration",96,0,0
+228702,90242,2011-06-07,"Senate - Third Consideration",33,0,0
+230749,104053,2011-01-03,"Senate - Resolution Adoption",32,0,0
+234089,105386,2011-12-13,"House - Third Consideration",92,0,0
+234090,93318,2011-06-21,"House - Third Consideration",89,7,0
+234092,213736,2012-11-28,"House - Third Consideration",93,0,0
+234092,215412,2012-12-13,"Senate - Third Consideration",33,0,0
+234094,31558,2011-02-02,"House - Amendment",37,59,0
+234094,31559,2011-02-02,"House - Third Consideration - Emergency Clause",84,12,0
+234094,31560,2011-02-02,"House - Third Consideration",94,2,0
+234094,43824,2011-03-09,"Senate - Third Consideration - Emergency Clause",33,0,0
+234094,43825,2011-03-09,"Senate - Third Consideration",33,0,0
+234095,37363,2011-02-16,"House - Amendment",36,59,0
+234095,37364,2011-02-16,"House - Amendment",39,55,0
+234095,37365,2011-02-16,"House - Amendment",37,58,0
+234095,37366,2011-02-16,"House - Third Consideration",59,36,0
+234095,52650,2011-03-16,"House - Senate Amendments",59,37,0
+234095,52651,2011-03-15,"Senate - Third Consideration",25,8,0
+234097,91809,2011-06-14,"House - Third Consideration",93,2,0
+234097,147995,2012-02-01,"Senate - Third Consideration",26,3,0
+234097,152277,2012-02-08,"House - Senate Amendments",97,0,0
+234101,43839,2011-03-09,"House - Third Consideration - Emergency Clause",85,12,0
+234101,43840,2011-03-09,"House - Third Consideration",92,5,0
+234101,43956,2011-03-09,"House - Amendment",37,60,0
+234101,54961,2011-03-22,"Senate - Third Consideration - Emergency Clause",28,5,0
+234101,54962,2011-03-22,"Senate - Third Consideration",32,1,0
+234101,61732,2011-04-05,"House - Senate Amendments - Emergency Clause",0,97,0
+246796,78601,2011-05-11,"House - Motion to Table Amendment",58,38,0
+246796,78602,2011-05-11,"House - Motion to Table Amendment",62,34,0
+246796,78603,2011-05-11,"House - Amendment",23,72,0
+246796,78604,2011-05-11,"House - Amendment",32,64,0
+246796,78605,2011-05-11,"House - Motion to Table Amendment",61,34,0
+246796,78606,2011-05-11,"House - Motion to Table Amendment",64,32,0
+246796,78607,2011-05-11,"House - Third Consideration",56,40,0
+246808,88360,2011-06-01,"House - Third Consideration",85,12,0
+246808,213738,2012-11-27,"Senate - Third Consideration",33,0,0
+246808,213888,2012-11-29,"House - Senate Amendments",83,3,0
+246857,78567,2011-05-11,"House - Third Consideration",78,18,0
+246857,92044,2011-06-15,"Senate - Third Consideration",24,9,0
+247053,198361,2012-05-22,"House - Third Consideration",95,3,0
+247053,215383,2012-12-12,"Senate - Third Consideration",33,0,0
+247053,215457,2012-12-13,"House - Senate Amendments",86,3,0
+247113,83579,2011-05-17,"House - Third Consideration",68,25,0
+247113,105648,2011-12-14,"Senate - Third Consideration",26,7,0
+247113,144639,2012-01-24,"House - Senate Amendments",74,20,0
+247209,36400,2011-02-15,"House - Third Consideration - Emergency Clause",88,8,0
+247209,36401,2011-02-15,"House - Third Consideration",89,7,0
+247209,41755,2011-02-23,"Senate - Third Consideration - Emergency Clause",31,1,0
+247209,41756,2011-02-23,"Senate - Third Consideration",32,0,0
+247209,43986,2011-03-02,"House - Senate Amendments - Emergency Clause",89,6,0
+247209,43987,2011-03-02,"House - Senate Amendments",93,2,0
+247210,150109,2011-02-08,"House - Resolution Adoption",94,3,0
+251561,103891,2011-06-22,"House - Resolution Adoption",59,39,0
+251561,103892,2011-06-15,"Senate - Resolution Adoption",24,9,0
+251884,104063,2011-02-01,"Senate - Resolution Adoption",20,0,0
+251888,104070,2011-02-01,"Senate - Resolution Adoption",31,0,0
+252096,103906,2011-03-15,"House - Resolution Adoption",97,0,0
+252096,103907,2011-02-23,"Senate - Resolution Adoption",33,0,0
+252150,104077,2011-02-01,"Senate - Resolution Adoption",31,0,0
+252320,104084,2011-02-01,"Senate - Resolution Adoption",21,0,0
+252856,104090,2011-02-02,"House - Resolution Adoption",58,0,0
+253331,41848,2011-02-23,"Senate - Third Consideration",33,0,0
+253331,55455,2011-03-23,"House - Third Consideration",96,0,0
+253331,104170,2011-03-30,"Senate - House Amendments",33,0,0
+253338,103679,2011-11-30,"Senate - Third Consideration",31,0,0
+253338,213727,2012-11-27,"House - Third Consideration",93,0,0
+253361,68440,2011-04-13,"Senate - Third Consideration",25,7,0
+253361,92092,2011-06-15,"House - Motion to Table Amendment",61,34,0
+253361,92093,2011-06-15,"House - Amendment",37,58,0
+253361,92094,2011-06-15,"House - Motion to Table Amendment",62,33,0
+253361,92095,2011-06-15,"House - Motion to Table Amendment",61,34,0
+253361,92096,2011-06-15,"House - Motion to Table Amendment",61,34,0
+253361,92097,2011-06-15,"House - Third Consideration",56,39,0
+253361,92098,2011-06-15,"Senate - House Amendments",25,7,0
+253364,95281,2011-06-28,"House - Motion to Table Amendment",59,39,0
+253364,95282,2011-06-28,"House - Third Consideration",62,36,0
+253364,105642,2011-12-14,"Senate - Third Consideration",23,10,0
+253385,52042,2011-03-16,"House - Third Consideration",95,1,0
+253385,95233,2011-06-28,"Senate - Third Consideration",33,0,0
+253385,95234,2011-06-28,"House - Senate Amendments",97,1,0
+253428,95253,2011-06-28,"House - Motion to Table Amendment",59,39,0
+253428,95254,2011-06-28,"House - Third Consideration",65,33,0
+253428,98708,2011-07-13,"Senate - Third Consideration",22,7,0
+253461,44160,2011-03-09,"Senate - Third Consideration",23,10,0
+253500,202418,2012-06-13,"Senate - Third Consideration",32,0,0
+253512,144411,2012-01-18,"Senate - Third Consideration",32,0,0
+253512,215387,2012-12-12,"House - Amendment",93,0,0
+253512,215388,2012-12-12,"House - Third Consideration",93,0,0
+253572,51100,2011-03-15,"House - Amendment",26,71,0
+253572,51101,2011-03-15,"House - Amendment",39,58,0
+253572,51102,2011-03-15,"House - Amendment",35,62,0
+253572,51103,2011-03-15,"House - Motion to Table Amendment",55,42,0
+253572,51104,2011-03-15,"House - Third Consideration",64,33,0
+253572,102519,2011-09-27,"Senate - Third Consideration",23,8,0
+253572,102928,2011-10-21,"House - Senate Amendments",62,29,0
+253619,65956,2011-04-13,"Senate - Third Consideration",30,2,0
+253619,65957,2011-04-13,"Senate - Third Consideration",32,0,0
+253638,66567,2011-04-13,"Senate - Third Consideration",31,0,0
+253638,102539,2011-09-27,"Senate - House Amendments",31,0,0
+253638,102540,2011-09-27,"House - Third Consideration",95,0,0
+253641,105750,2011-12-13,"Senate - Third Consideration",33,0,0
+253641,201949,2012-06-13,"Senate - House Amendments",30,2,0
+253641,201950,2012-06-12,"House - Third Consideration",85,9,0
+253644,63599,2011-04-05,"House - Third Consideration",97,0,0
+253644,91862,2011-06-14,"House - Senate Amendments",95,0,0
+253644,91863,2011-06-08,"Senate - Third Consideration",33,0,0
+253685,42697,2011-03-02,"Senate - Motion to Table Amendment",15,18,0
+253685,42698,2011-03-02,"Senate - Amendment",19,14,0
+253685,42699,2011-03-02,"Senate - Third Consideration",17,16,0
+253685,58588,2011-03-30,"House - Amendment",58,39,0
+253685,58589,2011-03-30,"House - Third Consideration",53,44,0
+253685,58918,2011-03-30,"Senate - House Amendments",17,16,0
+253718,41804,2011-02-23,"Senate - Third Consideration",32,1,0
+253718,43248,2011-03-02,"Senate - House Amendments",31,1,0
+253718,43974,2011-03-02,"House - Amendment",39,56,0
+253718,43975,2011-03-02,"House - Amendment",38,57,0
+253718,43976,2011-03-02,"House - Third Consideration",81,14,0
+253773,44394,2011-03-09,"Senate - Third Consideration",33,0,0
+253773,90430,2011-06-07,"House - Third Consideration",95,0,0
+253773,93653,2011-06-15,"Senate - House Amendments",33,0,0
+253774,55765,2011-03-22,"House - Third Consideration",97,0,0
+253774,143338,2012-01-18,"Senate - Third Consideration",32,0,0
+253774,145972,2012-01-25,"House - Senate Amendments",95,0,0
+255255,76438,2011-05-04,"House - Amendment",79,19,0
+255255,76439,2011-05-04,"House - Amendment",36,61,0
+255255,76440,2011-05-04,"House - Amendment",38,58,0
+255255,76441,2011-05-04,"House - Motion to Table Amendment",57,39,0
+255255,76442,2011-05-04,"House - Motion to Table Amendment",58,39,0
+255255,76443,2011-05-04,"House - Motion to Table Amendment",59,39,0
+255255,76444,2011-05-04,"House - Third Consideration",96,2,0
+255255,93867,2011-06-22,"Senate - Third Consideration",30,3,0
+255255,94264,2011-06-23,"House - Senate Amendments",87,9,0
+255644,65986,2011-04-13,"Senate - Third Consideration",27,5,0
+264649,43868,2011-03-09,"House - Third Consideration - Emergency Clause",92,5,0
+264649,43869,2011-03-09,"House - Third Consideration",97,0,0
+264649,80343,2011-05-17,"Senate - Third Consideration - Emergency Clause",29,1,0
+264649,80344,2011-05-17,"Senate - Third Consideration",30,0,0
+264649,80972,2011-05-18,"House - Senate Amendments - Emergency Clause",90,2,0
+264649,80973,2011-05-18,"House - Senate Amendments",93,0,0
+264675,39245,2011-02-16,"House - Third Consideration",95,0,0
+264675,42673,2011-03-02,"Senate - Third Consideration",33,0,0
+265005,61796,2011-04-05,"House - Amendment",97,0,0
+265005,61797,2011-04-05,"House - Third Consideration",97,0,0
+265005,93786,2011-06-22,"Senate - Third Consideration",33,0,0
+268034,84604,2011-05-24,"House - Third Consideration",94,1,0
+268034,105619,2011-12-14,"Senate - Third Consideration",33,0,0
+268034,105620,2011-12-14,"House - Senate Amendments",90,0,0
+268219,102351,2011-09-20,"House - Third Consideration",93,4,0
+268343,186830,2012-04-18,"Senate - Third Consideration",33,0,0
+268343,213794,2012-11-28,"House - Amendment",93,0,0
+268343,213795,2012-11-28,"House - Motion to Table Amendment",56,36,0
+268343,213796,2012-11-28,"House - Amendment",90,3,0
+268343,213797,2012-11-28,"House - Third Consideration",91,2,0
+268343,215296,2012-12-05,"Senate - House Amendments",10,23,0
+268343,215455,2012-12-13,"House - Conference Committee Report",89,0,0
+268343,215456,2012-12-12,"Senate - Conference Committee Report",33,0,0
+268419,51943,2011-03-16,"Senate - Motion to Table Amendment",23,9,0
+268419,51944,2011-03-16,"Senate - Third Consideration",29,3,0
+268419,83346,2011-05-24,"House - Third Consideration",79,16,0
+268419,90267,2011-06-07,"Senate - House Amendments",30,3,0
+268524,76446,2011-05-04,"House - Motion to Table Amendment",54,42,0
+268524,76447,2011-05-04,"House - Motion to Table Amendment",57,39,0
+268524,76448,2011-05-04,"House - Motion to Table Amendment",57,41,0
+268524,76449,2011-05-04,"House - Motion to Table Amendment",58,39,0
+268524,76450,2011-05-04,"House - Third Consideration",66,32,0
+268524,85157,2011-05-25,"Senate - Third Consideration",28,4,0
+268524,85158,2011-05-25,"House - Senate Amendments",68,27,0
+268531,62525,2011-04-06,"Senate - Third Consideration",24,8,0
+272418,103942,2011-04-06,"House - Resolution Adoption",89,6,0
+272729,103943,2011-06-15,"House - Resolution Adoption",88,6,0
+272729,103944,2011-03-30,"Senate - Resolution Adoption",31,2,0
+273186,67528,2011-04-13,"House - Resolution Adoption",97,0,0
+275751,97820,2011-06-28,"House - Amendment",98,0,0
+275751,97821,2011-06-28,"House - Third Consideration",88,10,0
+275751,193046,2012-05-03,"Senate - Motion to Table Amendment",22,11,0
+275751,193047,2012-05-03,"Senate - Motion to Table Amendment",22,11,0
+275751,193048,2012-05-03,"Senate - Motion to Table Amendment",23,10,0
+275751,193049,2012-05-03,"Senate - Third Consideration",25,8,0
+275751,196120,2012-05-15,"House - Senate Amendments",84,12,0
+275824,43842,2011-03-09,"Senate - Third Consideration",33,0,0
+275824,62702,2011-04-06,"House - Third Consideration",95,0,0
+277408,95403,2011-06-28,"Senate - Third Consideration",32,1,0
+277408,154244,2012-02-14,"House - Amendment",96,0,0
+277408,154245,2012-02-14,"House - Third Consideration",92,3,0
+277408,154580,2012-02-15,"Senate - House Amendments",32,1,0
+277603,51109,2011-03-15,"Senate - Third Consideration",33,0,0
+277603,59518,2011-03-29,"House - Third Consideration",96,0,0
+277823,54852,2011-03-22,"Senate - Motion to Table Amendment",23,10,0
+277823,54853,2011-03-22,"Senate - Third Consideration",25,8,0
+288593,195186,2012-05-08,"House - Third Consideration",78,17,0
+288605,41173,2011-02-23,"Senate - Resolution Adoption",33,0,0
+288624,44120,2011-03-10,"House - Motion to Table Amendment",59,36,0
+288624,44121,2011-03-10,"House - Amendment",38,57,0
+288624,44122,2011-03-10,"House - Amendment",37,58,0
+288624,44123,2011-03-10,"House - Amendment",37,58,0
+288624,44124,2011-03-10,"House - Third Consideration",95,0,0
+288624,55394,2011-03-23,"Senate - Motion to Table Amendment",23,10,0
+288624,55395,2011-03-23,"Senate - Motion to Table Amendment",23,10,0
+288624,55396,2011-03-23,"Senate - Motion to Table Amendment",23,10,0
+288624,55397,2011-03-23,"Senate - Motion to Table Amendment",23,10,0
+288624,55398,2011-03-23,"Senate - Third Consideration",33,0,0
+288624,55399,2011-03-23,"House - Senate Amendments",56,38,0
+288670,41174,2011-02-23,"Senate - Resolution Adoption",33,0,0
+288692,41175,2011-02-23,"House - Resolution Adoption",97,0,0
+288771,93815,2011-06-21,"House - Third Consideration",84,12,0
+288771,143735,2012-01-18,"Senate - Motion to Table Amendment",22,10,0
+288771,143736,2012-01-18,"Senate - Third Consideration",31,1,0
+288771,146578,2012-01-25,"House - Senate Amendments",91,4,0
+288873,64105,2011-04-06,"Senate - Third Consideration - Emergency Clause",31,1,0
+288873,64106,2011-04-06,"Senate - Third Consideration",31,1,0
+288916,155015,2012-02-15,"House - Third Consideration",82,11,0
+288940,64902,2011-04-06,"Senate - Third Consideration",32,0,0
+288940,93637,2011-06-21,"House - Third Consideration",93,3,0
+289186,79174,2011-05-10,"House - Third Consideration",96,0,0
+289186,84100,2011-05-25,"Senate - Third Consideration",32,0,0
+289186,84101,2011-05-25,"Senate - Third Consideration - Emergency Clause",32,0,0
+289186,84102,2011-05-25,"Senate - Third Consideration",33,0,0
+289186,86610,2011-06-01,"House - Senate Amendments - Emergency Clause",96,1,0
+289186,86611,2011-06-01,"House - Senate Amendments",97,0,0
+289377,94293,2011-06-22,"House - Third Consideration",98,0,0
+289927,55858,2011-03-23,"House - Third Consideration",96,0,0
+289927,62578,2011-04-06,"Senate - Third Consideration",32,0,0
+289949,55867,2011-03-23,"House - Third Consideration",96,0,0
+289949,62609,2011-04-06,"Senate - Motion to Table Amendment",27,5,0
+289949,62610,2011-04-06,"Senate - Third Consideration",28,4,0
+289949,65679,2011-04-13,"House - Senate Amendments",94,3,0
+290121,95237,2011-06-28,"House - Amendment",61,36,0
+290121,95238,2011-06-28,"House - Third Consideration",54,44,0
+290274,43817,2011-03-09,"House - Third Consideration",97,0,0
+290274,52082,2011-03-16,"House - Senate Amendments",96,0,0
+290274,52083,2011-03-16,"Senate - Third Consideration",32,0,0
+291591,104000,2011-04-13,"Senate - Resolution Adoption",32,0,0
+292921,84150,2011-05-25,"House - Amendment",94,0,0
+292921,84151,2011-05-25,"House - Motion to Table Amendment",56,37,0
+292921,84152,2011-05-25,"House - Motion to Table Amendment",56,38,0
+292921,84153,2011-05-25,"House - Motion to Table Amendment",56,39,0
+292921,84154,2011-05-25,"House - Motion to Table Amendment",54,38,0
+292921,84155,2011-05-25,"House - Motion to Table Amendment",56,39,0
+292921,84156,2011-05-25,"House - Motion to Table Amendment",56,38,0
+292921,84157,2011-05-25,"House - Motion to Table Amendment",55,40,0
+292921,84158,2011-05-25,"House - Third Consideration",54,41,0
+292921,92117,2011-06-15,"Senate - Motion to Table Amendment",19,13,0
+292921,92118,2011-06-15,"Senate - Third Consideration",22,10,0
+292921,93377,2011-06-21,"House - Senate Amendments",57,39,0
+292930,80406,2011-05-17,"Senate - Third Consideration",29,0,0
+292930,102413,2011-09-21,"House - Third Consideration",96,0,0
+293091,42622,2011-03-02,"House - Resolution Adoption",56,0,0
+293267,65874,2011-04-13,"House - Third Consideration",96,0,0
+293267,92099,2011-06-14,"House - Senate Amendments",91,2,0
+293267,92100,2011-06-08,"Senate - Third Consideration",33,0,0
+293812,90112,2011-06-07,"House - Third Consideration",87,8,0
+294090,62634,2011-04-06,"House - Third Consideration - Emergency Clause",89,6,0
+294090,62635,2011-04-06,"House - Third Consideration",94,1,0
+294090,65926,2011-04-13,"Senate - Third Consideration - Emergency Clause",32,0,0
+294090,65927,2011-04-13,"Senate - Third Consideration",32,0,0
+297527,65898,2011-04-13,"House - Third Consideration",90,7,0
+297535,180254,2012-03-28,"Senate - Third Consideration",33,0,0
+297766,201981,2012-06-13,"House - Third Consideration",84,4,0
+297766,214951,2012-12-04,"Senate - Third Consideration",32,0,0
+297766,215021,2012-12-05,"House - Senate Amendments",91,2,0
+298076,55439,2011-03-23,"House - Resolution Adoption",95,0,0
+298305,102521,2011-09-27,"Senate - Third Consideration",31,0,0
+298305,215343,2012-12-12,"House - Third Consideration",84,8,0
+298305,215399,2012-12-13,"Senate - House Amendments",33,0,0
+298635,93951,2011-06-21,"Senate - Third Consideration - Emergency Clause",32,0,0
+298635,93952,2011-06-21,"Senate - Third Consideration",32,0,0
+298635,103560,2011-11-15,"House - Third Consideration",95,0,0
+298635,104386,2011-11-30,"Senate - House Amendments",30,0,0
+298726,65917,2011-04-13,"House - Third Consideration",97,0,0
+298726,156777,2012-02-15,"House - Senate Amendments",93,0,0
+298726,156778,2012-02-14,"Senate - Third Consideration",33,0,0
+299325,55357,2011-03-23,"House - Motion to Table Amendment",58,38,0
+299325,55358,2011-03-23,"House - Amendment",38,58,0
+299325,55359,2011-03-23,"House - Amendment",93,1,0
+299325,55360,2011-03-23,"House - Amendment",38,58,0
+299325,55361,2011-03-23,"House - Motion to Table Amendment",58,38,0
+299325,55362,2011-03-23,"House - Third Consideration",57,38,0
+299364,82687,2011-05-17,"Senate - Third Consideration",20,10,0
+301795,147940,2012-02-01,"Senate - Third Consideration",30,0,0
+301795,213689,2012-11-14,"House - Third Consideration",91,5,0
+301795,213704,2012-11-27,"Senate - House Amendments",32,1,0
+302388,196838,2012-05-15,"Senate - Third Consideration",33,0,0
+302388,214031,2012-11-27,"House - Third Consideration",92,0,0
+303033,70028,2011-04-13,"Senate - Third Consideration",32,0,0
+303033,92069,2011-06-14,"House - Third Consideration",95,0,0
+303038,105823,2011-12-13,"House - Third Consideration",93,0,0
+303038,197685,2012-05-22,"Senate - Third Consideration",32,0,0
+303896,70149,2011-03-16,"House - Resolution Adoption",96,0,0
+304561,95256,2011-06-28,"Senate - Third Consideration",33,0,0
+304561,213702,2012-11-27,"House - Third Consideration",93,0,0
+304561,214950,2012-12-04,"Senate - House Amendments",32,0,0
+304832,88559,2011-06-01,"House - Third Consideration",97,0,0
+304832,147690,2012-01-31,"Senate - Third Consideration",31,0,0
+304832,152485,2012-02-08,"House - Senate Amendments",97,0,0
+304964,70293,2011-03-30,"Senate - Third Consideration",33,0,0
+304964,90261,2011-06-01,"House - Third Consideration",89,8,0
+305439,77510,2011-05-04,"House - Third Consideration",98,0,0
+305439,186579,2012-04-18,"Senate - Third Consideration",33,0,0
+305619,82450,2011-05-18,"House - Amendment",39,55,0
+305619,82451,2011-05-18,"House - Motion to Table Amendment",54,39,0
+305619,82452,2011-05-18,"House - Motion to Table Amendment",54,40,0
+305619,82453,2011-05-18,"House - Motion to Table Amendment",54,39,0
+305619,82454,2011-05-18,"House - Motion to Table Amendment",53,40,0
+305619,82455,2011-05-18,"House - Motion to Table Amendment",54,40,0
+305619,82456,2011-05-18,"House - Amendment",94,0,0
+305619,82457,2011-05-18,"House - Third Consideration",54,40,0
+305619,95547,2011-06-29,"House - Senate Amendments",59,40,0
+305619,95548,2011-06-23,"Senate - Motion to Table Amendment",23,10,0
+305619,95549,2011-06-23,"Senate - Motion to Table Amendment",22,11,0
+305619,95550,2011-06-23,"Senate - Third Consideration",23,10,0
+307521,195058,2012-05-08,"House - Third Consideration",94,0,0
+307521,213762,2012-11-28,"Senate - Third Consideration",33,0,0
+307565,91570,2011-06-08,"House - Amendment",98,0,0
+307565,91571,2011-06-08,"House - Motion to Table Amendment",58,40,0
+307565,91572,2011-06-08,"House - Third Consideration",97,1,0
+307565,95201,2011-06-28,"Senate - Third Consideration",32,1,0
+307762,147605,2011-02-23,"House - Resolution Adoption",97,0,0
+307763,103774,2011-11-30,"Senate - Third Consideration",27,4,0
+307763,215314,2012-12-11,"House - Motion to Table Amendment",57,36,0
+307763,215315,2012-12-11,"House - Third Consideration",92,0,0
+307763,215382,2012-12-12,"Senate - House Amendments",29,4,0
+308866,214077,2012-11-27,"House - Amendment",93,0,0
+308866,214078,2012-11-27,"House - Amendment",93,0,0
+308866,214079,2012-11-27,"House - Amendment",93,0,0
+308866,214080,2012-11-27,"House - Third Consideration",83,10,0
+308866,215450,2012-12-13,"House - Senate Amendments",85,4,0
+308866,215451,2012-12-12,"Senate - Third Consideration",33,0,0
+309240,83716,2011-05-24,"Senate - Motion to Table Amendment",23,10,0
+309240,83717,2011-05-24,"Senate - Motion to Table Amendment",23,10,0
+309240,83718,2011-05-24,"Senate - Motion to Table Amendment",21,12,0
+309240,83719,2011-05-24,"Senate - Motion to Table Amendment",23,10,0
+309240,83720,2011-05-24,"Senate - Motion to Table Amendment",23,10,0
+309240,83721,2011-05-24,"Senate - Motion to Table Amendment",23,10,0
+309240,83722,2011-05-24,"Senate - Third Consideration",23,10,0
+309709,84239,2011-05-24,"Senate - Third Consideration - Emergency Clause",33,0,0
+309709,84240,2011-05-24,"Senate - Third Consideration",33,0,0
+309709,94593,2011-06-23,"House - Third Consideration - Emergency Clause",92,4,0
+309709,94594,2011-06-23,"House - Third Consideration",96,0,0
+309763,70841,2011-04-13,"House - Third Consideration",92,5,0
+310146,94701,2011-06-22,"House - Resolution Adoption",97,0,0
+310146,105826,2011-12-13,"Senate - Resolution Adoption",33,0,0
+310645,94739,2011-06-23,"House - Third Consideration",96,0,0
+310972,90660,2011-06-07,"House - Third Consideration",92,3,0
+310972,188701,2012-04-24,"Senate - Third Consideration",31,0,0
+310972,194905,2012-05-08,"House - Senate Amendments",92,3,0
+312039,94007,2011-06-21,"House - Third Consideration",96,0,0
+312039,103537,2011-11-16,"House - Senate Amendments - Emergency Clause",94,2,0
+312039,103538,2011-11-16,"House - Senate Amendments",96,0,0
+312039,103539,2011-11-15,"Senate - Third Consideration - Emergency Clause",31,0,0
+312039,103540,2011-11-15,"Senate - Third Consideration",31,0,0
+312292,91309,2011-06-08,"House - Amendment",94,1,0
+312292,91310,2011-06-08,"House - Third Consideration",98,0,0
+312292,93788,2011-06-21,"Senate - Third Consideration",33,0,0
+316733,173057,2012-03-14,"Senate - Third Consideration - Emergency Clause",31,0,0
+316733,173058,2012-03-14,"Senate - Third Consideration",31,0,0
+316733,180709,2012-03-28,"House - Third Consideration - Emergency Clause",87,0,0
+316733,180710,2012-03-28,"House - Third Consideration",91,0,0
+319880,84741,2011-05-24,"Senate - Third Consideration",33,0,0
+319880,102624,2011-09-27,"House - Amendment",62,32,0
+319880,102625,2011-09-27,"House - Third Consideration",91,3,0
+319880,102626,2011-09-27,"Senate - House Amendments",31,0,0
+320174,94702,2011-06-23,"House - Third Consideration",88,8,0
+320417,91390,2011-06-08,"House - Motion to Table Amendment",58,40,0
+320417,91391,2011-06-08,"House - Resolution Adoption",67,31,0
+320454,93825,2011-06-22,"House - Third Consideration",97,0,0
+320454,105608,2011-12-14,"House - Senate Amendments - Emergency Clause",86,4,0
+320454,105609,2011-12-14,"House - Senate Amendments",90,1,0
+320454,105610,2011-12-13,"Senate - Third Consideration - Emergency Clause",31,2,0
+320454,105611,2011-12-13,"Senate - Third Consideration",33,0,0
+320618,213753,2012-11-28,"House - Third Consideration",53,38,0
+321391,99813,2011-07-13,"Senate - Resolution Adoption",29,0,0
+326267,102373,2011-09-21,"House - Third Consideration",96,0,0
+326267,147465,2012-01-31,"Senate - Third Consideration",31,0,0
+326318,92088,2011-06-14,"House - Third Consideration",95,0,0
+326318,103673,2011-11-30,"Senate - Third Consideration",31,0,0
+326318,104388,2011-12-06,"House - Senate Amendments",92,0,0
+326708,192637,2012-05-03,"Senate - Third Consideration",33,0,0
+326708,215413,2012-12-13,"Senate - House Amendments",33,0,0
+326708,215414,2012-12-13,"House - Amendment",87,0,0
+326708,215415,2012-12-13,"House - Third Consideration",89,0,0
+326821,103557,2011-11-15,"Senate - Third Consideration",31,0,0
+326821,105400,2011-12-13,"House - Third Consideration - Emergency Clause",83,9,0
+326821,105401,2011-12-13,"House - Third Consideration",92,0,0
+326821,138608,2011-12-14,"Senate - Third Consideration - Emergency Clause",33,0,0
+326821,138609,2011-12-14,"Senate - House Amendments",33,0,0
+327578,75933,2011-05-03,"House - Resolution Adoption",98,0,0
+327578,104218,2011-05-17,"Senate - Resolution Adoption",30,0,0
+327859,87553,2011-06-01,"House - Third Consideration",93,4,0
+327859,144954,2012-01-24,"Senate - Third Consideration",31,0,0
+327859,147742,2012-01-31,"House - Senate Amendments",92,1,0
+328092,98879,2011-07-13,"Senate - Motion to Table Amendment",21,8,0
+328092,98880,2011-07-13,"Senate - Motion to Table Amendment",21,8,0
+328092,98881,2011-07-13,"Senate - Motion to Table Amendment",21,8,0
+328092,98882,2011-07-13,"Senate - Third Consideration",29,0,0
+328092,105587,2011-12-13,"House - Motion to Table Amendment",38,55,0
+328092,105588,2011-12-13,"House - Amendment",53,40,0
+328092,105589,2011-12-13,"House - Motion to Table Amendment",55,38,0
+328092,105590,2011-12-13,"House - Third Consideration",62,31,0
+328092,139865,2012-01-10,"Senate - House Amendments",0,31,0
+328092,179928,2012-03-28,"Senate - Conference Committee Report",32,1,0
+328092,179929,2012-03-28,"House - Conference Committee Report",63,29,0
+328431,93896,2011-06-22,"House - Third Consideration",97,0,0
+328431,102355,2011-09-20,"Senate - Third Consideration",31,0,0
+328431,102549,2011-09-21,"House - Senate Amendments",96,0,0
+329364,143817,2012-01-18,"Senate - Resolution Adoption",25,7,0
+329895,104145,2011-06-21,"House - Resolution Adoption",96,0,0
+330042,95255,2011-06-23,"House - Third Consideration",95,1,0
+330042,105683,2011-12-14,"House - Senate Amendments",56,34,0
+330042,105684,2011-12-13,"Senate - Motion to Table Amendment",23,10,0
+330042,105685,2011-12-13,"Senate - Third Consideration",23,10,0
+330057,94697,2011-06-23,"House - Motion to Table Amendment",59,37,0
+330057,94698,2011-06-23,"House - Third Consideration",96,0,0
+330057,98701,2011-07-13,"House - Senate Amendments - Emergency Clause",92,0,0
+330057,98702,2011-07-13,"House - Senate Amendments",92,0,0
+330057,98703,2011-07-13,"Senate - Third Consideration - Emergency Clause",29,0,0
+330057,98704,2011-07-13,"Senate - Motion to Table Amendment",21,8,0
+330057,98705,2011-07-13,"Senate - Third Consideration",29,0,0
+330547,80220,2011-03-16,"Senate - Resolution Adoption",32,0,0
+331033,104171,2011-06-15,"House - Resolution Adoption",94,0,0
+331137,103541,2011-11-15,"House - Third Consideration",95,0,0
+331142,93342,2011-06-21,"Senate - Third Consideration - Emergency Clause",33,0,0
+331142,93343,2011-06-21,"Senate - Third Consideration",33,0,0
+331142,94231,2011-06-23,"Senate - House Amendments",32,1,0
+331142,94232,2011-06-23,"House - Third Consideration - Emergency Clause",88,8,0
+331142,94233,2011-06-23,"House - Third Consideration",95,1,0
+331157,94988,2011-06-22,"House - Motion to Table Amendment",58,38,0
+331157,94989,2011-06-22,"House - Motion to Table Amendment",59,38,0
+331157,94990,2011-06-22,"House - Motion to Table Amendment",59,39,0
+331157,94991,2011-06-22,"House - Motion to Table Amendment",58,39,0
+331157,94992,2011-06-22,"House - Motion to Table Amendment",59,39,0
+331157,94993,2011-06-22,"House - Motion to Table Amendment",58,39,0
+331157,94994,2011-06-22,"House - Motion to Table Amendment",59,39,0
+331157,94995,2011-06-22,"House - Third Consideration",60,39,0
+331157,95266,2011-06-28,"Senate - Motion to Table Amendment",23,10,0
+331157,95267,2011-06-28,"Senate - Motion to Table Amendment",23,10,0
+331157,95268,2011-06-28,"Senate - Motion to Table Amendment",23,10,0
+331157,95269,2011-06-28,"Senate - Motion to Table Amendment",23,10,0
+331157,95270,2011-06-28,"Senate - Third Consideration",25,8,0
+331160,104172,2011-06-21,"Senate - Resolution Adoption",33,0,0
+331160,154119,2012-02-08,"House - Resolution Adoption",62,35,0
+331169,92134,2011-06-15,"House - Third Consideration",88,6,0
+331169,95168,2011-06-28,"Senate - Motion to Table Amendment",22,11,0
+331169,95169,2011-06-28,"Senate - Third Consideration",31,2,0
+332469,83305,2011-05-24,"Senate - Resolution Adoption",22,0,0
+332594,83319,2011-05-24,"Senate - Resolution Adoption",32,0,0
+333375,195176,2012-05-09,"House - Third Consideration",97,0,0
+334470,147078,2012-01-24,"Senate - Third Consideration",31,0,0
+334470,173530,2012-03-14,"House - Third Consideration",97,0,0
+334470,176963,2012-03-21,"Senate - House Amendments",33,0,0
+334684,103509,2011-11-16,"House - Third Consideration",94,2,0
+334684,105617,2011-12-14,"Senate - Third Consideration",33,0,0
+334684,105618,2011-12-14,"House - Senate Amendments",88,1,0
+334698,144894,2012-01-24,"House - Third Consideration",94,0,0
+334698,190381,2012-04-25,"Senate - Third Consideration",31,0,0
+334731,198398,2012-05-23,"House - Third Consideration",96,0,0
+334731,215330,2012-12-11,"Senate - Third Consideration",32,1,0
+334731,215379,2012-12-12,"House - Senate Amendments",93,0,0
+334735,104834,2011-12-06,"House - Third Consideration",92,0,0
+334735,215489,2012-12-13,"Senate - Motion to Table Amendment",23,10,0
+334735,215490,2012-12-13,"Senate - Third Consideration",32,1,0
+334735,215491,2012-12-13,"House - Senate Amendments",88,0,0
+334769,94242,2011-06-23,"House - Third Consideration",96,0,0
+334769,105782,2011-12-14,"Senate - Third Consideration",33,0,0
+334769,105783,2011-12-14,"House - Senate Amendments",89,1,0
+334794,93814,2011-06-22,"House - Third Consideration",97,0,0
+335316,105709,2011-12-13,"Senate - Third Consideration",33,0,0
+335338,104209,2011-06-08,"House - Resolution Adoption",58,0,0
+335403,104212,2011-07-13,"House - Resolution Adoption",92,0,0
+335415,104214,2011-06-23,"House - Resolution Adoption",87,8,0
+335424,215600,2012-12-13,"House - Resolution Adoption",89,0,0
+335743,104220,2011-06-14,"House - Resolution Adoption",95,0,0
+336015,94524,2011-06-22,"Senate - Third Consideration",33,0,0
+336015,99207,2011-07-13,"House - Third Consideration - Emergency Clause",89,3,0
+336015,99208,2011-07-13,"House - Third Consideration",92,0,0
+336015,99209,2011-07-13,"Senate - Third Consideration - Emergency Clause",29,0,0
+336015,99210,2011-07-13,"Senate - House Amendments",29,0,0
+336033,198235,2012-05-24,"House - Third Consideration",66,29,0
+336037,197671,2012-05-22,"House - Third Consideration - Emergency Clause",95,3,0
+336037,197672,2012-05-22,"House - Third Consideration",98,0,0
+336037,202010,2012-06-13,"House - Senate Amendments",88,0,0
+336037,202011,2012-06-12,"Senate - Motion to Table Amendment",23,9,0
+336037,202012,2012-06-12,"Senate - Third Consideration - Emergency Clause",32,0,0
+336037,202013,2012-06-12,"Senate - Third Consideration",32,0,0
+336075,180758,2012-03-28,"House - Motion to Table Amendment",54,37,0
+336075,180759,2012-03-28,"House - Third Consideration",50,42,0
+336149,102523,2011-09-27,"House - Third Consideration",94,0,0
+336149,148209,2012-01-31,"Senate - Third Consideration",31,0,0
+336149,151891,2012-02-08,"House - Senate Amendments",97,0,0
+336161,105020,2011-12-07,"House - Third Consideration",90,0,0
+336161,148154,2012-02-01,"Senate - Third Consideration",30,0,0
+336161,152530,2012-02-08,"House - Senate Amendments",96,0,0
+336767,105808,2011-12-14,"House - Motion to Table Amendment",56,38,0
+336767,105809,2011-12-14,"House - Motion to Table Amendment",51,43,0
+336767,105810,2011-12-14,"House - Motion to Table Amendment",55,39,0
+336767,105811,2011-12-14,"House - Motion to Table Amendment",57,37,0
+336767,105812,2011-12-14,"House - Third Consideration",57,37,0
+336767,176434,2012-03-21,"Senate - Third Consideration",23,10,0
+336767,178214,2012-03-27,"House - Senate Amendments",57,35,0
+336894,213708,2012-11-27,"House - Third Consideration",92,0,0
+336894,215443,2012-12-13,"House - Senate Amendments",89,0,0
+336894,215444,2012-12-12,"Senate - Third Consideration",33,0,0
+336896,105451,2011-12-13,"House - Third Consideration",92,0,0
+336896,154239,2012-02-14,"Senate - Third Consideration - Emergency Clause",33,0,0
+336896,154240,2012-02-14,"Senate - Third Consideration",33,0,0
+336896,157073,2012-02-15,"House - Senate Amendments - Emergency Clause",89,2,0
+336896,157074,2012-02-15,"House - Senate Amendments",92,0,0
+337354,94451,2011-06-23,"House - Amendment",94,1,0
+337354,94452,2011-06-23,"House - Third Consideration",77,17,0
+337354,95181,2011-06-28,"Senate - Third Consideration",27,6,0
+337354,95310,2011-06-28,"House - Senate Amendments",65,32,0
+337377,214961,2012-12-04,"House - Third Consideration",85,7,0
+337377,215468,2012-12-13,"Senate - Third Consideration",33,0,0
+337377,215469,2012-12-13,"House - Senate Amendments",84,4,0
+337378,213692,2012-11-14,"House - Amendment",94,0,0
+337378,213693,2012-11-14,"House - Third Consideration",94,2,0
+337378,215364,2012-12-12,"Senate - Third Consideration - Emergency Clause",33,0,0
+337378,215365,2012-12-12,"Senate - Third Consideration",33,0,0
+337378,215403,2012-12-13,"House - Senate Amendments - Emergency Clause",87,2,0
+337378,215404,2012-12-13,"House - Senate Amendments",89,0,0
+337388,178461,2012-03-27,"House - Third Consideration",92,0,0
+337388,215357,2012-12-12,"Senate - Third Consideration",33,0,0
+337388,215495,2012-12-13,"House - Senate Amendments",89,0,0
+338185,102489,2011-09-21,"House - Third Consideration",96,0,0
+338522,213828,2012-11-28,"House - Third Consideration",90,3,0
+338522,215483,2012-12-13,"House - Senate Amendments",65,24,0
+338522,215484,2012-12-12,"Senate - Third Consideration",33,0,0
+338766,171843,2012-03-14,"Senate - Third Consideration",31,0,0
+338766,201780,2012-06-12,"House - Amendment",93,0,0
+338766,201781,2012-06-12,"House - Third Consideration",82,10,0
+338766,201991,2012-06-13,"Senate - House Amendments",32,0,0
+338893,150688,2012-02-08,"House - Third Consideration",97,0,0
+338893,198202,2012-05-24,"House - Third Consideration - Emergency Clause",80,8,0
+338893,198203,2012-05-23,"Senate - Third Consideration - Emergency Clause",30,2,0
+338893,198204,2012-05-23,"Senate - Third Consideration",32,0,0
+339033,139945,2012-01-10,"Senate - Third Consideration",31,0,0
+339033,198320,2012-05-24,"House - Third Consideration",91,0,0
+339033,201935,2012-06-12,"Senate - House Amendments",32,1,0
+339087,193547,2012-05-03,"Senate - Resolution Adoption",33,0,0
+339087,199107,2012-05-24,"House - Resolution Adoption",86,0,0
+339144,213695,2012-11-14,"Senate - Resolution Adoption",33,0,0
+339151,98707,2011-07-13,"Senate - Resolution Adoption",21,0,0
+339157,104285,2011-07-13,"Senate - Resolution Adoption",26,0,0
+339159,104298,2011-07-13,"Senate - Resolution Adoption",22,0,0
+339161,198034,2012-05-22,"Senate - Third Consideration",31,0,0
+339161,213709,2012-11-27,"House - Third Consideration",93,0,0
+339587,102494,2011-09-27,"House - Third Consideration - Emergency Clause",94,1,0
+339587,102495,2011-09-27,"House - Third Consideration",95,0,0
+339587,103690,2011-11-30,"Senate - Third Consideration - Emergency Clause",31,0,0
+339587,103691,2011-11-30,"Senate - Third Consideration",31,0,0
+339632,196270,2012-05-15,"House - Third Consideration",95,0,0
+339632,215438,2012-12-12,"House - Senate Amendments - Emergency Clause",87,6,0
+339632,215439,2012-12-12,"House - Senate Amendments",77,16,0
+339632,215440,2012-12-11,"Senate - Third Consideration - Emergency Clause",31,1,0
+339632,215441,2012-12-11,"Senate - Third Consideration",33,0,0
+339634,104321,2011-07-28,"House - Resolution Adoption",45,0,0
+339637,99871,2011-07-28,"House - Resolution Adoption",45,0,0
+339900,148259,2012-02-01,"Senate - Third Consideration",26,4,0
+339900,196476,2012-05-16,"House - Third Consideration",62,35,0
+339900,197942,2012-05-22,"Senate - House Amendments",25,7,0
+340034,105740,2011-12-13,"Senate - Resolution Adoption",33,0,0
+340034,215345,2012-12-11,"House - Resolution Adoption",93,0,0
+340039,214946,2012-12-04,"Senate - Third Consideration",33,0,0
+340183,105843,2011-12-13,"Senate - Third Consideration",33,0,0
+340183,180776,2012-03-28,"Senate - House Amendments",33,0,0
+340183,180777,2012-03-28,"House - Third Consideration",88,0,0
+340230,178780,2012-03-27,"Senate - Resolution Adoption",33,0,0
+340591,179707,2012-03-28,"House - Third Consideration",57,31,0
+340591,196612,2012-05-16,"Senate - Third Consideration",19,14,0
+340591,197692,2012-05-22,"House - Senate Amendments",68,30,0
+340601,102316,2011-09-15,"House - Motion to Table Amendment",58,34,0
+340601,102317,2011-09-15,"House - Third Consideration",56,36,0
+340601,102361,2011-09-21,"Senate - Motion to Table Amendment",22,9,0
+340601,102362,2011-09-21,"Senate - Motion to Table Amendment",22,9,0
+340601,102363,2011-09-21,"Senate - Third Consideration",24,7,0
+340601,102364,2011-09-21,"House - Senate Amendments",60,35,0
+340611,102318,2011-09-15,"House - Third Consideration - Emergency Clause",60,32,0
+340611,102319,2011-09-15,"House - Amendment",63,29,0
+340611,102320,2011-09-15,"House - Third Consideration",63,29,0
+340611,102911,2011-10-20,"Senate - Motion to Table Amendment",20,10,0
+340611,102912,2011-10-20,"Senate - Motion to Table Amendment",20,10,0
+340611,102913,2011-10-20,"Senate - Motion to Table Amendment",20,10,0
+340611,102914,2011-10-20,"Senate - Third Consideration",20,10,0
+340611,102934,2011-10-21,"House - Senate Amendments",55,37,0
+340613,104336,2011-09-14,"House - Resolution Adoption",56,0,0
+340689,196819,2012-05-16,"House - Amendment",97,0,0
+340689,196820,2012-05-16,"House - Third Consideration",98,0,0
+340689,214988,2012-12-04,"Senate - Third Consideration",33,0,0
+340689,215085,2012-12-05,"House - Senate Amendments",93,0,0
+340751,103639,2011-11-30,"Senate - Third Consideration",31,0,0
+340751,148126,2012-02-01,"Senate - House Amendments",9,21,0
+340751,151048,2012-01-31,"House - Third Consideration",84,10,0
+340751,154917,2012-02-15,"Senate - Conference Committee Report",32,0,0
+340751,154918,2012-02-15,"House - Conference Committee Report",92,0,0
+340752,105786,2011-12-14,"Senate - Third Consideration",33,0,0
+340752,215429,2012-12-12,"House - Third Consideration",92,0,0
+340772,195450,2012-05-09,"Senate - Third Consideration",32,0,0
+340772,198270,2012-05-24,"House - Third Consideration",91,0,0
+340772,202345,2012-06-12,"Senate - House Amendments",33,0,0
+341288,187798,2012-04-18,"House - Third Consideration",91,0,0
+341288,198834,2012-05-24,"Senate - Third Consideration",28,3,0
+341314,104875,2011-12-06,"House - Amendment",92,0,0
+341314,104876,2011-12-06,"House - Motion to Table Amendment",56,36,0
+341314,104877,2011-12-06,"House - Third Consideration",90,2,0
+341314,195892,2012-05-15,"Senate - Third Consideration",33,0,0
+341314,198256,2012-05-22,"House - Senate Amendments",97,1,0
+341318,171788,2012-03-13,"House - Third Consideration",97,0,0
+341318,198925,2012-05-24,"Senate - Third Consideration",31,0,0
+341318,202546,2012-06-12,"House - Senate Amendments",92,0,0
+341693,102561,2011-09-27,"House - Resolution Adoption",95,0,0
+341767,104795,2011-12-07,"House - Third Consideration - Emergency Clause",82,9,0
+341767,104796,2011-12-07,"House - Third Consideration",88,3,0
+341767,139904,2012-01-10,"Senate - Third Consideration - Emergency Clause",30,1,0
+341767,139905,2012-01-10,"Senate - Third Consideration",30,1,0
+341767,145849,2012-01-24,"House - Senate Amendments",83,9,0
+341767,148574,2012-01-24,"House - Senate Amendments - Emergency Clause",82,10,0
+341785,195373,2012-05-09,"House - Third Consideration",98,0,0
+341785,215045,2012-12-05,"House - Senate Amendments - Emergency Clause",93,0,0
+341785,215046,2012-12-05,"House - Senate Amendments",94,0,0
+341785,215047,2012-12-04,"Senate - Third Consideration - Emergency Clause",33,0,0
+341785,215048,2012-12-04,"Senate - Third Consideration",33,0,0
+341950,196705,2012-05-15,"House - Amendment",96,0,0
+341950,196706,2012-05-15,"House - Third Consideration",96,0,0
+342086,156500,2012-02-15,"House - Third Consideration",91,0,0
+342086,197573,2012-05-22,"Senate - Third Consideration",32,0,0
+342086,198485,2012-05-23,"House - Senate Amendments",94,0,0
+342528,172149,2012-03-14,"House - Third Consideration",97,0,0
+342528,215311,2012-12-11,"Senate - Third Consideration",33,0,0
+342528,215339,2012-12-12,"House - Senate Amendments",92,0,0
+342664,105327,2011-12-13,"House - Amendment",90,0,0
+342664,105328,2011-12-13,"House - Third Consideration",90,2,0
+342664,139508,2012-01-10,"Senate - Third Consideration",31,0,0
+342667,178168,2012-03-27,"Senate - Third Consideration",31,2,0
+342818,147756,2012-01-31,"Senate - Resolution Adoption",32,0,0
+342818,177722,2012-03-22,"House - Resolution Adoption",92,2,0
+342818,180867,2012-03-27,"Senate - House Amendments",33,0,0
+342839,105834,2011-12-13,"Senate - Resolution Adoption",33,0,0
+343025,105635,2011-12-14,"Senate - Third Consideration",33,0,0
+343025,198350,2012-05-24,"House - Third Consideration",63,29,0
+343036,139656,2012-01-10,"Senate - Third Consideration",31,0,0
+343036,178557,2012-03-27,"House - Amendment",91,1,0
+343036,178558,2012-03-27,"House - Amendment",91,1,0
+343036,178559,2012-03-27,"House - Amendment",79,13,0
+343036,178560,2012-03-27,"House - Third Consideration",92,0,0
+343036,180980,2012-03-28,"Senate - House Amendments",33,0,0
+343069,180576,2012-03-27,"House - Third Consideration",91,0,0
+343069,213780,2012-11-27,"Senate - Third Consideration - Emergency Clause",31,2,0
+343069,213781,2012-11-27,"Senate - Third Consideration",33,0,0
+343069,214082,2012-11-29,"House - Senate Amendments - Emergency Clause",70,16,0
+343069,214083,2012-11-29,"House - Senate Amendments",2,85,0
+343071,105604,2011-12-14,"House - Amendment",86,0,0
+343071,105605,2011-12-14,"House - Third Consideration",87,0,0
+343071,105606,2011-12-14,"House - Senate Amendments",84,0,0
+343071,105607,2011-12-14,"Senate - Third Consideration",33,0,0
+343076,150954,2012-02-08,"House - Motion to Table Amendment",58,39,0
+343076,150955,2012-02-08,"House - Third Consideration",89,8,0
+343076,213694,2012-11-14,"Senate - Third Consideration",33,0,0
+343087,195935,2012-05-15,"House - Third Consideration",96,0,0
+343087,215009,2012-12-05,"Senate - Third Consideration - Emergency Clause",26,7,0
+343087,215010,2012-12-05,"Senate - Third Consideration",28,5,0
+343087,215316,2012-12-11,"House - Senate Amendments - Emergency Clause",84,8,0
+343087,215317,2012-12-11,"House - Senate Amendments",88,4,0
+343163,140221,2012-01-10,"Senate - Third Consideration",31,0,0
+343163,157067,2012-02-15,"House - Third Consideration",91,0,0
+343165,105912,2011-12-14,"Senate - Third Consideration - Emergency Clause",29,4,0
+343165,105913,2011-12-14,"Senate - Third Consideration",27,6,0
+343165,105914,2011-12-14,"House - Third Consideration - Emergency Clause",78,16,0
+343165,105915,2011-12-14,"House - Third Consideration",77,17,0
+343167,105175,2011-12-07,"House - Third Consideration",88,3,0
+343167,105703,2011-12-14,"Senate - Third Consideration",33,0,0
+343168,109142,2011-12-14,"Senate - Third Consideration",33,0,0
+343458,104339,2011-12-06,"House - Resolution Adoption",92,0,0
+343458,105651,2011-12-14,"Senate - Resolution Adoption",33,0,0
+343576,181060,2012-03-28,"House - Resolution Adoption",88,0,0
+343600,103276,2011-11-09,"Senate - Resolution Adoption",30,0,0
+343613,103277,2011-11-09,"Senate - Resolution Adoption",20,0,0
+343715,190369,2012-04-24,"House - Third Consideration",78,17,0
+343715,198591,2012-05-24,"Senate - Third Consideration",27,4,0
+343715,201933,2012-06-12,"House - Senate Amendments",4,88,0
+343768,138720,2011-12-14,"Senate - Third Consideration",33,0,0
+343885,104382,2011-11-15,"Senate - Resolution Adoption",31,0,0
+343913,197748,2012-05-22,"House - Amendment",95,3,0
+343913,197749,2012-05-22,"House - Third Consideration",79,19,0
+343914,195483,2012-05-09,"House - Third Consideration",75,22,0
+343914,215082,2012-12-05,"Senate - Third Consideration",31,2,0
+343915,146433,2012-01-25,"House - Amendment",96,0,0
+343915,146434,2012-01-25,"House - Third Consideration",55,41,0
+343915,215003,2012-12-05,"Senate - Motion to Table Amendment",20,13,0
+343915,215004,2012-12-05,"Senate - Motion to Table Amendment",19,14,0
+343915,215005,2012-12-05,"Senate - Third Consideration",19,14,0
+343915,215312,2012-12-11,"House - Senate Amendments",57,35,0
+343928,157085,2012-02-15,"House - Third Consideration",90,3,0
+343928,194480,2012-05-09,"Senate - Third Consideration",31,0,0
+343928,196302,2012-05-16,"House - Senate Amendments",95,2,0
+344087,147934,2012-02-01,"Senate - Third Consideration",30,0,0
+344087,191149,2012-04-24,"House - Third Consideration",94,0,0
+344088,105771,2011-12-14,"Senate - Third Consideration",33,0,0
+344093,105773,2011-12-14,"Senate - Third Consideration",33,0,0
+344093,157086,2012-02-15,"House - Third Consideration",91,0,0
+344121,154836,2012-02-15,"Senate - Third Consideration",33,0,0
+344240,103637,2011-11-30,"Senate - Motion to Table Amendment",23,8,0
+344240,103638,2011-11-30,"Senate - Third Consideration",31,0,0
+344240,105751,2011-12-14,"Senate - House Amendments",33,0,0
+344240,105752,2011-12-14,"House - Third Consideration",94,0,0
+344290,103636,2011-11-30,"Senate - Resolution Adoption",30,0,0
+344345,105824,2011-12-14,"House - Third Consideration",94,0,0
+344345,173122,2012-03-14,"Senate - Third Consideration",31,0,0
+344357,214000,2012-11-27,"House - Amendment",64,29,0
+344357,214001,2012-11-27,"House - Amendment",90,1,0
+344357,214002,2012-11-27,"House - Third Consideration",85,6,0
+344358,156432,2012-02-15,"House - Third Consideration - Emergency Clause",74,19,0
+344358,156433,2012-02-15,"House - Third Consideration",69,24,0
+344358,194731,2012-05-09,"Senate - Third Consideration - Emergency Clause",28,4,0
+344358,194732,2012-05-09,"Senate - Third Consideration",29,3,0
+344358,195535,2012-05-09,"House - Senate Amendments - Emergency Clause",0,94,0
+344358,198762,2012-05-24,"Senate - Conference Committee Report - Emergency Clause",23,6,0
+344358,198763,2012-05-24,"Senate - Conference Committee Report",26,3,0
+344358,198764,2012-05-24,"House - Conference Committee Report - Emergency Clause",71,23,0
+344358,198765,2012-05-24,"House - Conference Committee Report",71,23,0
+344908,192507,2012-05-01,"Senate - Resolution Adoption",33,0,0
+345317,187499,2012-04-18,"House - Third Consideration - Emergency Clause",81,11,0
+345317,187500,2012-04-18,"House - Third Consideration",92,0,0
+345319,215478,2012-12-13,"House - Third Consideration",89,0,0
+345320,148457,2012-02-01,"Senate - Third Consideration",30,0,0
+345320,186990,2012-04-18,"House - Third Consideration",88,4,0
+345395,155797,2012-02-15,"Senate - Third Consideration",30,3,0
+345856,187816,2012-04-18,"Senate - Third Consideration",30,3,0
+346025,154443,2012-02-14,"Senate - Third Consideration",33,0,0
+346025,198772,2012-05-24,"Senate - Third Consideration - Emergency Clause",31,0,0
+346025,198773,2012-05-24,"Senate - House Amendments",31,0,0
+346025,198774,2012-05-23,"House - Third Consideration - Emergency Clause",88,4,0
+346025,198775,2012-05-23,"House - Amendment",95,0,0
+346025,198776,2012-05-23,"House - Third Consideration",95,0,0
+346098,139335,2011-12-14,"House - Resolution Adoption",56,0,0
+346099,139336,2011-12-14,"House - Resolution Adoption",34,0,0
+346175,190831,2012-04-25,"House - Third Consideration",97,0,0
+348038,197008,2012-05-16,"House - Amendment",92,0,0
+348038,197009,2012-05-16,"House - Motion to Table Amendment",56,38,0
+348038,197010,2012-05-16,"House - Third Consideration",61,32,0
+348038,197776,2012-05-23,"Senate - Third Consideration",21,10,0
+348993,139371,2011-06-29,"House - Conference Committee Report",59,40,0
+348993,139372,2011-06-28,"Senate - Conference Committee Report",22,11,0
+348993,139373,2011-06-08,"Senate - Motion to Table Amendment",23,10,0
+348993,139374,2011-06-08,"Senate - Motion to Table Amendment",23,10,0
+348993,139375,2011-06-08,"Senate - Motion to Table Amendment",23,10,0
+348993,139376,2011-06-08,"Senate - Motion to Table Amendment",22,11,0
+348993,139377,2011-06-08,"Senate - Motion to Table Amendment",23,10,0
+348993,139378,2011-06-08,"Senate - Motion to Table Amendment",23,10,0
+348993,139379,2011-06-08,"Senate - Motion to Table Amendment",23,10,0
+348993,139380,2011-06-08,"Senate - Motion to Table Amendment",20,13,0
+348993,139381,2011-06-08,"Senate - Motion to Table Amendment",24,9,0
+348993,139382,2011-06-08,"Senate - Motion to Table Amendment",23,10,0
+348993,139383,2011-06-08,"Senate - Motion to Table Amendment",22,11,0
+348993,139384,2011-06-08,"Senate - Motion to Table Amendment",21,12,0
+348993,139385,2011-06-08,"Senate - Motion to Table Amendment",23,10,0
+348993,139386,2011-06-08,"Senate - Motion to Table Amendment",22,11,0
+348993,139387,2011-06-08,"Senate - Motion to Table Amendment",23,10,0
+348993,139388,2011-06-08,"Senate - Motion to Table Amendment",23,10,0
+348993,139389,2011-06-08,"Senate - Motion to Table Amendment",23,10,0
+348993,139390,2011-06-08,"Senate - Motion to Table Amendment",23,10,0
+348993,139391,2011-06-08,"Senate - Motion to Table Amendment",23,10,0
+348993,139392,2011-06-08,"Senate - Motion to Table Amendment",22,10,0
+348993,139393,2011-06-08,"Senate - Motion to Table Amendment",23,10,0
+348993,139394,2011-06-08,"Senate - Motion to Table Amendment",23,10,0
+348993,139395,2011-06-08,"Senate - Motion to Table Amendment",23,10,0
+348993,139396,2011-06-08,"Senate - Motion to Table Amendment",23,10,0
+348993,139397,2011-06-08,"Senate - Motion to Table Amendment",23,10,0
+348993,139398,2011-06-08,"Senate - Motion to Table Amendment",23,10,0
+348993,139399,2011-06-08,"Senate - Motion to Table Amendment",22,11,0
+348993,139400,2011-06-08,"Senate - Motion to Table Amendment",23,10,0
+348993,139401,2011-06-08,"Senate - Motion to Table Amendment",23,10,0
+348993,139402,2011-06-08,"Senate - Motion to Table Amendment",22,11,0
+348993,139403,2011-06-08,"Senate - Motion to Table Amendment",21,12,0
+348993,139404,2011-06-08,"Senate - Motion to Table Amendment",23,10,0
+348993,139405,2011-06-08,"Senate - Third Consideration",23,10,0
+348993,139406,2011-06-08,"House - Senate Amendments",0,98,0
+348993,139407,2011-05-05,"House - Motion to Table Amendment",59,40,0
+348993,139408,2011-05-05,"House - Amendment",99,0,0
+348993,139409,2011-05-05,"House - Amendment",55,44,0
+348993,139410,2011-05-05,"House - Motion to Table Amendment",57,42,0
+348993,139411,2011-05-05,"House - Motion to Table Amendment",59,40,0
+348993,139412,2011-05-05,"House - Amendment",99,0,0
+348993,139413,2011-05-05,"House - Motion to Table Amendment",80,19,0
+348993,139414,2011-05-05,"House - Amendment",97,2,0
+348993,139415,2011-05-05,"House - Motion to Table Amendment",59,40,0
+348993,139416,2011-05-05,"House - Motion to Table Amendment",59,40,0
+348993,139417,2011-05-05,"House - Motion to Table Amendment",58,41,0
+348993,139418,2011-05-05,"House - Amendment",85,14,0
+348993,139419,2011-05-05,"House - Amendment",98,1,0
+348993,139420,2011-05-05,"House - Motion to Table Amendment",58,41,0
+348993,139421,2011-05-05,"House - Amendment",58,41,0
+348993,139422,2011-05-05,"House - Motion to Table Amendment",58,41,0
+348993,139423,2011-05-05,"House - Motion to Table Amendment",60,39,0
+348993,139424,2011-05-05,"House - Motion to Table Amendment",59,40,0
+348993,139425,2011-05-05,"House - Motion to Table Amendment",59,39,0
+348993,139426,2011-05-05,"House - Motion to Table Amendment",59,40,0
+348993,139427,2011-05-05,"House - Motion to Table Amendment",59,40,0
+348993,139428,2011-05-05,"House - Motion to Table Amendment",54,45,0
+348993,139429,2011-05-05,"House - Motion to Table Amendment",56,43,0
+348993,139430,2011-05-05,"House - Motion to Table Amendment",59,40,0
+348993,139431,2011-05-05,"House - Motion to Table Amendment",59,40,0
+348993,139432,2011-05-05,"House - Motion to Table Amendment",59,40,0
+348993,139433,2011-05-05,"House - Third Consideration",59,40,0
+356888,195942,2012-05-15,"Senate - Third Consideration",23,10,0
+357943,178457,2012-03-27,"Senate - Third Consideration",33,0,0
+359622,213700,2012-11-14,"House - Third Consideration",83,12,0
+359787,172467,2012-03-13,"House - Third Consideration",97,0,0
+359787,202395,2012-06-13,"Senate - Third Consideration",32,0,0
+360456,155601,2012-02-15,"Senate - Third Consideration",33,0,0
+368538,195153,2012-05-08,"House - Resolution Adoption",96,0,0
+370295,195234,2012-05-09,"House - Third Consideration",97,1,0
+370295,215069,2012-12-05,"Senate - Third Consideration",33,0,0
+370295,215324,2012-12-11,"House - Senate Amendments",93,0,0
+377431,144688,2012-01-24,"Senate - Resolution Adoption",31,0,0
+377489,144689,2012-01-24,"Senate - Resolution Adoption",31,0,0
+377706,144697,2012-01-24,"House - Resolution Adoption",52,42,0
+377706,144698,2012-01-24,"Senate - Resolution Adoption",24,7,0
+377850,187195,2012-04-18,"House - Resolution Adoption",92,0,0
+379684,190225,2012-04-24,"House - Third Consideration",94,0,0
+379684,213701,2012-11-14,"Senate - Third Consideration",33,0,0
+379918,198223,2012-05-24,"House - Third Consideration",74,22,0
+379918,215012,2012-12-05,"Senate - Third Consideration",33,0,0
+379918,215318,2012-12-11,"House - Senate Amendments",90,3,0
+381101,197622,2012-05-22,"House - Third Consideration",97,0,0
+385959,195937,2012-05-15,"House - Third Consideration",96,0,0
+385959,198595,2012-05-24,"Senate - Third Consideration",31,0,0
+385959,201925,2012-06-12,"House - Senate Amendments",0,92,0
+386220,179115,2012-03-28,"House - Third Consideration",92,0,0
+386220,198759,2012-05-24,"Senate - Third Consideration",31,0,0
+386306,190858,2012-04-25,"House - Third Consideration",97,0,0
+386306,202450,2012-06-13,"Senate - Third Consideration",32,0,0
+386478,186914,2012-04-18,"Senate - Third Consideration",33,0,0
+386478,213826,2012-11-29,"House - Third Consideration",83,0,0
+386478,215019,2012-12-05,"Senate - House Amendments",1,32,0
+387956,188816,2012-04-24,"Senate - Third Consideration",31,0,0
+388743,156779,2012-02-15,"House - Third Consideration - Emergency Clause",86,4,0
+388743,156780,2012-02-15,"House - Third Consideration",93,0,0
+388898,176000,2012-03-21,"Senate - Third Consideration",30,3,0
+388898,179362,2012-03-28,"House - Motion to Table Amendment",54,33,0
+388898,179363,2012-03-28,"House - Third Consideration",79,9,0
+395395,180204,2012-03-28,"Senate - Motion to Table Amendment",23,10,0
+395395,180205,2012-03-28,"Senate - Third Consideration",23,10,0
+395395,194346,2012-05-08,"House - Motion to Table Amendment",56,40,0
+395395,194347,2012-05-08,"House - Third Consideration",54,42,0
+395529,189715,2012-04-24,"Senate - Third Consideration",30,1,0
+395529,198505,2012-05-24,"Senate - House Amendments",29,2,0
+395529,198506,2012-05-23,"House - Third Consideration",95,0,0
+395967,156668,2012-02-15,"House - Resolution Adoption",56,38,0
+398792,178635,2012-03-27,"Senate - Third Consideration",33,0,0
+398792,213696,2012-11-14,"House - Third Consideration",96,0,0
+398792,213707,2012-11-27,"Senate - House Amendments",33,0,0
+398848,213741,2012-11-28,"Senate - Third Consideration",33,0,0
+398848,215422,2012-12-13,"Senate - House Amendments",33,0,0
+398848,215423,2012-12-12,"House - Third Consideration",89,2,0
+398881,178783,2012-03-27,"Senate - Third Consideration - Emergency Clause",31,2,0
+398881,178784,2012-03-27,"Senate - Third Consideration",33,0,0
+399060,197521,2012-05-22,"House - Third Consideration",94,4,0
+399480,155081,2012-02-15,"House - Resolution Adoption",92,0,0
+399854,178141,2012-03-27,"Senate - Third Consideration",33,0,0
+399958,188478,2012-04-24,"Senate - Third Consideration",31,0,0
+399958,198358,2012-05-24,"House - Third Consideration",92,0,0
+400057,192964,2012-05-03,"Senate - Third Consideration",32,0,0
+400057,213688,2012-11-14,"House - Third Consideration",96,0,0
+400057,213703,2012-11-27,"Senate - House Amendments",33,0,0
+400260,215122,2012-12-05,"House - Third Consideration",89,0,0
+400260,215492,2012-12-12,"Senate - Third Consideration",33,0,0
+400901,195899,2012-05-15,"Senate - Third Consideration",33,0,0
+400901,215344,2012-12-11,"House - Third Consideration",90,0,0
+401031,198258,2012-05-23,"House - Third Consideration",95,0,0
+401031,215494,2012-12-13,"Senate - Third Consideration",33,0,0
+402274,157563,2012-01-25,"House - Resolution Adoption",38,0,0
+402687,157772,2012-02-14,"House - Resolution Adoption",57,0,0
+402836,157775,2012-01-31,"House - Resolution Adoption",56,0,0
+403600,158618,2012-01-24,"House - Resolution Adoption",93,0,0
+404655,198284,2012-05-24,"House - Third Consideration",95,0,0
+404655,213987,2012-11-28,"Senate - Third Consideration",33,0,0
+404655,214939,2012-12-04,"House - Senate Amendments",88,2,0
+404744,215248,2012-12-05,"House - Third Consideration",90,0,0
+407885,192807,2012-05-03,"Senate - Third Consideration",30,2,0
+407885,201870,2012-06-12,"House - Amendment",93,1,0
+407885,201871,2012-06-12,"House - Third Consideration",78,16,0
+407885,202635,2012-06-13,"Senate - House Amendments",30,2,0
+411924,186586,2012-04-18,"Senate - Third Consideration",33,0,0
+411924,202250,2012-06-13,"House - Third Consideration",87,0,0
+411924,211921,2012-09-12,"Senate - House Amendments",32,0,0
+412580,196062,2012-05-15,"House - Third Consideration - Emergency Clause",94,2,0
+412580,196063,2012-05-15,"House - Third Consideration",96,0,0
+412580,215485,2012-12-13,"House - Senate Amendments - Emergency Clause",87,0,0
+412580,215486,2012-12-13,"House - Senate Amendments",89,0,0
+412580,215487,2012-12-12,"Senate - Third Consideration - Emergency Clause",33,0,0
+412580,215488,2012-12-12,"Senate - Third Consideration",33,0,0
+412659,190837,2012-04-25,"House - Motion to Table Amendment",58,37,0
+412659,190838,2012-04-25,"House - Motion to Table Amendment",58,37,0
+412659,190839,2012-04-25,"House - Motion to Table Amendment",58,38,0
+412659,190840,2012-04-25,"House - Motion to Table Amendment",58,38,0
+412659,190841,2012-04-25,"House - Motion to Table Amendment",59,37,0
+412659,190842,2012-04-25,"House - Motion to Table Amendment",59,37,0
+412659,190843,2012-04-25,"House - Third Consideration",59,38,0
+412659,197975,2012-05-22,"Senate - Motion to Table Amendment",20,12,0
+412659,197976,2012-05-22,"Senate - Motion to Table Amendment",19,13,0
+412659,197977,2012-05-22,"Senate - Third Consideration",20,12,0
+412914,190037,2012-04-25,"Senate - Third Consideration",30,1,0
+412914,197866,2012-05-22,"House - Third Consideration",89,9,0
+412914,197867,2012-05-22,"Senate - House Amendments",31,1,0
+413790,181248,2012-03-28,"House - Resolution Adoption",86,0,0
+414241,202096,2012-06-13,"House - Amendment",86,1,0
+414241,202097,2012-06-13,"House - Third Consideration",86,0,0
+414241,215310,2012-12-11,"Senate - Third Consideration",32,0,0
+414241,215338,2012-12-12,"House - Senate Amendments",93,0,0
+414287,198205,2012-05-22,"House - Third Consideration",98,0,0
+414287,215319,2012-12-11,"Senate - Third Consideration",32,1,0
+414287,215348,2012-12-12,"House - Senate Amendments",93,0,0
+414378,178603,2012-03-27,"Senate - Third Consideration",33,0,0
+414395,176867,2012-03-21,"Senate - Third Consideration",33,0,0
+414395,180942,2012-03-28,"Senate - House Amendments",33,0,0
+414395,180943,2012-03-28,"House - Third Consideration",92,0,0
+414760,177172,2012-03-22,"House - Motion to Table Amendment",57,38,0
+414760,177173,2012-03-22,"House - Motion to Table Amendment",57,38,0
+414760,177174,2012-03-22,"House - Third Consideration",93,2,0
+414760,179156,2012-03-28,"Senate - Third Consideration",33,0,0
+414760,179157,2012-03-28,"House - Senate Amendments",89,0,0
+414832,198887,2012-05-24,"House - Motion to Table Amendment",58,37,0
+414832,198888,2012-05-24,"House - Third Consideration",81,15,0
+416174,190814,2012-04-25,"House - Motion to Table Amendment",57,37,0
+416174,190815,2012-04-25,"House - Motion to Table Amendment",53,39,0
+416174,190816,2012-04-25,"House - Motion to Table Amendment",55,36,0
+416174,190817,2012-04-25,"House - Motion to Table Amendment",57,37,0
+416174,190818,2012-04-25,"House - Amendment",93,1,0
+416174,190819,2012-04-25,"House - Motion to Table Amendment",56,39,0
+416174,190820,2012-04-25,"House - Amendment",94,0,0
+416174,190821,2012-04-25,"House - Amendment",93,0,0
+416174,190822,2012-04-25,"House - Motion to Table Amendment",57,34,0
+416174,190823,2012-04-25,"House - Third Consideration",62,34,0
+416174,196678,2012-05-16,"Senate - Motion to Table Amendment",23,10,0
+416174,196679,2012-05-16,"Senate - Motion to Table Amendment",23,10,0
+416174,196680,2012-05-16,"Senate - Motion to Table Amendment",22,11,0
+416174,196681,2012-05-16,"Senate - Motion to Table Amendment",23,10,0
+416174,196682,2012-05-16,"Senate - Motion to Table Amendment",23,10,0
+416174,196683,2012-05-16,"Senate - Motion to Table Amendment",20,13,0
+416174,196684,2012-05-16,"Senate - Motion to Table Amendment",23,10,0
+416174,196685,2012-05-16,"Senate - Third Consideration",25,8,0
+416174,196686,2012-05-16,"House - Senate Amendments",0,91,0
+416174,198067,2012-05-23,"Senate - Conference Committee Report",24,8,0
+416174,198068,2012-05-23,"House - Conference Committee Report",58,38,0
+416333,215480,2012-12-11,"House - Resolution Adoption",93,0,0
+416960,175936,2012-03-21,"Senate - Resolution Adoption",32,0,0
+416999,175938,2012-03-21,"Senate - Resolution Adoption",22,0,0
+417042,177799,2012-03-21,"Senate - Resolution Adoption",33,0,0
+417762,195384,2012-05-09,"Senate - Motion to Table Amendment",21,11,0
+417762,195385,2012-05-09,"Senate - Motion to Table Amendment",19,13,0
+417762,195386,2012-05-09,"Senate - Motion to Table Amendment",20,12,0
+417762,195387,2012-05-09,"Senate - Motion to Table Amendment",23,9,0
+417762,195388,2012-05-09,"Senate - Motion to Table Amendment",21,11,0
+417762,195389,2012-05-09,"Senate - Third Consideration",30,2,0
+417762,202243,2012-06-13,"House - Amendment",88,3,0
+417762,202244,2012-06-13,"House - Motion to Table Amendment",56,35,0
+417762,202245,2012-06-13,"House - Motion to Table Amendment",54,37,0
+417762,202246,2012-06-13,"House - Motion to Table Amendment",55,36,0
+417762,202247,2012-06-13,"House - Third Consideration",56,35,0
+417762,202248,2012-06-13,"Senate - House Amendments",23,8,0
+417769,195870,2012-05-15,"Senate - Motion to Table Amendment",23,10,0
+417769,195871,2012-05-15,"Senate - Motion to Table Amendment",23,10,0
+417769,195872,2012-05-15,"Senate - Motion to Table Amendment",23,10,0
+417769,195873,2012-05-15,"Senate - Motion to Table Amendment",23,10,0
+417769,195874,2012-05-15,"Senate - Third Consideration",27,6,0
+417769,198189,2012-05-24,"House - Motion to Table Amendment",53,38,0
+417769,198190,2012-05-24,"House - Amendment",88,4,0
+417769,198191,2012-05-24,"House - Motion to Table Amendment",53,39,0
+417769,198192,2012-05-24,"House - Motion to Table Amendment",55,36,0
+417769,198193,2012-05-24,"House - Motion to Table Amendment",55,38,0
+417769,198194,2012-05-24,"House - Motion to Table Amendment",53,39,0
+417769,198195,2012-05-24,"House - Motion to Table Amendment",55,38,0
+417769,198196,2012-05-24,"House - Motion to Table Amendment",52,39,0
+417769,198197,2012-05-24,"House - Motion to Table Amendment",56,38,0
+417769,198198,2012-05-24,"House - Motion to Table Amendment",54,38,0
+417769,198199,2012-05-24,"House - Third Consideration",75,20,0
+417769,198200,2012-05-24,"Senate - House Amendments",21,8,0
+417781,191395,2012-05-01,"Senate - Motion to Table Amendment",23,10,0
+417781,191396,2012-05-01,"Senate - Motion to Table Amendment",23,10,0
+417781,191397,2012-05-01,"Senate - Motion to Table Amendment",23,10,0
+417781,191398,2012-05-01,"Senate - Third Consideration",31,2,0
+417781,202400,2012-06-13,"House - Amendment",88,0,0
+417781,202401,2012-06-13,"House - Motion to Table Amendment",55,34,0
+417781,202402,2012-06-13,"House - Third Consideration",85,5,0
+417781,202403,2012-06-13,"Senate - House Amendments",30,1,0
+417791,190489,2012-04-24,"House - Third Consideration",95,0,0
+417791,198024,2012-05-23,"Senate - Third Consideration",31,0,0
+417791,202473,2012-06-13,"House - Senate Amendments",88,0,0
+417804,190733,2012-04-25,"House - Amendment",92,0,0
+417804,190734,2012-04-25,"House - Third Consideration",91,5,0
+418346,191574,2012-05-01,"Senate - Resolution Adoption",33,0,0
+418356,215614,2012-12-13,"Senate - Resolution Adoption",33,0,0
+418561,189728,2012-04-24,"House - Third Consideration",94,0,0
+418561,198209,2012-05-23,"House - Senate Amendments",91,4,0
+418561,198210,2012-05-22,"Senate - Third Consideration",31,0,0
+418571,195184,2012-05-09,"House - Third Consideration",96,1,0
+418571,215354,2012-12-12,"Senate - Third Consideration",33,0,0
+418571,215493,2012-12-13,"House - Senate Amendments",89,0,0
+418606,202625,2012-06-13,"House - Motion to Table Amendment",55,33,0
+418606,202626,2012-06-13,"House - Third Consideration",59,28,0
+418606,215420,2012-12-13,"Senate - Third Consideration",26,7,0
+418606,215421,2012-12-13,"House - Senate Amendments",66,23,0
+418618,214955,2012-12-04,"House - Third Consideration",92,0,0
+419917,195912,2012-05-15,"Senate - Third Consideration",33,0,0
+419926,195917,2012-05-15,"Senate - Third Consideration - Emergency Clause",31,2,0
+419926,195918,2012-05-15,"Senate - Third Consideration",33,0,0
+419926,202632,2012-06-13,"House - Third Consideration - Emergency Clause",83,4,0
+419926,202633,2012-06-13,"House - Third Consideration",87,0,0
+420034,213737,2012-11-28,"House - Third Consideration",93,0,0
+420810,190699,2012-04-25,"House - Motion to Table Amendment",57,39,0
+420810,190700,2012-04-25,"House - Third Consideration",92,4,0
+420810,197677,2012-05-22,"Senate - Third Consideration",29,2,0
+420810,198280,2012-05-24,"House - Senate Amendments",96,0,0
+420811,190746,2012-04-25,"House - Third Consideration",88,8,0
+420811,198029,2012-05-23,"Senate - Motion to Table Amendment",20,11,0
+420811,201842,2012-06-12,"Senate - Third Consideration - Emergency Clause",31,1,0
+420811,201843,2012-06-12,"Senate - Third Consideration",32,0,0
+420811,202071,2012-06-13,"House - Third Consideration - Emergency Clause",87,0,0
+420811,202072,2012-06-13,"House - Senate Amendments",88,0,0
+420812,196795,2012-05-16,"House - Third Consideration",75,23,0
+420812,215281,2012-12-05,"Senate - Third Consideration",25,8,0
+420812,215326,2012-12-11,"House - Senate Amendments",77,16,0
+420815,198227,2012-05-23,"House - Motion to Table Amendment",56,39,0
+420815,198228,2012-05-23,"House - Motion to Table Amendment",53,42,0
+420815,198229,2012-05-23,"House - Third Consideration",91,6,0
+420821,197933,2012-05-23,"House - Motion to Table Amendment",55,41,0
+420821,197934,2012-05-23,"House - Third Consideration",81,15,0
+420850,215276,2012-12-05,"Senate - Third Consideration",31,2,0
+421346,198252,2012-05-22,"Senate - Third Consideration",30,1,0
+421548,192660,2012-05-03,"Senate - Third Consideration",29,3,0
+421576,215230,2012-12-05,"Senate - Third Consideration",33,0,0
+421760,195507,2012-05-09,"House - Third Consideration",94,3,0
+422509,215333,2012-12-11,"Senate - Third Consideration",33,0,0
+422523,197745,2012-05-22,"Senate - Third Consideration",32,0,0
+422523,214952,2012-12-04,"House - Motion to Table Amendment",55,36,0
+422523,214953,2012-12-04,"House - Third Consideration",90,1,0
+422523,215022,2012-12-05,"Senate - House Amendments",33,0,0
+422551,202007,2012-06-13,"Senate - Third Consideration",27,4,0
+422551,202008,2012-06-12,"House - Motion to Table Amendment",57,36,0
+422551,202009,2012-06-12,"House - Third Consideration",78,16,0
+422568,198445,2012-05-24,"House - Amendment",97,0,0
+422568,198446,2012-05-24,"House - Third Consideration",96,1,0
+422802,201944,2012-06-12,"Senate - Motion to Table Amendment",24,7,0
+422802,201945,2012-06-12,"Senate - Motion to Table Amendment",23,8,0
+422802,201946,2012-06-12,"Senate - Motion to Table Amendment",24,7,0
+422802,201947,2012-06-12,"Senate - Motion to Table Amendment",24,7,0
+422802,201948,2012-06-12,"Senate - Third Consideration",27,4,0
+422959,190041,2012-04-18,"House - Resolution Adoption",54,0,0
+422960,190042,2012-04-18,"House - Resolution Adoption",54,0,0
+423032,190049,2012-04-24,"House - Resolution Adoption",56,0,0
+423041,190051,2012-04-25,"House - Resolution Adoption",57,0,0
+423043,192108,2012-04-25,"House - Resolution Adoption",96,0,0
+423214,198286,2012-05-24,"Senate - Third Consideration",27,4,0
+423214,202054,2012-06-13,"House - Third Consideration",89,0,0
+423481,197904,2012-05-23,"House - Resolution Adoption",95,0,0
+423492,199142,2012-05-24,"House - Resolution Adoption",87,0,0
+423754,214289,2012-11-29,"House - Motion to Table Amendment",55,32,0
+423754,214290,2012-11-29,"House - Third Consideration",86,0,0
+423754,215425,2012-12-13,"House - Senate Amendments",88,0,0
+423754,215426,2012-12-12,"Senate - Third Consideration",33,0,0
+424020,198391,2012-05-24,"House - Resolution Adoption",60,36,0
+424260,202206,2012-06-13,"Senate - Third Consideration",32,0,0
+424273,197140,2012-05-16,"Senate - Resolution Adoption",33,0,0
+424273,202091,2012-06-13,"House - Resolution Adoption",86,1,0
+424496,202316,2012-06-13,"House - Third Consideration",87,0,0
+425160,196384,2012-05-16,"Senate - Third Consideration",30,3,0
+425160,211866,2012-09-12,"Senate - House Amendments",32,0,0
+425160,211867,2012-09-12,"House - Third Consideration",94,0,0
+425169,196414,2012-05-16,"Senate - Third Consideration",33,0,0
+425169,211860,2012-09-12,"Senate - House Amendments",32,0,0
+425169,211861,2012-09-12,"House - Third Consideration",94,0,0
+425176,196434,2012-05-16,"Senate - Third Consideration",31,2,0
+425176,211882,2012-09-12,"Senate - House Amendments",32,0,0
+425176,211883,2012-09-12,"House - Third Consideration",93,1,0
+425182,196444,2012-05-16,"Senate - Third Consideration",33,0,0
+425182,211858,2012-09-12,"Senate - House Amendments",32,0,0
+425182,211859,2012-09-12,"House - Third Consideration",94,0,0
+425193,194491,2012-05-09,"Senate - Resolution Adoption",31,0,0
+425353,198423,2012-05-24,"House - Third Consideration",97,0,0
+425353,215479,2012-12-12,"Senate - Third Consideration",33,0,0
+426984,198263,2012-05-23,"Senate - Third Consideration",31,0,0
+426984,211868,2012-09-12,"Senate - House Amendments",32,0,0
+426984,211869,2012-09-12,"House - Third Consideration",94,0,0
+427509,202734,2012-06-12,"House - Resolution Adoption",90,0,0
+428213,213837,2012-11-29,"House - Motion to Table Amendment",57,29,0
+428213,213838,2012-11-29,"House - Motion to Table Amendment",55,31,0
+428213,213839,2012-11-29,"House - Motion to Table Amendment",56,30,0
+428213,213840,2012-11-29,"House - Third Consideration",59,27,0
+428213,215356,2012-12-12,"Senate - Third Consideration",27,6,0
+428213,215435,2012-12-13,"House - Senate Amendments",58,31,0
+429018,202535,2012-06-12,"House - Resolution Adoption",91,0,0
+430512,201909,2012-06-13,"Senate - Resolution Adoption",31,0,0
+430597,214958,2012-12-04,"House - Third Consideration",91,1,0
+435061,213129,2012-09-12,"House - Resolution Adoption",94,0,0
+435859,213790,2012-11-27,"House - Resolution Adoption",93,0,0
+435943,215038,2012-12-05,"House - Third Consideration",63,30,0
+436431,215313,2012-12-11,"Senate - Third Consideration",33,0,0
+436441,215218,2012-12-05,"House - Third Consideration",77,12,0
+436441,215481,2012-12-13,"House - Senate Amendments",72,16,0
+436441,215482,2012-12-12,"Senate - Third Consideration",26,6,0
+436512,213705,2012-05-09,"House - Resolution Adoption",39,0,0
+436545,213706,2012-11-15,"House - Resolution Adoption",84,0,0
+436619,215027,2012-12-05,"House - Motion to Table Amendment",55,34,0
+436619,215028,2012-12-05,"House - Third Consideration",56,33,0
+436655,213806,2012-11-28,"Senate - Resolution Adoption",33,0,0
+437032,215498,2012-12-13,"Senate - Resolution Adoption",32,1,0
+437811,215702,2012-12-11,"House - Resolution Adoption",93,0,0

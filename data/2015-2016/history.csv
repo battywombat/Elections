@@ -1,0 +1,3382 @@
+bill_id,date,action
+667094,2015-01-05,Adopted
+667095,2015-01-05,Adopted
+667096,2015-01-05,Adopted
+667097,2015-01-05,Adopted
+667098,2015-01-05,Adopted
+667099,2015-01-05,Adopted
+667100,2015-01-05,Adopted
+667101,2015-01-05,Adopted
+667102,2015-01-05,Adopted
+667102,2015-01-08,Adopted
+667103,2015-01-05,Adopted
+667104,2015-01-05,Adopted
+667105,2015-01-05,Adopted
+667106,2015-01-05,Adopted
+667106,2015-01-08,Adopted
+667590,2015-01-05,Adopted
+680620,2015-01-14,Adopted
+681337,2015-01-20,Adopted
+685603,2015-01-20,Adopted
+686000,2015-01-20,Adopted
+687719,2015-01-21,Adopted
+692057,2015-01-27,Adopted
+692524,2015-01-22,Adopted
+693002,2015-01-22,Adopted
+700523,2015-01-27,Adopted
+700583,2015-01-27,Adopted
+700640,2015-01-27,Adopted
+700703,2015-01-27,Adopted
+701518,2015-01-28,Adopted
+702006,2015-01-29,Adopted
+703291,2015-01-28,Introduced
+703291,2015-01-29,"Refer to Committee: State Government"
+703308,2015-01-28,Introduced
+703308,2015-01-29,"Refer to Committee: Transportation and Infrastructure"
+703329,2016-01-20,Passed
+703329,2016-05-17,"Effective 5/17/16"
+703354,2015-02-18,Passed
+703354,2015-02-23,Introduced
+703354,2015-03-04,"Refer to Committee: Transportation, Commerce and Labor"
+703373,2015-01-28,Introduced
+703373,2015-02-10,"To committee: Education"
+703396,2015-03-11,Passed
+703396,2015-04-01,"Effective 4/1/15"
+703416,2015-05-27,Passed
+703416,2015-06-02,Introduced
+703416,2015-06-03,"Refer to Committee: Ways and Means"
+703441,2015-01-28,Introduced
+703441,2015-01-29,"Refer to Committee: Ways and Means"
+703462,2015-06-30,"Concurred in Senate amendments"
+703462,2015-07-16,"Effective 7/16/15"
+703484,2016-05-24,"Concurred in Senate amendments"
+703484,2016-09-14,"Effective 9/14/16"
+703510,2016-05-25,Passed
+703531,2015-02-18,Passed
+703531,2015-02-23,Introduced
+703531,2015-03-04,"Refer to Committee: Agriculture"
+703549,2015-01-28,Introduced
+703549,2015-02-10,"To committee: Government Accountability and Oversight"
+703581,2015-06-24,"Concurred in Senate amendments"
+703581,2015-07-16,"Effective 7/16/15"
+703602,2015-09-30,"Concurred in Senate amendments"
+703602,2015-10-19,"Effective 10/19/15"
+703624,2015-01-28,Adopted
+703648,2015-06-03,Passed
+703648,2015-09-24,"Effective 9/24/15"
+703670,2015-03-18,Passed
+703670,2015-03-18,"Reported - Substitute: Energy and Natural Resources"
+703670,2015-03-19,Introduced
+703670,2015-03-25,"Refer to Committee: Energy and Natural Resources"
+703694,2015-01-28,Introduced
+703694,2015-01-29,"Refer to Committee: State Government"
+703711,2015-01-28,Introduced
+703711,2015-01-29,"Refer to Committee: Economic and Workforce Development"
+703711,2015-03-25,"Re-referred - Substitute: Rules and Reference"
+703711,2015-04-14,"Re-referred: Finance"
+703731,2016-05-25,Passed
+703731,2016-06-01,Introduced
+703731,2016-09-28,"Refer to Committee: Ways and Means"
+703750,2015-06-10,Passed
+703750,2015-06-11,Introduced
+703750,2015-06-16,"Refer to Committee: State and Local Government"
+703750,2015-11-18,"Reported - Substitute: State and Local Government"
+703774,2015-10-07,"Conference report agreed to"
+703774,2016-02-01,"Effective 2/1/16"
+703793,2015-03-10,"Concurred in Senate amendments"
+703793,2015-03-16,"Effective 3/16/15"
+704323,2015-03-17,Passed
+704323,2015-03-18,Introduced
+704323,2015-03-25,"Refer to Committee: Health and Human Services"
+704379,2015-01-28,Adopted
+704438,2015-01-29,Introduced
+704438,2015-02-10,"To committee: Education"
+704495,2015-01-29,Adopted
+704551,2015-01-29,Adopted
+704605,2015-01-29,Adopted
+705284,2015-01-29,Adopted
+707896,2015-04-22,Adopted
+707896,2015-04-23,Offered
+707896,2015-05-05,Offered
+707896,2015-05-19,"Refer to Committee: Government Accountability and Oversight"
+707896,2015-06-17,Offered
+708719,2015-12-09,"Concurred in House amendments"
+708719,2016-03-23,"Effective 3/23/16"
+708735,2015-02-02,Introduced
+708753,2015-03-25,"Concurred in House amendments"
+708753,2015-07-03,"Effective 7/3/15"
+708769,2015-02-02,Introduced
+708785,2015-03-25,Passed
+708785,2015-03-26,Introduced
+708785,2015-04-14,"Refer to Committee: Judiciary"
+708785,2015-05-20,"Reported - Substitute: Judiciary"
+708802,2015-02-02,Introduced
+708818,2015-02-02,Introduced
+708818,2015-02-04,"Refer to Committee: Finance"
+708837,2015-06-03,"Concurred in House amendments"
+708837,2015-09-24,"Effective 9/24/15"
+708852,2015-02-02,Introduced
+708852,2015-02-26,"Reported: Transportation, Commerce and Labor"
+708852,2015-03-04,"Re-referred: Finance"
+708852,2015-10-14,"Reported - Substitute: Finance"
+708852,2015-10-21,"Recommitted: Finance"
+708868,2015-02-02,Introduced
+708868,2015-02-04,"Refer to Committee: Finance"
+708886,2015-02-02,Introduced
+708904,2015-02-02,Introduced
+708925,2015-02-02,Introduced
+708938,2015-02-02,Introduced
+708957,2015-02-02,Introduced
+708975,2015-02-02,Introduced
+708991,2015-02-02,Introduced
+708991,2015-02-04,"Refer to Committee: Finance"
+709006,2015-02-02,Introduced
+709006,2015-02-04,"Refer to Committee: Finance"
+709024,2015-02-02,Introduced
+709040,2015-03-25,Passed
+709040,2015-03-26,Introduced
+709040,2015-04-14,"Refer to Committee: Education"
+709057,2015-12-08,Passed
+709057,2016-03-23,"Effective 3/23/16"
+709074,2015-03-11,Passed
+709074,2015-03-12,Introduced
+709074,2015-03-24,"Refer to Committee: Economic and Workforce Development"
+709091,2016-01-27,"Concurred in House amendments"
+709091,2016-02-14,"Effective 2/14/16<div>Emergency: effective February 14, 2016</div>"
+709109,2015-02-02,Introduced
+709125,2015-05-06,Passed
+709125,2015-05-07,Introduced
+709125,2015-05-12,"Refer to Committee: Ways and Means"
+709136,2015-02-02,Introduced
+710001,2015-02-03,Introduced
+710001,2015-02-10,"To committee: Finance"
+710036,2015-06-03,Passed
+710036,2015-09-24,"Effective 9/24/15"
+710068,2015-02-03,Introduced
+710068,2015-02-10,"To committee: Government Accountability and Oversight"
+710068,2015-02-18,"Re-referred: Rules and Reference"
+710068,2015-02-19,"Re-referred: State Government"
+710103,2015-02-03,Introduced
+710103,2015-02-10,"To committee: Government Accountability and Oversight"
+710135,2015-03-04,Passed
+710135,2015-03-09,Introduced
+710135,2015-03-10,"Refer to Committee: State and Local Government"
+710172,2015-09-30,Passed
+710172,2015-10-01,Introduced
+710172,2015-10-07,"Refer to Committee: Government Oversight and Reform"
+710206,2015-02-03,Introduced
+710206,2015-02-10,"To committee: Judiciary"
+710309,2016-05-18,"Concurred in Senate amendments"
+710309,2016-08-31,"Effective 8/31/16"
+710376,2015-02-03,Introduced
+710376,2015-02-10,"To committee: Health and Aging"
+710439,2015-02-03,Introduced
+710439,2015-02-10,"To committee: Judiciary"
+710506,2015-06-30,Passed
+710506,2015-10-15,"Effective 10/15/15"
+710570,2015-02-03,Introduced
+710570,2015-02-10,"To committee: Ways and Means"
+710631,2015-06-17,Passed
+710631,2015-06-18,Introduced
+710631,2015-06-24,"Refer to Committee: Ways and Means"
+711118,2015-02-04,Introduced
+711118,2015-02-10,"To committee: Government Accountability and Oversight"
+711222,2015-03-17,"Passed - Amended"
+711222,2015-03-18,Introduced
+711222,2015-03-25,"Refer to Committee: Health and Human Services"
+711344,2015-10-07,"Concurred in Senate amendments"
+711344,2016-02-01,"Effective 2/1/16"
+713073,2015-02-09,Adopted
+715608,2015-02-09,Introduced
+715608,2015-02-11,"To committee: Education"
+715632,2015-02-09,Introduced
+715632,2015-02-11,"To committee: Health and Human Services"
+715660,2015-01-27,Adopted
+715690,2016-04-13,Passed
+715690,2016-04-14,Introduced
+715690,2016-04-26,"Refer to Committee: Insurance"
+715719,2015-02-09,Introduced
+715719,2015-02-11,"To committee: Medicaid"
+715752,2015-02-09,Introduced
+715752,2015-02-11,"To committee: Transportation, Commerce and Labor"
+715782,2015-02-09,Introduced
+715782,2015-02-11,"To committee: Transportation, Commerce and Labor"
+715809,2015-02-09,Introduced
+715809,2015-02-11,"To committee: Health and Human Services"
+715841,2015-05-13,Passed
+715841,2015-05-14,Introduced
+715841,2015-05-19,"Refer to Committee: Community and Family Advancement"
+715870,2015-02-09,Introduced
+715870,2015-02-11,"To committee: Insurance"
+715903,2015-02-09,Adopted
+715931,2015-10-14,"Passed - Amended"
+715931,2015-10-19,Introduced
+715931,2015-10-26,"Refer to Committee: Transportation and Infrastructure"
+715964,2015-02-09,Introduced
+715964,2015-02-11,"To committee: State and Local Government"
+715991,2015-04-29,Passed
+715991,2015-08-12,"Effective 8/12/15"
+717145,2015-02-10,Introduced
+717145,2015-02-11,"Refer to Committee: Ways and Means"
+717231,2016-05-25,Passed
+717231,2016-09-13,"Effective 9/13/16"
+717322,2015-04-15,Passed
+717322,2015-04-20,Introduced
+717322,2015-04-22,"Refer to Committee: Finance"
+717408,2015-02-10,Introduced
+717408,2015-02-11,"Refer to Committee: Finance"
+717499,2015-02-10,Introduced
+717499,2015-02-11,"Refer to Committee: Local Government"
+717585,2015-04-29,"Concurred in Senate amendments"
+717585,2015-04-30,"Effective 4/30/15"
+717763,2015-11-17,Passed
+717763,2015-11-18,Introduced
+717763,2015-12-09,"Refer to Committee: Government Oversight and Reform"
+717848,2015-02-10,Introduced
+717848,2015-02-11,"Refer to Committee: Transportation and Infrastructure"
+717863,2015-06-26,"Concurred in Senate amendments"
+717863,2015-06-30,"Effective 6/30/15<div>Certain provisions effective 9/29/15; Certain other provisions effective on other dates</div>"
+717911,2015-02-10,Introduced
+717911,2015-02-11,"To committee: Ways and Means"
+717964,2015-02-10,Introduced
+717964,2015-02-11,"Refer to Committee: Ways and Means"
+718018,2015-02-10,Introduced
+718018,2015-02-11,"To committee: Criminal Justice"
+718070,2015-02-10,Adopted
+718125,2015-06-24,Passed
+718125,2015-06-30,"Effective 6/30/15<div>Certain provisions effective 9/29/15</div>"
+718177,2015-02-10,Adopted
+718235,2015-02-10,Adopted
+718290,2015-02-10,Adopted
+718343,2015-02-10,Introduced
+718343,2015-02-11,"To committee: Health and Human Services"
+718396,2015-02-10,Adopted
+718449,2015-03-10,Adopted
+718449,2015-03-11,Offered
+718449,2015-03-17,"Refer to Committee: Health and Human Services"
+718449,2015-10-21,"Reported: Health and Human Services"
+718449,2015-12-09,Adopted
+718503,2015-03-26,"Conference report agreed to"
+718503,2016-08-01,"Line item veto receipt"
+718503,2015-07-01,"Effective 7/1/15<div>Certain provisions effective on other dates</div>"
+718559,2015-02-10,"Accept Intro and Referral Report: Education"
+718559,2015-02-10,"Introduced and Referred to Committee"
+718559,2015-12-09,"Reported: Education"
+718611,2015-12-09,"Concurred in Senate amendments"
+718611,2016-03-23,"Effective 3/23/16"
+718667,2015-02-10,Introduced
+718667,2015-02-11,"To committee: Ways and Means"
+718719,2015-02-10,Introduced
+718719,2015-02-11,"Refer to Committee: Education"
+718773,2015-02-10,Introduced
+718773,2015-02-11,"Refer to Committee: Education"
+718826,2015-02-10,Adopted
+720104,2015-06-26,"Conference report agreed to"
+720104,2016-08-01,"Line item veto receipt"
+720104,2015-06-30,"Effective 6/30/15<div>Certain provisions effective 09/29/15; certain other provisions effective on other dates; contains item vetoes</div>"
+720148,2015-02-11,Introduced
+720148,2015-02-18,"To committee: Government Oversight and Reform"
+720194,2015-02-11,Introduced
+720194,2015-02-18,"To committee: Energy and Natural Resources"
+720237,2016-05-25,Passed
+720237,2016-09-13,"Effective 9/13/16"
+720279,2015-02-11,Introduced
+720279,2015-02-18,"To committee: Energy and Natural Resources"
+720324,2015-02-11,Introduced
+720324,2015-02-18,"To committee: Finance"
+720367,2015-02-18,Adopted
+720411,2015-03-10,Passed
+720411,2015-03-11,Introduced
+720411,2015-03-17,"Refer to Committee: Agriculture"
+720455,2015-02-11,Introduced
+720455,2015-02-18,"To committee: Energy and Natural Resources"
+720494,2016-02-17,Passed
+720494,2016-02-18,Introduced
+720494,2016-02-23,"Refer to Committee: Transportation, Commerce and Labor"
+720538,2015-02-11,Adopted
+720584,2015-02-11,Introduced
+720584,2015-02-18,"To committee: Ways and Means"
+720624,2015-02-11,Introduced
+720624,2015-02-18,"To committee: Criminal Justice"
+720624,2016-02-11,"Reported - Substitute: Criminal Justice"
+720669,2015-02-11,Introduced
+720669,2015-02-18,"To committee: Health and Human Services"
+720711,2015-06-25,Passed
+720711,2015-10-15,"Effective 10/15/15"
+720757,2015-02-11,Introduced
+720757,2015-02-12,"Refer to Committee: Judiciary"
+720800,2016-05-18,"Passed - Amended"
+720800,2016-05-19,Introduced
+720800,2016-09-28,"Refer to Committee: Civil Justice"
+720845,2015-02-11,Introduced
+720845,2015-02-18,"To committee: Transportation, Commerce and Labor"
+720888,2015-02-11,Adopted
+720933,2015-02-11,Adopted
+720976,2015-02-11,Adopted
+721020,2015-02-11,Introduced
+721020,2015-02-18,"To committee: Criminal Justice"
+721063,2015-11-17,Passed
+721063,2015-11-19,Introduced
+721063,2016-01-20,"Refer to Committee: Transportation and Infrastructure"
+721102,2016-04-12,Passed
+721102,2016-04-13,Introduced
+721102,2016-04-20,"Refer to Committee: Criminal Justice"
+721112,2015-02-11,Adopted
+722504,2015-02-11,Adopted
+722854,2015-02-12,Introduced
+722854,2015-02-18,"To committee: Ways and Means"
+725472,2015-02-12,Adopted
+725606,2015-02-12,Adopted
+725734,2015-06-16,Passed
+725734,2015-06-17,Introduced
+725734,2015-06-23,"Refer to Committee: Health and Aging"
+725734,2016-01-26,"Reported - Substitute: Health and Aging"
+727000,2015-03-25,Passed
+727000,2015-03-26,Introduced
+727000,2015-04-14,"Refer to Committee: Health and Human Services"
+727068,2015-02-17,Introduced
+727068,2015-02-18,"To committee: Armed Services, Veterans Affairs, and Public Safety"
+727142,2015-02-17,Introduced
+727142,2015-02-18,"To committee: Government Accountability and Oversight"
+727210,2015-02-17,Introduced
+727210,2015-02-18,"To committee: Finance"
+727216,2015-02-17,Introduced
+727216,2015-02-18,"To committee: Civil Justice"
+727334,2015-02-17,Introduced
+727334,2015-02-18,"To committee: State and Local Government"
+727860,2015-02-17,Adopted
+727944,2015-02-17,Introduced
+727944,2015-02-18,"To committee: Health and Human Services"
+728235,2015-02-18,Adopted
+728397,2015-02-25,Adopted
+728437,2015-04-22,Passed
+728437,2015-04-23,Introduced
+728437,2015-04-28,"Refer to Committee: Transportation and Infrastructure"
+728437,2016-01-20,"Reported: Transportation and Infrastructure"
+728437,2016-01-26,Passed
+728437,2016-05-17,"Effective 5/17/16"
+728477,2015-02-18,Introduced
+728477,2015-03-04,"Refer to Committee: Energy and Natural Resources"
+728519,2016-05-25,"Concurred in House amendments"
+728519,2016-09-13,"Effective 9/13/16"
+728564,2015-02-18,Introduced
+728564,2015-02-25,"To committee: Government Accountability and Oversight"
+728601,2015-02-18,Adopted
+728645,2015-12-09,Passed
+728645,2016-03-23,"Effective 3/23/16"
+728686,2015-06-24,"Concurred in Senate amendments"
+728686,2015-10-15,"Effective 10/15/15"
+728728,2015-02-18,Adopted
+728728,2015-02-23,Adopted
+728728,2015-02-23,"Received from the House"
+728768,2015-02-18,Introduced
+728768,2015-03-04,"Refer to Committee: Government Oversight and Reform"
+728811,2015-02-18,Introduced
+728811,2015-03-04,"Refer to Committee: Education"
+728851,2015-02-18,Adopted
+728891,2015-02-18,Introduced
+728891,2015-02-25,"To committee: Public Utilities"
+729387,2015-06-30,"Concurred in House amendments"
+729387,2015-10-15,"Effective 10/15/15"
+729701,2015-02-19,Introduced
+729701,2015-02-25,"To committee: State Government"
+729792,2015-02-19,Introduced
+729792,2015-02-25,"To committee: Judiciary"
+729878,2015-05-13,Passed
+729878,2015-05-18,Introduced
+729878,2015-05-27,"Refer to Committee: Education"
+729885,2015-02-19,Introduced
+729885,2015-02-25,"To committee: State Government"
+729985,2015-02-19,Introduced
+729985,2015-02-25,"To committee: Commerce and Labor"
+730090,2015-02-19,Introduced
+730090,2015-02-25,"To committee: State Government"
+732762,2015-02-11,Adopted
+733321,2015-02-23,Adopted
+733346,2015-02-23,Introduced
+733346,2015-03-04,"Refer to Committee: Criminal Justice"
+733356,2015-02-23,Introduced
+733356,2015-03-04,"Refer to Committee: Civil Justice"
+733368,2015-02-23,Introduced
+733368,2015-03-04,"Refer to Committee: Finance"
+733381,2015-09-30,Passed
+733381,2015-10-01,Introduced
+733381,2015-10-07,"Refer to Committee: Judiciary"
+733393,2015-02-23,Introduced
+733393,2015-03-04,"Refer to Committee: Health and Human Services"
+733405,2015-02-23,Introduced
+733405,2015-03-04,"Refer to Committee: Finance"
+733419,2015-02-23,Introduced
+733419,2015-03-04,"Refer to Committee: Insurance"
+733435,2015-02-23,Introduced
+733435,2015-03-04,"Refer to Committee: State and Local Government"
+733447,2015-02-23,Introduced
+733447,2015-03-04,"Refer to Committee: Insurance"
+733460,2015-02-23,Introduced
+733460,2015-03-04,"Refer to Committee: Medicaid"
+733477,2015-02-23,Introduced
+733477,2015-03-04,"Refer to Committee: Health and Human Services"
+733488,2015-02-23,Introduced
+733488,2015-03-04,"Refer to Committee: Transportation, Commerce and Labor"
+733501,2015-02-23,Introduced
+733501,2015-03-04,"Refer to Committee: Transportation, Commerce and Labor"
+733513,2015-02-23,Introduced
+733513,2015-03-04,"Refer to Committee: Finance"
+733529,2015-02-23,Introduced
+733529,2015-03-04,"Refer to Committee: Transportation, Commerce and Labor"
+733543,2015-02-23,Introduced
+733543,2015-03-04,"Refer to Committee: Finance"
+733553,2015-02-23,Introduced
+733553,2015-03-04,"Refer to Committee: Ways and Means"
+733565,2015-02-23,Introduced
+733565,2015-03-04,"Refer to Committee: Transportation, Commerce and Labor"
+733580,2015-02-23,Introduced
+733580,2015-03-04,"Refer to Committee: Transportation, Commerce and Labor"
+733592,2015-06-25,Passed
+733592,2015-06-26,Introduced
+733592,2015-10-01,"Refer to Committee: Armed Services, Veterans Affairs, and Public Safety"
+733605,2016-05-04,Passed
+733605,2016-08-16,"Effective 8/16/16"
+733614,2015-02-23,Introduced
+733614,2015-03-04,"Refer to Committee: Finance"
+736045,2016-02-17,Passed
+736045,2016-02-18,Introduced
+736045,2016-02-23,"Refer to Committee: State and Local Government"
+736101,2015-02-25,Introduced
+736101,2015-03-04,"Refer to Committee: State Government"
+736157,2015-02-25,Introduced
+736157,2015-03-04,"Refer to Committee: Armed Services, Veterans Affairs, and Public Safety"
+736213,2016-05-24,Passed
+736213,2016-05-25,Introduced
+736213,2016-09-28,"Refer to Committee: Education"
+736268,2015-05-27,Passed
+736268,2015-06-02,Introduced
+736268,2015-06-03,"Refer to Committee: Civil Justice"
+736268,2015-12-09,"Reported - Amended: Civil Justice"
+736329,2015-02-25,Introduced
+736329,2015-03-04,"Refer to Committee: Government Accountability and Oversight"
+736385,2015-02-25,Introduced
+736385,2015-03-04,"Refer to Committee: Armed Services, Veterans Affairs, and Public Safety"
+736440,2015-02-25,Introduced
+736440,2015-03-04,"Refer to Committee: Energy and Natural Resources"
+736496,2016-05-11,Passed
+736496,2016-05-12,Introduced
+736496,2016-05-17,"Refer to Committee: Education"
+736551,2015-02-25,Introduced
+736551,2015-03-04,"Refer to Committee: Government Accountability and Oversight"
+736602,2015-02-25,Introduced
+736602,2015-03-04,"Refer to Committee: Ways and Means"
+738127,2015-02-26,Introduced
+738127,2015-03-04,"Refer to Committee: Ways and Means"
+738192,2015-02-26,Introduced
+738192,2015-03-04,"Refer to Committee: Health and Human Services"
+738257,2015-02-26,Introduced
+738257,2015-03-04,"Refer to Committee: Health and Human Services"
+738322,2015-02-26,Introduced
+738322,2015-03-04,"Refer to Committee: Finance"
+738391,2015-02-26,Introduced
+738391,2015-03-04,"Refer to Committee: Transportation, Commerce and Labor"
+738459,2015-02-26,Introduced
+738459,2015-03-04,"Refer to Committee: Transportation, Commerce and Labor"
+738524,2015-02-26,Introduced
+738524,2015-03-04,"Refer to Committee: Finance"
+738592,2015-02-26,Introduced
+738592,2015-03-04,"Refer to Committee: Medicaid"
+738660,2015-02-26,Introduced
+738660,2015-03-04,"Refer to Committee: Finance"
+741798,2015-09-30,Passed
+741798,2015-10-01,Introduced
+741798,2015-10-07,"Refer to Committee: Government Oversight and Reform"
+741830,2015-03-02,Introduced
+741830,2015-03-04,"Refer to Committee: Ways and Means"
+741864,2015-03-02,Introduced
+741864,2015-03-04,"Refer to Committee: Government Accountability and Oversight"
+741895,2015-09-23,Passed
+741895,2016-01-19,"Effective 1/19/16"
+741923,2015-03-02,Introduced
+741923,2015-03-04,"Refer to Committee: Agriculture and Rural Development"
+741928,2015-03-04,Adopted
+742462,2015-03-03,Introduced
+742462,2015-03-04,"Refer to Committee: Health and Aging"
+742610,2015-06-10,Passed
+742610,2015-06-11,Introduced
+742610,2015-06-16,"Refer to Committee: Insurance"
+742830,2015-03-04,"Introduced and Referred to Committee"
+742830,2015-03-04,"Refer to Committee: Health and Aging"
+743113,2015-03-03,Introduced
+743113,2015-03-04,"Refer to Committee: Government Oversight and Reform"
+743125,2015-03-03,Adopted
+743142,2015-03-03,Introduced
+743142,2015-03-04,"Refer to Committee: Health and Human Services"
+743159,2016-01-20,Passed
+743159,2016-05-17,"Effective 5/17/16"
+743176,2015-03-03,Introduced
+743176,2015-03-04,"Refer to Committee: Ways and Means"
+743197,2015-06-25,Passed
+743197,2015-10-15,"Effective 10/15/15"
+743210,2015-03-03,Introduced
+743210,2015-03-04,"Refer to Committee: State and Local Government"
+743232,2015-03-03,Introduced
+743232,2015-03-04,"Refer to Committee: State and Local Government"
+743246,2015-03-03,Introduced
+743246,2015-03-04,"Refer to Committee: State and Local Government"
+743264,2015-03-03,Introduced
+743264,2015-03-10,"Refer to Committee: Transportation and Infrastructure"
+743288,2015-03-03,Introduced
+743288,2015-03-04,"Refer to Committee: State and Local Government"
+743288,2015-04-15,"Reported - Substitute: State and Local Government"
+743301,2015-03-03,Adopted
+743322,2015-03-03,Introduced
+743322,2015-03-04,"Refer to Committee: State and Local Government"
+743337,2015-03-03,Introduced
+743337,2015-03-04,"Refer to Committee: State and Local Government"
+743360,2015-03-03,Introduced
+743360,2015-03-04,"Refer to Committee: Insurance"
+743377,2015-03-03,Adopted
+743392,2015-03-03,Introduced
+743392,2015-03-04,"Refer to Committee: State and Local Government"
+743415,2016-05-25,"Concurred in House amendments"
+743415,2016-09-14,"Effective 9/14/16"
+743428,2015-03-03,Adopted
+743449,2015-03-03,Introduced
+743449,2015-03-04,"Refer to Committee: Finance"
+743468,2015-03-03,Adopted
+743484,2015-03-03,Introduced
+743484,2015-03-04,"Refer to Committee: State and Local Government"
+743500,2015-03-03,Introduced
+743500,2015-03-04,"Refer to Committee: State and Local Government"
+744054,2015-06-17,Adopted
+744094,2016-05-11,Adopted
+744140,2015-03-04,Introduced
+744140,2015-03-10,"Refer to Committee: Ways and Means"
+744180,2015-03-04,Introduced
+744180,2015-03-10,"Refer to Committee: Transportation and Infrastructure"
+744231,2015-03-10,"Introduced and Referred to Committee: Transportation and Infrastructure"
+744271,2015-05-12,Adopted
+744271,2015-05-13,Offered
+744271,2015-05-27,"Refer to Committee: Government Oversight and Reform"
+744271,2015-10-21,"Reported: Government Oversight and Reform"
+744271,2015-12-09,Adopted
+744315,2015-03-04,Introduced
+744315,2015-03-10,"Refer to Committee: Agriculture and Rural Development"
+744428,2015-03-04,Introduced
+744428,2015-03-16,"Refer to Committee: Ways and Means"
+744490,2015-03-04,Introduced
+744490,2015-03-10,"Refer to Committee: Health and Human Services"
+744557,2015-06-10,"Passed - Amended"
+744557,2015-06-11,Introduced
+744557,2015-06-16,"Refer to Committee: Government Oversight and Reform"
+744618,2015-03-04,Introduced
+744618,2015-03-10,"Refer to Committee: Insurance"
+744679,2015-03-04,Introduced
+744679,2015-03-10,"Refer to Committee: State and Local Government"
+744737,2015-03-04,Introduced
+744737,2015-03-10,"Refer to Committee: Health and Human Services"
+744812,2015-03-04,Adopted
+744885,2015-03-04,Adopted
+744955,2015-03-04,Adopted
+745022,2015-03-04,Adopted
+745309,2015-03-05,Introduced
+745309,2015-03-16,"Refer to Committee: Armed Services, Veterans Affairs, and Public Safety"
+745309,2016-02-24,"Reported: Armed Services, Veterans Affairs, and Public Safety"
+745391,2015-03-05,Introduced
+745391,2015-03-16,"Refer to Committee: Armed Services, Veterans Affairs, and Public Safety"
+745475,2015-03-05,Introduced
+745475,2015-03-16,"Refer to Committee: Transportation and Infrastructure"
+745564,2015-03-05,Introduced
+745564,2015-03-16,"Refer to Committee: Judiciary"
+747362,2015-03-09,Introduced
+747362,2015-03-10,"Refer to Committee: Energy and Natural Resources"
+747453,2015-06-25,Passed
+747453,2015-10-15,"Effective 10/15/15"
+747553,2015-06-25,Passed
+747553,2015-06-26,Introduced
+747553,2015-10-01,"Refer to Committee: State Government"
+747654,2015-10-07,Passed
+747654,2016-02-01,"Effective 2/1/16"
+747749,2015-03-09,Introduced
+747749,2015-03-10,"Refer to Committee: Energy and Natural Resources"
+747845,2015-03-09,Introduced
+747845,2015-03-10,"Refer to Committee: Insurance"
+747845,2015-06-16,"Reported - Substitute: Insurance"
+747941,2015-06-16,Passed
+747941,2015-06-17,Introduced
+747941,2015-06-23,"Refer to Committee: Transportation and Infrastructure"
+748656,2015-06-24,Passed
+748656,2015-06-25,Introduced
+748656,2015-06-30,"Refer to Committee: State and Local Government"
+748708,2016-05-25,Passed
+748708,2016-09-14,"Effective 9/14/16"
+748761,2015-03-10,Introduced
+748761,2015-03-16,"Refer to Committee: Insurance"
+748816,2015-03-10,Introduced
+748816,2015-03-16,"Refer to Committee: Government Accountability and Oversight"
+748871,2015-03-10,Introduced
+748871,2015-03-16,"Refer to Committee: Ways and Means"
+748924,2016-05-24,"Concurred in Senate amendments"
+748924,2016-09-13,"Effective 9/13/16"
+748977,2015-03-10,Introduced
+748977,2015-03-24,"Refer to Committee: Judiciary"
+749088,2015-03-10,Adopted
+749133,2015-03-10,Adopted
+749178,2016-02-23,Passed
+749178,2016-07-06,"Effective 7/6/16"
+749227,2015-03-10,Adopted
+749279,2015-03-10,Introduced
+749279,2015-03-17,"Refer to Committee: Education"
+749327,2016-05-25,Passed
+749327,2016-09-14,"Effective 9/14/16"
+749372,2015-03-10,Introduced
+749372,2015-03-17,"Refer to Committee: Transportation, Commerce and Labor"
+749419,2015-03-10,Adopted
+749464,2015-03-10,Introduced
+749464,2015-03-17,"Refer to Committee: Ways and Means"
+751538,2015-03-11,Introduced
+751538,2015-03-24,"Refer to Committee: Transportation and Infrastructure"
+751631,2015-03-11,Introduced
+751631,2015-03-24,"Refer to Committee: Community and Family Advancement"
+751728,2016-05-11,"Concurred in Senate amendments"
+751728,2016-08-31,"Effective 8/31/16"
+752332,2015-03-11,Adopted
+755029,2015-03-12,Adopted
+755360,2015-03-12,Adopted
+755366,2015-03-12,Introduced
+755366,2015-03-24,"Refer to Committee: Education"
+755450,2015-03-12,Introduced
+755450,2015-03-24,"Refer to Committee: Education"
+755536,2016-01-20,Passed
+755536,2016-05-17,"Effective 5/17/16"
+755623,2015-03-12,Introduced
+755623,2015-03-24,"Refer to Committee: State Government"
+757977,2015-03-16,Adopted
+758057,2015-03-16,Adopted
+758134,2015-06-24,Passed
+758134,2015-06-25,Introduced
+758134,2015-10-01,"Refer to Committee: Community and Family Advancement"
+758143,2015-03-16,Introduced
+758143,2015-03-24,"Refer to Committee: Government Accountability and Oversight"
+758164,2016-05-25,"Concurred in House amendments"
+758164,2016-05-25,"Informally passed"
+758164,2016-09-13,"Effective 9/13/16<div>Certain provisions effective 9/15/2016 and 7/1/2017</div>"
+758189,2016-02-10,Passed
+758189,2016-02-11,Introduced
+758189,2016-02-16,"Refer to Committee: State Government"
+758214,2016-05-24,Passed
+758214,2016-09-08,"Effective 9/8/16"
+758239,2015-09-23,Passed
+758239,2015-09-28,Introduced
+758239,2015-10-07,"Refer to Committee: Transportation and Infrastructure"
+758876,2015-03-17,Adopted
+758902,2015-03-17,Introduced
+758902,2015-03-25,"Refer to Committee: Medicaid"
+758932,2016-05-24,Passed
+758932,2016-09-14,"Effective 9/14/16"
+758968,2015-03-17,Adopted
+758997,2015-03-17,Adopted
+759030,2015-03-17,Adopted
+759204,2015-03-18,Introduced
+759204,2015-03-25,"Refer to Committee: Insurance"
+759240,2015-03-18,Introduced
+759240,2015-03-25,"Refer to Committee: Armed Services, Veterans Affairs, and Public Safety"
+759287,2015-03-18,Introduced
+759287,2015-03-25,"Refer to Committee: Judiciary"
+759332,2015-12-08,"Concurred in Senate amendments"
+759332,2016-03-23,"Effective 3/23/16"
+759383,2016-04-12,Passed
+759383,2016-08-05,"Effective 8/5/16"
+760127,2015-03-19,Introduced
+760127,2015-03-25,"Refer to Committee: Ways and Means"
+761871,2015-03-24,Adopted
+761880,2015-03-24,Adopted
+761896,2015-03-24,Adopted
+761912,2015-03-24,Introduced
+761912,2015-04-14,"Refer to Committee: Health and Aging"
+761928,2015-03-24,Introduced
+761928,2015-04-14,"Refer to Committee: Community and Family Advancement"
+761942,2015-03-24,Introduced
+761942,2015-04-14,"Refer to Committee: Ways and Means"
+761959,2015-12-08,"Concurred in Senate amendments"
+761959,2016-03-23,"Effective 3/23/16"
+761971,2016-05-18,Adopted
+761971,2016-05-19,Offered
+761971,2016-09-28,"Refer to Committee: Government Oversight and Reform"
+761990,2015-03-24,Adopted
+762007,2015-03-24,Adopted
+762022,2015-03-24,Adopted
+762037,2016-05-18,Passed
+762037,2016-05-19,Introduced
+762037,2016-09-28,"Refer to Committee: Finance"
+762052,2015-03-24,Adopted
+762067,2015-03-24,Introduced
+762067,2015-03-25,"Refer to Committee: Civil Justice"
+762610,2015-03-25,Offered
+762610,2015-03-25,Adopted
+762643,2015-03-25,Introduced
+762643,2015-04-14,"Refer to Committee: Insurance"
+762686,2015-11-17,Passed
+762686,2015-11-18,Introduced
+762686,2015-12-09,"Refer to Committee: Government Oversight and Reform"
+762732,2015-03-25,Offered
+762732,2015-03-25,Adopted
+762771,2015-03-25,Introduced
+762771,2015-04-14,"Refer to Committee: Community and Family Advancement"
+762771,2015-06-17,"Reported: Community and Family Advancement"
+762817,2015-03-25,Adopted
+762862,2015-03-25,Introduced
+762862,2015-04-14,"Refer to Committee: Finance"
+763263,2015-03-26,Adopted
+763316,2015-03-26,Adopted
+763374,2015-03-26,Introduced
+763374,2015-04-14,"Refer to Committee: Education"
+763436,2015-03-26,Adopted
+764814,2015-03-31,Adopted
+764850,2015-03-31,Adopted
+764892,2015-03-31,Adopted
+764936,2015-03-31,Adopted
+764976,2015-03-31,Adopted
+765235,2015-06-18,Passed
+765235,2015-09-29,"Effective 9/29/15"
+765250,2015-04-01,Introduced
+765250,2015-04-14,"Refer to Committee: Education"
+765250,2016-04-26,"Reported: Education"
+765263,2015-04-01,Introduced
+765263,2015-04-14,"Refer to Committee: Transportation and Infrastructure"
+765279,2015-04-01,Introduced
+765279,2015-04-14,"Refer to Committee: Education"
+765292,2015-04-01,Introduced
+765292,2015-04-14,"Refer to Committee: Transportation and Infrastructure"
+765306,2015-04-01,Introduced
+765306,2015-04-14,"Refer to Committee: State Government"
+765319,2015-04-01,Introduced
+765319,2015-04-14,"Refer to Committee: Judiciary"
+765329,2015-12-09,Passed
+765329,2016-03-23,"Effective 3/23/16"
+765334,2015-04-01,Adopted
+765455,2015-04-01,Adopted
+767042,2015-04-06,Adopted
+767051,2015-10-07,Passed
+767051,2015-10-13,Introduced
+767051,2015-10-26,"Refer to Committee: Judiciary"
+767065,2015-04-06,Adopted
+767079,2015-04-06,Introduced
+767079,2015-04-14,"Refer to Committee: Insurance"
+767093,2015-04-06,Introduced
+767093,2015-04-14,"Refer to Committee: Criminal Justice"
+767183,2015-04-14,Introduced
+767183,2015-04-22,"Refer to Committee: Finance"
+767202,2015-04-07,Introduced
+767202,2015-04-14,"Refer to Committee: Finance"
+767215,2015-04-07,Introduced
+767215,2015-04-14,"Refer to Committee: Education"
+767231,2015-04-07,Introduced
+768559,2016-04-20,"Concurred in Senate amendments"
+768559,2016-08-16,"Effective 8/16/16"
+768581,2015-04-13,Introduced
+768581,2015-04-21,"Refer to Committee: Ways and Means"
+768605,2015-04-13,Introduced
+768605,2015-04-21,"Refer to Committee: Financial Institutions, Housing, and Urban Development"
+768627,2015-04-13,Introduced
+768627,2015-04-14,"Refer to Committee: State Government"
+768650,2015-05-27,Passed
+768650,2015-09-09,"Effective 9/9/15"
+768672,2015-04-13,Introduced
+768672,2015-04-21,"Refer to Committee: Education"
+768672,2016-05-25,"Reported - Substitute: Education"
+768691,2016-05-24,Passed
+768691,2016-05-25,Introduced
+768691,2016-09-28,"Refer to Committee: Transportation, Commerce and Labor"
+768906,2015-04-13,Adopted
+768910,2015-04-14,Introduced
+768910,2015-04-22,"Refer to Committee: Government Oversight and Reform"
+768965,2015-04-14,Introduced
+768965,2015-04-22,"Refer to Committee: Finance"
+769020,2015-04-14,Introduced
+769020,2015-04-22,"Refer to Committee: Government Oversight and Reform"
+769075,2015-06-24,Passed
+769075,2015-06-25,Introduced
+769075,2015-10-01,"Refer to Committee: Health and Aging"
+769131,2015-04-14,Introduced
+769131,2015-04-22,"Refer to Committee: Government Oversight and Reform"
+769449,2015-04-14,Adopted
+769462,2015-04-14,Adopted
+769476,2015-04-14,Adopted
+769491,2015-04-14,Adopted
+769503,2015-04-14,Adopted
+769519,2015-04-15,Adopted
+769531,2015-04-14,Adopted
+769548,2015-04-14,Adopted
+769561,2015-04-14,Adopted
+769575,2015-04-14,Adopted
+769588,2015-04-15,Adopted
+769602,2015-04-14,Adopted
+769611,2015-04-15,Adopted
+769621,2015-04-15,Introduced
+769621,2015-04-21,"Refer to Committee: Education"
+769647,2015-06-25,Passed
+769647,2015-06-26,Introduced
+769647,2015-10-01,"Refer to Committee: Judiciary"
+769673,2015-04-15,Introduced
+769673,2015-04-21,"Refer to Committee: Insurance"
+769701,2015-06-24,Passed
+769701,2015-10-15,"Effective 10/15/15"
+769727,2015-04-15,Introduced
+769727,2015-04-22,"Refer to Committee: Ways and Means"
+769758,2015-04-15,Introduced
+769758,2015-04-22,"Refer to Committee: Finance - Education Subcommittee"
+769809,2015-04-14,Adopted
+769830,2015-04-14,Adopted
+769852,2016-05-24,"Concurred in Senate amendments"
+769852,2016-10-12,"Effective 10/12/16"
+769870,2015-04-14,Adopted
+769885,2015-04-14,Adopted
+772270,2015-04-20,Adopted
+772323,2015-09-30,"Adopted - Amended"
+772323,2015-10-01,Offered
+772323,2015-10-07,"Refer to Committee: Agriculture"
+772594,2015-05-05,Offered
+772594,2015-05-12,"Refer to Committee: Government Oversight and Reform"
+772598,2015-04-14,Adopted
+772607,2015-04-14,Adopted
+772617,2015-04-21,"Introduced and Referred to Committee: State Government"
+772636,2016-04-12,Adopted
+772645,2015-04-14,Adopted
+772655,2015-04-14,Adopted
+772665,2015-06-30,Adopted
+772681,2015-04-14,"Introduced and Referred to Committee: Government Accountability and Oversight"
+772831,2015-04-20,Offered
+772831,2015-04-22,"Refer to Committee: Transportation, Commerce and Labor"
+772917,2015-04-20,Introduced
+772917,2015-04-22,"Refer to Committee: Transportation, Commerce and Labor"
+773026,2015-04-20,Adopted
+773028,2015-04-20,Adopted
+773035,2015-03-24,Adopted
+773042,2015-09-30,Passed
+773042,2015-10-01,Introduced
+773042,2015-10-07,"Refer to Committee: State and Local Government"
+773049,2015-04-20,Adopted
+773054,2015-04-21,Adopted
+773060,2015-04-21,Adopted
+773067,2015-04-20,Adopted
+773072,2015-04-21,Introduced
+773072,2015-04-28,"Refer to Committee: Commerce and Labor"
+773079,2015-04-21,Introduced
+773079,2015-04-28,"Refer to Committee: Ways and Means"
+773082,2015-04-21,Adopted
+773091,2015-04-16,Adopted
+773097,2015-04-21,Adopted
+773103,2015-04-21,Adopted
+773109,2015-04-20,Adopted
+773116,2015-04-21,Introduced
+773116,2015-04-28,"Refer to Committee: Transportation and Infrastructure"
+773121,2015-04-21,Adopted
+773130,2015-04-21,Introduced
+773130,2015-04-28,"Refer to Committee: Education"
+773136,2015-04-20,Adopted
+773139,2015-04-21,Adopted
+773145,2015-04-21,Adopted
+773152,2015-04-21,Adopted
+773159,2015-04-21,Adopted
+773450,2015-04-22,Introduced
+773450,2015-04-29,"Refer to Committee: Civil Justice"
+773465,2015-04-22,Adopted
+773474,2015-04-22,Adopted
+773492,2015-04-22,Adopted
+773498,2015-04-22,Adopted
+773517,2015-04-22,Adopted
+773520,2015-04-22,Adopted
+774073,2015-04-23,Adopted
+774225,2016-05-24,"Concurred in Senate amendments"
+774225,2016-09-08,"Effective 9/8/16"
+774236,2016-02-10,Passed
+774236,2016-02-11,Introduced
+774236,2016-02-23,"Refer to Committee: State and Local Government"
+774247,2015-06-24,Passed
+774247,2015-06-25,Introduced
+774247,2015-06-30,"Refer to Committee: Transportation, Commerce and Labor"
+774260,2016-04-12,Passed
+774260,2016-04-13,Introduced
+774260,2016-04-20,"Refer to Committee: Energy and Natural Resources"
+774268,2016-05-24,"Concurred in Senate amendments"
+774268,2016-09-14,"Effective 9/14/16"
+774418,2015-04-27,Adopted
+774425,2015-04-27,Adopted
+774434,2015-04-27,Adopted
+774445,2015-04-27,Adopted
+774454,2015-04-27,Adopted
+774461,2015-04-27,Offered
+774461,2015-04-29,"Refer to Committee: State and Local Government"
+774468,2015-04-27,Adopted
+774473,2015-04-28,Introduced
+774473,2015-05-05,"Refer to Committee: Commerce and Labor"
+774481,2016-05-25,Passed
+774481,2016-09-14,"Effective 9/14/16"
+774493,2015-04-28,Introduced
+774493,2015-05-05,"Refer to Committee: Education"
+774504,2015-04-28,Introduced
+774504,2015-05-05,"Refer to Committee: Ways and Means"
+774504,2015-06-24,"Re-referred - Substitute: Rules and Reference"
+774504,2015-09-16,"Re-referred: Finance"
+774504,2015-11-19,"Reported: Finance"
+774517,2015-04-28,Introduced
+774517,2015-05-05,"Refer to Committee: Commerce and Labor"
+774530,2015-04-27,Introduced
+774530,2015-04-29,"Refer to Committee: Agriculture"
+774541,2016-05-18,Passed
+774541,2016-05-19,Introduced
+774541,2016-09-28,"Refer to Committee: Criminal Justice"
+774554,2016-05-25,"Concurred in Senate amendments"
+774554,2016-05-25,"Reported - Amended: State and Local Government"
+774554,2016-05-25,"Informally passed"
+774554,2016-09-08,"Effective 9/8/16"
+774566,2015-04-28,Introduced
+774566,2015-05-05,"Refer to Committee: Economic and Workforce Development"
+774770,2015-04-28,Adopted
+774777,2015-04-28,Adopted
+774794,2015-04-28,Adopted
+774801,2015-04-28,Adopted
+774814,2015-04-28,Introduced
+774814,2015-05-05,"Refer to Committee: Agriculture and Rural Development"
+774831,2015-04-28,Adopted
+774844,2015-04-28,Adopted
+774851,2015-04-28,Adopted
+774866,2015-04-28,Adopted
+774876,2015-04-28,Adopted
+774889,2015-04-28,Adopted
+774896,2015-04-28,Adopted
+775343,2015-04-29,Introduced
+775343,2015-05-12,"Refer to Committee: Transportation, Commerce and Labor"
+775359,2016-05-25,Passed
+775359,2016-09-14,"Effective 9/14/16"
+775368,2016-05-11,Passed
+775368,2016-08-31,"Effective 8/31/16"
+775386,2015-04-29,Introduced
+775386,2015-05-05,"Refer to Committee: Government Accountability and Oversight"
+775394,2015-04-29,Introduced
+775394,2015-05-12,"Refer to Committee: Agriculture"
+775410,2016-05-04,"Refused to concur in House amendments"
+775417,2015-04-29,Introduced
+775417,2015-05-12,"Refer to Committee: Criminal Justice"
+775522,2015-04-29,Adopted
+775538,2015-04-29,Adopted
+775557,2015-04-29,Adopted
+775571,2015-04-30,Adopted
+775588,2015-04-29,Adopted
+775750,2015-04-30,Introduced
+775750,2015-05-05,"Refer to Committee: Government Accountability and Oversight"
+775776,2016-05-25,Passed
+775776,2016-09-13,"Effective 9/13/16"
+776100,2015-04-30,Adopted
+776114,2015-04-30,Introduced
+776114,2015-05-12,"Refer to Committee: Public Utilities"
+776500,2015-05-05,Introduced
+776500,2015-05-12,"Refer to Committee: Government Accountability and Oversight"
+776500,2016-04-20,"Reported - Substitute: Government Accountability and Oversight"
+776532,2015-12-09,"Concurred in Senate amendments"
+776532,2016-03-23,"Effective 3/23/16"
+776561,2015-05-05,Introduced
+776561,2015-05-12,"Refer to Committee: Government Accountability and Oversight"
+776588,2016-02-10,Passed
+776588,2016-02-11,Introduced
+776588,2016-02-23,"Refer to Committee: Criminal Justice"
+776615,2015-05-05,Introduced
+776615,2015-05-12,"Refer to Committee: State Government"
+776640,2016-05-18,Passed
+776640,2016-08-31,"Effective 8/31/16"
+776663,2015-05-05,Introduced
+776663,2015-05-12,"Refer to Committee: Commerce and Labor"
+776676,2015-05-05,Adopted
+776679,2015-05-05,Adopted
+776685,2015-05-05,Adopted
+776687,2015-05-05,Adopted
+776690,2015-05-05,Adopted
+776695,2015-05-05,Adopted
+776699,2015-05-05,Adopted
+776703,2015-05-05,Adopted
+776710,2015-05-05,Adopted
+776714,2015-05-05,Introduced
+776714,2015-05-12,"Refer to Committee: Civil Justice"
+776717,2015-05-05,"Introduced and Referred to Committee: Commerce and Labor"
+776720,2015-05-05,Introduced
+776720,2015-05-12,"Refer to Committee: Government Oversight and Reform"
+776730,2015-05-05,Adopted
+776734,2015-05-05,Adopted
+776741,2015-05-05,Adopted
+776743,2015-05-05,Adopted
+776748,2015-05-05,Adopted
+776753,2015-05-05,Adopted
+776759,2015-05-05,Adopted
+776765,2015-05-05,Adopted
+776769,2015-05-05,Adopted
+776771,2015-05-05,Adopted
+776775,2015-05-05,Adopted
+776777,2015-05-05,Adopted
+776779,2015-05-05,Adopted
+776983,2015-05-06,Introduced
+776983,2015-05-12,"Refer to Committee: Public Utilities"
+777044,2015-05-13,Adopted
+777044,2015-05-13,Adopted
+777044,2015-05-13,Adopted
+777177,2015-05-06,Adopted
+777315,2015-05-06,Adopted
+777353,2016-05-25,"Passed - Amended"
+777353,2016-09-14,"Effective 9/14/16"
+777381,2015-05-07,Introduced
+777381,2015-05-12,"Refer to Committee: Education"
+777421,2015-05-07,Introduced
+777421,2015-05-12,"Refer to Committee: Government Accountability and Oversight"
+777454,2015-05-07,Introduced
+777454,2015-05-12,"Refer to Committee: Government Accountability and Oversight"
+777482,2015-05-06,Adopted
+777891,2015-05-11,Adopted
+777893,2015-05-11,Adopted
+777897,2015-05-11,Adopted
+777902,2015-05-11,Adopted
+777905,2015-05-11,Adopted
+777910,2015-05-11,Adopted
+778074,2015-12-01,Passed
+778074,2015-12-08,Introduced
+778074,2016-01-20,"Refer to Committee: Health and Human Services"
+778081,2015-05-11,Introduced
+778081,2015-05-18,"Refer to Committee: Community and Family Advancement"
+778087,2015-10-07,Passed
+778087,2015-10-13,Introduced
+778087,2015-10-14,"Refer to Committee: Transportation, Commerce and Labor"
+778094,2015-05-11,Introduced
+778094,2015-05-19,"Refer to Committee: Judiciary"
+778100,2015-05-11,Introduced
+778100,2015-05-19,"Refer to Committee: Commerce and Labor"
+778105,2015-05-11,Introduced
+778105,2015-05-19,"Refer to Committee: Judiciary"
+778252,2015-05-12,Adopted
+778252,2015-05-12,Adopted
+778278,2015-05-12,Adopted
+778288,2015-06-17,Passed
+778288,2015-06-18,Introduced
+778288,2015-06-24,"Refer to Committee: Government Oversight and Reform"
+778297,2015-05-12,Introduced
+778297,2015-05-19,"Refer to Committee: Insurance"
+778307,2015-05-12,Adopted
+778315,2015-12-09,Passed
+778315,2016-03-23,"Effective 3/23/16"
+778324,2015-05-12,Adopted
+778335,2015-05-12,Adopted
+778344,2015-05-12,Introduced
+778344,2015-05-27,"Refer to Committee: Ways and Means"
+778354,2015-05-12,Introduced
+778354,2015-05-19,"Refer to Committee: Economic and Workforce Development"
+778361,2016-05-25,Passed
+778361,2016-09-08,"Effective 9/8/16"
+778369,2015-05-12,Adopted
+778379,2016-05-11,"Concurred in Senate amendments"
+778379,2016-08-31,"Effective 8/31/16"
+778389,2015-05-12,Introduced
+778389,2015-05-19,"Refer to Committee: Judiciary"
+778397,2015-05-12,Introduced
+778397,2015-05-19,"Refer to Committee: Transportation and Infrastructure"
+778406,2015-05-12,Adopted
+778411,2015-05-12,Introduced
+778411,2015-05-19,"Refer to Committee: Insurance"
+778915,2015-05-13,Adopted
+778921,2015-05-13,Introduced
+778921,2015-05-19,"Refer to Committee: Local Government"
+778935,2015-05-13,Introduced
+778935,2015-05-27,"Refer to Committee: Criminal Justice"
+778952,2015-05-13,Introduced
+778952,2015-05-19,"Refer to Committee: Judiciary"
+778968,2015-05-13,Introduced
+778968,2015-05-27,"Refer to Committee: Education"
+778988,2015-05-13,Introduced
+778988,2015-05-19,"Refer to Committee: Judiciary"
+778988,2015-06-25,"Reported - Amended: Judiciary"
+779005,2015-05-13,Introduced
+779005,2015-05-27,"Refer to Committee: Public Utilities"
+779254,2015-05-14,Adopted
+779895,2015-04-28,Adopted
+780137,2016-02-24,Passed
+780137,2016-02-29,Introduced
+780137,2016-04-12,"Refer to Committee: Agriculture"
+780139,2016-02-17,Passed
+780139,2016-02-18,Introduced
+780139,2016-02-23,"Refer to Committee: Health and Human Services"
+780144,2016-05-25,Passed
+780144,2016-06-01,Introduced
+780144,2016-09-28,"Refer to Committee: Health and Human Services"
+780149,2015-05-18,Introduced
+780149,2015-05-26,"Refer to Committee: Commerce and Labor"
+780153,2015-05-18,Introduced
+780153,2015-05-26,"Refer to Committee: Education"
+780157,2015-05-18,Introduced
+780157,2015-05-26,"Refer to Committee: Transportation and Infrastructure"
+780162,2015-05-18,Introduced
+780162,2015-05-26,"Refer to Committee: Energy and Natural Resources"
+780173,2015-05-18,Introduced
+780173,2015-05-27,"Refer to Committee: Energy and Natural Resources"
+780182,2016-05-04,Passed
+780182,2016-05-09,Introduced
+780195,2015-05-18,Adopted
+780207,2015-05-18,Adopted
+780220,2015-05-18,Adopted
+780520,2015-05-19,"Introduced and Referred to Committee: State Government"
+780525,2015-05-19,Introduced
+780525,2015-05-26,"Refer to Committee: Transportation and Infrastructure"
+780535,2015-05-19,"Introduced and Referred to Committee: Health and Aging"
+780540,2015-10-07,Adopted
+780545,2015-05-19,Introduced
+780545,2015-05-26,"Refer to Committee: Health and Aging"
+780554,2015-05-19,"Introduced and Referred to Committee: Government Accountability and Oversight"
+780560,2016-04-12,Adopted
+780565,2015-05-19,Introduced
+780565,2015-05-26,"Refer to Committee: State Government"
+780570,2016-05-18,Passed
+780570,2016-08-31,"Effective 8/31/16"
+780606,2015-05-19,Adopted
+780635,2015-05-19,Adopted
+780670,2015-05-19,Adopted
+780698,2015-05-19,Adopted
+780727,2015-05-19,Adopted
+780755,2015-05-19,Adopted
+780874,2015-05-20,Adopted
+780905,2015-04-30,Adopted
+780942,2015-05-20,Adopted
+780942,2015-05-21,Adopted
+780945,2015-05-20,Adopted
+780950,2015-05-20,Introduced
+780950,2015-05-26,"Refer to Committee: Government Accountability and Oversight"
+780957,2015-05-20,Introduced
+780957,2015-05-26,"Refer to Committee: Transportation and Infrastructure"
+780957,2015-06-24,"Reported: Transportation and Infrastructure"
+780965,2015-05-20,Adopted
+780973,2015-05-20,Introduced
+780973,2015-05-27,"Refer to Committee: Energy and Natural Resources"
+780977,2015-05-20,Adopted
+780988,2015-05-20,Introduced
+780988,2015-05-26,"Refer to Committee: Health and Aging"
+780993,2015-05-20,Adopted
+780993,2015-05-21,Adopted
+780999,2015-06-30,Passed
+780999,2015-07-01,Introduced
+780999,2015-10-01,"Refer to Committee: Education"
+781009,2016-09-28,Passed
+781009,2016-10-05,Introduced
+781015,2015-05-20,Introduced
+781015,2015-05-26,"Refer to Committee: Judiciary"
+781169,2015-05-20,Adopted
+781190,2015-05-21,Introduced
+781190,2015-05-26,"Refer to Committee: Government Accountability and Oversight"
+781190,2016-05-18,"Reported - Substitute: Government Accountability and Oversight"
+781208,2015-05-21,Introduced
+781208,2015-05-26,"Refer to Committee: Commerce and Labor"
+781225,2015-05-21,Introduced
+781225,2015-05-26,"Refer to Committee: Judiciary"
+781228,2015-05-21,Introduced
+781228,2015-05-27,"Refer to Committee: Transportation, Commerce and Labor"
+781927,2016-05-24,Passed
+781927,2016-09-28,"Effective 9/28/16"
+781944,2016-05-24,"Concurred in Senate amendments"
+781944,2016-09-14,"Effective 9/14/16"
+781967,2015-05-26,"Adopted: Rules and Reference"
+781989,2015-05-26,Adopted
+782011,2015-05-26,"Adopted: Rules and Reference"
+782030,2015-05-26,"Adopted: Rules and Reference"
+782051,2015-05-26,"Adopted: Rules and Reference"
+782069,2015-05-26,"Adopted: Rules and Reference"
+782089,2015-05-26,Adopted
+782109,2016-05-24,Passed
+782109,2016-09-14,"Effective 9/14/16"
+782393,2015-05-27,Introduced
+782393,2015-06-03,"Refer to Committee: Government Oversight and Reform"
+782402,2015-05-27,Introduced
+782402,2015-06-02,"Refer to Committee: Local Government"
+782412,2015-05-27,Adopted
+782424,2016-04-20,"Concurred in Senate amendments"
+782424,2016-08-05,"Effective 8/5/16"
+782436,2015-05-27,Introduced
+782436,2015-06-02,"Refer to Committee: Ways and Means"
+782449,2016-05-25,"Concurred in House amendments"
+782449,2016-05-25,"Informally passed"
+782449,2016-09-14,"Effective 9/14/16"
+782587,2016-02-17,Passed
+782587,2016-02-18,Introduced
+782587,2016-02-23,"Refer to Committee: Civil Justice"
+782625,2015-05-28,Introduced
+782625,2015-06-02,"Refer to Committee: Judiciary"
+782786,2015-05-28,Adopted
+782809,2015-05-26,"Adopted: Rules and Reference"
+783324,2016-04-20,Passed
+783324,2016-04-25,Introduced
+783328,2015-06-01,Adopted
+783334,2015-06-01,Introduced
+783334,2015-06-02,"Refer to Committee: Government Accountability and Oversight"
+783342,2015-12-09,"Concurred in Senate amendments"
+783342,2016-03-23,"Effective 3/23/16"
+783348,2015-06-01,Introduced
+783348,2015-06-03,"Refer to Committee: Civil Justice"
+783356,2015-06-01,Adopted
+783362,2015-06-30,"Concurred in Senate amendments"
+783362,2015-10-15,"Effective 10/15/15"
+783370,2016-01-26,Passed
+783370,2016-01-27,Introduced
+783370,2016-02-10,"Refer to Committee: Transportation, Commerce and Labor"
+783454,2015-06-02,"Adopted: Rules and Reference"
+783459,2015-06-02,"Adopted: Rules and Reference"
+783467,2015-06-02,"Adopted: Rules and Reference"
+783475,2015-06-02,Introduced
+783475,2015-06-03,"Refer to Committee: Transportation, Commerce and Labor"
+783481,2016-05-18,Passed
+783481,2016-08-31,"Effective 8/31/16"
+783489,2015-06-02,"Adopted: Rules and Reference"
+783496,2015-06-02,"Adopted: Rules and Reference"
+783503,2015-06-02,"Adopted: Rules and Reference"
+783511,2015-06-02,"Adopted: Rules and Reference"
+783518,2015-06-02,"Adopted: Rules and Reference"
+783525,2015-06-02,Adopted
+783532,2015-06-02,"Adopted: Rules and Reference"
+783540,2015-06-02,"Adopted: Rules and Reference"
+783786,2015-06-02,"Adopted: Rules and Reference"
+783870,2015-06-03,Introduced
+783870,2015-06-16,"Refer to Committee: Health and Human Services"
+783896,2015-06-03,Introduced
+783896,2015-06-16,"Refer to Committee: Criminal Justice"
+783919,2015-06-03,Adopted
+784047,2015-06-03,Adopted
+784435,2015-06-08,Introduced
+784435,2015-06-11,"Refer to Committee: Insurance"
+784437,2016-04-12,Passed
+784437,2016-08-05,"Effective 8/5/16"
+784439,2015-06-08,Introduced
+784439,2015-06-11,"Refer to Committee: Armed Services, Veterans Affairs, and Public Safety"
+784441,2015-06-08,Introduced
+784441,2015-06-11,"Refer to Committee: Government Accountability and Oversight"
+784444,2015-06-08,Introduced
+784444,2015-06-11,"Refer to Committee: Health and Aging"
+784444,2016-05-05,"Reported - Substitute: Health and Aging"
+784444,2016-05-23,"Re-referred: Health and Aging"
+784445,2015-06-08,Introduced
+784445,2015-06-11,"Refer to Committee: Insurance"
+784447,2015-06-08,Introduced
+784447,2015-06-11,"Refer to Committee: Health and Aging"
+784449,2015-06-08,Introduced
+784449,2015-06-11,"Refer to Committee: Judiciary"
+784451,2015-10-27,"Concurred in Senate amendments"
+784451,2016-02-15,"Effective 2/15/16"
+784453,2016-04-20,Passed
+784453,2016-08-16,"Effective 8/16/16"
+784455,2016-02-23,Passed
+784455,2016-02-24,Introduced
+784455,2016-04-12,"Refer to Committee: State and Local Government"
+784456,2015-11-17,Passed
+784456,2015-11-19,Introduced
+784456,2016-01-20,"Refer to Committee: Transportation and Infrastructure"
+784596,2015-06-09,"Adopted: Rules and Reference"
+784607,2015-06-09,"Adopted: Rules and Reference"
+784622,2015-06-09,"Adopted: Rules and Reference"
+784802,2015-06-09,"Adopted: Rules and Reference"
+784809,2015-06-10,Adopted
+784814,2015-06-10,Adopted
+784818,2015-06-10,Adopted
+784825,2015-06-10,Adopted
+784829,2015-06-10,Adopted
+784834,2015-06-10,Adopted
+784834,2015-06-10,Adopted
+784838,2015-06-10,Introduced
+784838,2015-06-16,"Refer to Committee: Civil Justice"
+784843,2016-04-12,"Concurred in House amendments"
+784843,2016-08-05,"Effective 8/5/16"
+784846,2016-02-24,Passed
+784846,2016-07-06,"Effective 7/6/16"
+784857,2015-06-10,Introduced
+784857,2015-06-16,"Refer to Committee: Community and Family Advancement"
+784862,2015-06-10,Introduced
+784862,2015-06-16,"Refer to Committee: Government Accountability and Oversight"
+784868,2015-06-10,Introduced
+784868,2015-06-16,"Refer to Committee: Local Government"
+784874,2015-06-10,Introduced
+784874,2015-06-16,"Refer to Committee: Finance"
+784881,2016-01-27,Passed
+784881,2016-02-01,Introduced
+784881,2016-02-10,"Refer to Committee: Transportation, Commerce and Labor"
+784886,2015-06-10,Introduced
+784886,2015-06-16,"Refer to Committee: Transportation and Infrastructure"
+784889,2015-06-10,Introduced
+784889,2015-06-16,"Refer to Committee: Agriculture and Rural Development"
+784889,2015-11-02,"Reported: Agriculture and Rural Development"
+784926,2015-06-11,"Adopted: Rules and Reference"
+784933,2015-06-11,Introduced
+784933,2015-06-16,"Refer to Committee: Transportation, Commerce and Labor"
+784933,2016-05-11,"Reported - Substitute: Transportation, Commerce and Labor"
+784938,2015-06-11,"Adopted: Rules and Reference"
+784947,2015-06-11,Adopted
+784952,2015-06-11,"Introduced and Referred to Committee: State Government"
+784961,2016-02-23,Adopted
+784961,2016-02-24,Introduced
+784961,2016-04-12,"Refer to Committee: Medicaid"
+784968,2015-06-11,"Introduced and Referred to Committee: State Government"
+784975,2015-06-11,"Adopted: Rules and Reference"
+784980,2015-06-11,Adopted
+785072,2015-06-11,Adopted
+785117,2015-06-11,Introduced
+785117,2015-06-16,"Refer to Committee: Government Accountability and Oversight"
+785479,2016-09-28,Passed
+785501,2015-12-09,"Concurred in Senate amendments"
+785501,2016-03-23,"Effective 3/23/16"
+785523,2015-06-30,"Concurred in Senate amendments"
+785552,2015-06-16,Adopted
+785553,2015-06-16,Adopted
+785555,2015-06-16,"Adopted: Rules and Reference"
+785556,2015-06-16,"Introduced and Referred to Committee"
+785558,2015-06-16,Introduced
+785558,2015-06-17,"Refer to Committee: Government Oversight and Reform"
+785560,2015-06-16,Adopted
+785564,2015-06-16,Introduced
+785564,2015-06-17,"Refer to Committee: Energy and Natural Resources"
+785564,2016-05-25,"Reported: Energy and Natural Resources"
+785566,2015-06-16,"Adopted: Rules and Reference"
+785568,2015-06-16,Adopted
+785569,2015-06-16,Adopted
+785571,2015-06-16,"Adopted: Rules and Reference"
+785573,2015-06-16,Adopted
+785575,2015-06-16,"Adopted: Rules and Reference"
+785578,2015-06-16,"Adopted: Rules and Reference"
+785582,2015-06-16,Adopted
+785583,2015-06-16,"Adopted: Rules and Reference"
+785585,2015-06-16,Adopted
+785586,2015-06-16,"Adopted: Rules and Reference"
+785588,2015-12-09,Passed
+785588,2015-12-14,Introduced
+785588,2016-01-20,"Refer to Committee: Judiciary"
+785672,2015-06-16,Adopted
+785681,2015-12-08,Adopted
+785687,2015-06-17,Introduced
+785687,2015-06-23,"Refer to Committee: Education"
+785693,2015-06-17,Introduced
+785693,2015-06-23,"Refer to Committee: Government Accountability and Oversight"
+785699,2015-06-17,Introduced
+785699,2015-06-23,"Refer to Committee: Local Government"
+785702,2015-06-17,Introduced
+785702,2015-06-23,"Refer to Committee: Health and Aging"
+785702,2016-05-25,"Re-referred: Health and Aging"
+785724,2015-06-17,Adopted
+785952,2015-06-18,Introduced
+785952,2015-06-23,"Refer to Committee: Transportation and Infrastructure"
+785960,2015-06-18,Adopted
+785968,2015-06-18,Adopted
+785977,2015-06-18,Adopted
+785985,2015-06-18,Adopted
+785992,2015-06-18,Adopted
+785998,2015-06-18,Introduced
+785998,2015-06-23,"Refer to Committee: Health and Aging"
+786002,2016-05-18,Passed
+786002,2016-08-31,"Effective 8/31/16"
+786009,2015-12-09,Passed
+786009,2015-12-14,Introduced
+786009,2016-01-20,"Refer to Committee: Transportation and Infrastructure"
+786197,2015-06-22,Introduced
+786197,2015-09-16,"Refer to Committee: Judiciary"
+786202,2015-06-22,Introduced
+786202,2015-10-01,"Refer to Committee: Ways and Means"
+786206,2015-06-22,Introduced
+786206,2015-10-01,"Refer to Committee: Energy and Natural Resources"
+786220,2015-06-23,Adopted
+786223,2015-06-23,Adopted
+786227,2015-06-23,Adopted
+786230,2015-06-23,Adopted
+786234,2015-06-23,Adopted
+786238,2015-06-23,Adopted
+786242,2015-06-23,Adopted
+786246,2015-06-23,Adopted
+786250,2015-06-23,Adopted
+786253,2015-06-23,Adopted
+786257,2015-06-23,Adopted
+786270,2015-06-23,"Adopted: Rules and Reference"
+786273,2015-06-23,Introduced
+786273,2015-06-24,"Refer to Committee: Transportation, Commerce and Labor"
+786276,2015-06-23,"Adopted: Rules and Reference"
+786278,2015-06-23,Introduced
+786278,2015-09-16,"Refer to Committee: Judiciary"
+786278,2016-05-25,"Reported - Substitute: Judiciary"
+786280,2015-06-23,Introduced
+786280,2015-10-01,"Refer to Committee: Financial Institutions, Housing, and Urban Development"
+786284,2015-06-23,"Adopted: Rules and Reference"
+786287,2015-06-23,Introduced
+786287,2015-09-16,"Refer to Committee: Education"
+786288,2015-06-23,"Adopted: Rules and Reference"
+786292,2015-06-23,"Adopted: Rules and Reference"
+786295,2015-06-23,Introduced
+786295,2015-10-01,"Refer to Committee: Transportation and Infrastructure"
+786295,2016-01-20,"Reported: Transportation and Infrastructure"
+786296,2015-06-23,"Adopted: Rules and Reference"
+786300,2015-06-23,"Adopted: Rules and Reference"
+786303,2015-06-23,Introduced
+786303,2015-10-01,"Refer to Committee: Ways and Means"
+786304,2015-06-23,"Adopted: Rules and Reference"
+786415,2015-06-24,Adopted
+786415,2015-06-24,Adopted
+786418,2015-06-24,Adopted
+786421,2015-06-24,Adopted
+786425,2016-05-11,Passed
+786425,2016-05-12,Introduced
+786425,2016-05-17,"Refer to Committee: State and Local Government"
+786428,2015-06-24,Introduced
+786428,2015-10-01,"Refer to Committee: Insurance"
+786439,2015-12-09,Passed
+786439,2016-03-23,"Effective 3/23/16"
+786512,2015-06-25,Adopted
+786514,2015-06-24,"Adopted: Rules and Reference"
+786521,2016-05-25,"Concurred in Senate amendments"
+786521,2016-05-25,"Informally passed"
+786521,2016-06-28,"Effective 6/28/16"
+786544,2015-06-26,Adopted
+786695,2015-06-26,Introduced
+786695,2015-09-16,"Refer to Committee: Government Accountability and Oversight"
+786736,2015-06-29,"Adopted: Rules and Reference"
+786739,2016-05-25,Passed
+786739,2016-06-01,Introduced
+786739,2016-09-28,"Refer to Committee: Insurance"
+786748,2015-06-29,Adopted
+786752,2015-06-29,Adopted
+786756,2015-06-29,Introduced
+786756,2015-09-23,"Refer to Committee: Ways and Means"
+786761,2015-06-29,Adopted
+786765,2015-06-29,Adopted
+786770,2015-06-29,Adopted
+786893,2015-06-29,"Adopted: Rules and Reference"
+786894,2015-06-30,Adopted
+786895,2015-06-30,Adopted
+786897,2015-06-30,Adopted
+786898,2015-06-30,Adopted
+786899,2015-06-30,Adopted
+786900,2015-06-30,Adopted
+786901,2015-06-30,Adopted
+786909,2015-06-30,Introduced
+786909,2015-09-17,"Refer to Committee: Transportation, Commerce and Labor"
+786915,2015-06-30,Introduced
+786922,2015-07-01,Adopted
+786923,2015-07-01,Adopted
+786926,2015-07-01,Adopted
+786927,2015-07-01,Introduced
+786927,2015-09-17,"Refer to Committee: Energy and Natural Resources"
+786970,2015-07-06,Offered
+786970,2015-09-17,"Refer to Committee: Government Oversight and Reform"
+786971,2015-07-06,Adopted
+786972,2015-07-06,Adopted
+786973,2015-07-06,Adopted
+786974,2015-07-06,Adopted
+786975,2015-07-06,Adopted
+786976,2015-07-06,Adopted
+786977,2015-07-06,Adopted
+786988,2016-05-24,Passed
+786988,2016-05-25,Introduced
+786988,2016-09-28,"Refer to Committee: Criminal Justice"
+786989,2015-07-07,Adopted
+786990,2015-07-07,Adopted
+786992,2015-07-07,Adopted
+786993,2015-07-07,Adopted
+786994,2015-07-07,Adopted
+786996,2015-07-07,Adopted
+786997,2015-07-07,Adopted
+786998,2015-07-07,Adopted
+787000,2015-07-07,Adopted
+787001,2015-07-07,Introduced
+787001,2015-09-16,"Refer to Committee: Judiciary"
+787003,2015-07-07,Introduced
+787003,2015-09-16,"Refer to Committee: Commerce and Labor"
+787004,2015-07-07,Adopted
+787005,2015-07-07,Adopted
+787007,2015-07-07,Introduced
+787007,2015-10-01,"Refer to Committee: Ways and Means"
+787008,2015-07-07,Adopted
+787011,2015-07-07,Adopted
+787012,2015-07-06,Adopted
+787045,2015-07-08,Adopted
+787052,2015-07-08,Adopted
+787053,2015-07-08,Introduced
+787053,2015-09-17,"Refer to Committee: Health and Human Services"
+787398,2015-07-13,Adopted
+787399,2015-07-13,Adopted
+787400,2015-07-13,Adopted
+787401,2015-07-13,Adopted
+787402,2015-07-13,Adopted
+787403,2015-07-13,Adopted
+787406,2015-07-13,Offered
+787406,2015-09-17,"Refer to Committee: Government Oversight and Reform"
+787407,2016-05-24,Passed
+787407,2016-05-25,Introduced
+787407,2016-09-28,"Refer to Committee: Health and Human Services"
+787408,2015-07-13,Adopted
+787409,2015-07-13,Introduced
+787409,2015-09-16,"Refer to Committee: Economic and Workforce Development"
+787411,2015-07-13,Introduced
+787411,2015-09-16,"Refer to Committee: Community and Family Advancement"
+787490,2015-07-13,Adopted
+787646,2015-07-16,Adopted
+787647,2015-07-16,Adopted
+787650,2015-11-17,Passed
+787650,2015-11-19,Introduced
+787650,2016-01-20,"Refer to Committee: Transportation and Infrastructure"
+787651,2015-07-16,Adopted
+787654,2015-07-16,Adopted
+787656,2015-07-16,Introduced
+787656,2015-09-17,"Refer to Committee: Criminal Justice"
+787659,2015-07-16,Adopted
+787660,2015-07-16,Adopted
+787661,2016-02-23,Passed
+787661,2016-02-24,Introduced
+787661,2016-04-12,"Refer to Committee: Health and Human Services"
+787662,2015-07-16,Introduced
+787662,2015-10-01,"Refer to Committee: Judiciary"
+787670,2015-07-16,Introduced
+787670,2015-09-16,"Refer to Committee: Armed Services, Veterans Affairs, and Public Safety"
+787774,2015-07-20,Introduced
+787774,2015-09-17,"Refer to Committee: Government Oversight and Reform"
+787775,2015-07-20,Introduced
+787775,2015-09-17,"Refer to Committee: State and Local Government"
+787777,2015-07-20,Adopted
+787778,2015-07-20,Adopted
+787779,2016-04-27,Passed
+787779,2016-05-05,"Refer to Committee: State Government"
+787876,2015-07-22,Adopted
+787877,2015-07-22,Adopted
+787879,2015-07-22,Adopted
+787884,2015-07-22,Offered
+787884,2015-09-17,"Refer to Committee: Government Oversight and Reform"
+787885,2015-07-22,Introduced
+787885,2015-10-01,"Refer to Committee: Insurance"
+787886,2015-07-22,Introduced
+787886,2015-10-01,"Refer to Committee: Judiciary"
+787886,2016-05-11,"Reported - Substitute: Judiciary"
+788050,2015-11-17,"Passed - Amended"
+788050,2015-11-19,Introduced
+788050,2016-01-20,"Refer to Committee: Transportation and Infrastructure"
+788051,2015-07-27,Adopted
+788053,2015-07-27,Adopted
+788092,2015-07-28,Adopted
+788093,2015-07-28,Adopted
+788094,2015-07-28,Introduced
+788094,2015-10-01,"Refer to Committee: Financial Institutions, Housing, and Urban Development"
+788095,2015-07-28,Adopted
+788422,2015-07-30,Introduced
+788422,2015-10-01,"Refer to Committee: Armed Services, Veterans Affairs, and Public Safety"
+788422,2016-02-24,"Reported: Armed Services, Veterans Affairs, and Public Safety"
+788423,2016-02-10,"Concurred in Senate amendments"
+788423,2016-05-23,"Effective 5/23/16<div>Effective: May 23, 2016; Sections 3 and 4 effective February 21, 2016</div>"
+788424,2015-07-30,Adopted
+788425,2015-07-30,Adopted
+788471,2015-08-03,Adopted
+788472,2015-08-03,Adopted
+788473,2015-08-03,Adopted
+788474,2015-08-03,Adopted
+788666,2015-08-05,Adopted
+788671,2015-08-05,Introduced
+788671,2015-10-01,"Refer to Committee: Community and Family Advancement"
+788675,2015-08-05,Introduced
+788675,2015-10-01,"Refer to Committee: Ways and Means"
+788678,2015-08-05,Introduced
+788678,2015-09-16,"Refer to Committee: Community and Family Advancement"
+788827,2015-08-10,Adopted
+788828,2015-08-10,Adopted
+788831,2015-08-10,Offered
+788831,2015-09-17,"Refer to Committee: Government Oversight and Reform"
+788832,2015-08-10,Adopted
+788834,2015-08-10,Introduced
+788834,2015-09-17,"Refer to Committee: Civil Justice"
+788835,2015-09-23,Adopted
+788835,2015-09-28,Offered
+788835,2015-10-01,"Introduced and Referred to Committee: Armed Services, Veterans Affairs, and Public Safety"
+788835,2016-04-13,"Reported: Armed Services, Veterans Affairs, and Public Safety"
+788889,2015-08-11,Adopted
+788890,2016-05-04,"Concurred in Senate amendments"
+788890,2016-08-31,"Effective 8/31/16"
+788917,2015-08-13,Introduced
+788917,2015-09-17,"Refer to Committee: Transportation, Commerce and Labor"
+788919,2015-08-13,Introduced
+788919,2015-09-17,"Refer to Committee: Health and Human Services"
+789342,2016-09-28,Passed
+789446,2015-08-17,Adopted
+789449,2016-05-24,Passed
+789449,2016-09-13,"Effective 9/13/16"
+789450,2015-08-17,Introduced
+789450,2015-10-01,"Refer to Committee: Insurance"
+789451,2015-08-17,Introduced
+789451,2015-10-01,"Refer to Committee: Local Government"
+789646,2015-08-25,Adopted
+789648,2015-08-25,Adopted
+789649,2015-08-25,Adopted
+789651,2015-08-25,Adopted
+789652,2015-08-25,Adopted
+789654,2015-08-25,Adopted
+789655,2015-08-25,Adopted
+789656,2015-08-24,Adopted
+789667,2016-05-24,"Concurred in Senate amendments"
+789667,2016-09-28,"Effective 9/28/16"
+789668,2015-08-25,Introduced
+789668,2015-10-01,"Refer to Committee: Local Government"
+789670,2016-05-24,"Concurred in Senate amendments"
+789670,2016-09-28,"Effective 9/28/16"
+789696,2015-08-26,Adopted
+789697,2015-08-26,Adopted
+789698,2015-08-26,Introduced
+789698,2015-09-17,"Refer to Committee: Transportation, Commerce and Labor"
+789699,2016-05-25,Passed
+789699,2016-05-31,Introduced
+790042,2015-08-31,Introduced
+790042,2015-10-01,"Refer to Committee: Ways and Means"
+790043,2015-08-31,Introduced
+790043,2015-10-01,"Refer to Committee: Judiciary"
+790044,2015-08-31,Adopted
+790045,2015-08-31,Introduced
+790045,2015-10-01,"Refer to Committee: Transportation and Infrastructure"
+790045,2016-02-17,"Reported: Transportation and Infrastructure"
+790046,2015-08-31,Introduced
+790046,2015-09-16,"Refer to Committee: Health and Aging"
+790047,2015-08-31,Introduced
+790047,2015-10-01,"Refer to Committee: Government Accountability and Oversight"
+790048,2015-08-31,Introduced
+790048,2015-10-01,"Refer to Committee: Commerce and Labor"
+790051,2015-08-31,Adopted
+790052,2015-11-17,Passed
+790052,2015-11-19,Introduced
+790052,2016-01-20,"Refer to Committee: Transportation and Infrastructure"
+790052,2016-02-17,"Reported: Transportation and Infrastructure"
+790053,2015-08-31,Offered
+790053,2015-09-17,"Refer to Committee: Finance"
+790055,2015-08-31,Introduced
+790055,2015-10-01,"Refer to Committee: Transportation and Infrastructure"
+790056,2015-08-31,Adopted
+790057,2015-08-31,Adopted
+790059,2015-08-31,Adopted
+790060,2015-08-31,Introduced
+790060,2015-10-01,"Refer to Committee: Transportation and Infrastructure"
+790061,2015-08-31,Introduced
+790061,2015-10-01,"Refer to Committee: Transportation and Infrastructure"
+790063,2015-08-31,Introduced
+790063,2015-10-01,"Refer to Committee: Transportation and Infrastructure"
+790064,2015-08-31,Introduced
+790064,2015-10-01,"Refer to Committee: Transportation and Infrastructure"
+790081,2015-08-31,Adopted
+790095,2016-05-24,"Concurred in Senate amendments"
+790095,2016-09-28,"Effective 9/28/16<div>Some provisions effective March 28, 2017</div>"
+790096,2015-09-02,Introduced
+790096,2015-10-01,"Refer to Committee: Transportation and Infrastructure"
+790097,2015-09-02,Introduced
+790097,2015-10-01,"Refer to Committee: Transportation and Infrastructure"
+790098,2015-09-02,Introduced
+790098,2015-10-01,"Refer to Committee: Transportation and Infrastructure"
+790099,2015-09-02,Introduced
+790099,2015-10-01,"Refer to Committee: State Government"
+790100,2015-09-02,Introduced
+790100,2015-10-01,"Refer to Committee: Community and Family Advancement"
+790101,2015-09-02,Introduced
+790101,2015-10-01,"Refer to Committee: Transportation and Infrastructure"
+790102,2015-09-02,Introduced
+790102,2015-10-01,"Refer to Committee: Transportation and Infrastructure"
+790133,2015-10-21,Passed
+790133,2015-10-22,Introduced
+790133,2015-11-16,"Refer to Committee: Agriculture and Rural Development"
+790134,2015-10-27,"Concurred in House amendments"
+790134,2016-02-15,"Effective 2/15/16"
+790135,2015-09-08,Adopted
+790136,2015-09-08,Adopted
+790174,2015-09-08,Introduced
+790174,2015-09-16,"Refer to Committee: Ways and Means"
+790182,2015-09-08,Introduced
+790182,2015-10-01,"Refer to Committee: Armed Services, Veterans Affairs, and Public Safety"
+790183,2016-02-23,Passed
+790183,2016-02-24,Introduced
+790183,2016-04-12,"Refer to Committee: Government Oversight and Reform"
+790185,2015-09-08,Adopted
+790538,2015-09-10,Adopted
+790562,2015-09-10,Adopted
+790690,2015-09-14,Adopted
+790694,2015-09-14,Introduced
+790694,2015-10-01,"Refer to Committee: State Government"
+790696,2015-09-14,Introduced
+790696,2015-09-17,"Refer to Committee: State and Local Government"
+790698,2015-09-14,Introduced
+790698,2015-10-01,"Refer to Committee: Transportation and Infrastructure"
+790700,2015-09-14,Introduced
+790700,2015-10-01,"Refer to Committee: State Government"
+790701,2015-09-14,Introduced
+790701,2015-10-01,"Refer to Committee: State Government"
+790723,2015-09-14,Adopted
+790819,2015-09-16,Introduced
+790819,2015-10-01,"Refer to Committee: Local Government"
+790832,2015-09-16,Introduced
+790832,2015-10-01,"Refer to Committee: State Government"
+790834,2015-09-16,"Adopted: Rules and Reference"
+790835,2015-09-16,"Adopted: Rules and Reference"
+790836,2015-09-16,Adopted
+790838,2015-09-16,"Adopted: Rules and Reference"
+790839,2015-09-16,"Adopted: Rules and Reference"
+790884,2015-09-16,"Introduced and Referred to Committee: Energy and Natural Resources"
+790884,2015-12-03,"Reported: Energy and Natural Resources"
+790886,2016-02-17,Adopted
+790886,2016-02-18,Offered
+790886,2016-02-23,"Refer to Committee: State and Local Government"
+790886,2016-05-17,"Reported: State and Local Government"
+790886,2016-05-25,Adopted
+790890,2015-09-16,"Introduced and Referred to Committee: Government Accountability and Oversight"
+790893,2015-09-16,"Introduced and Referred to Committee: Armed Services, Veterans Affairs, and Public Safety"
+790893,2016-01-27,"Reported: Armed Services, Veterans Affairs, and Public Safety"
+790896,2015-09-16,"Introduced and Referred to Committee: Government Accountability and Oversight"
+790915,2015-09-17,Adopted
+790916,2015-09-17,Adopted
+790917,2015-09-17,Introduced
+790917,2015-09-23,"Refer to Committee: Ways and Means"
+790918,2015-09-17,Adopted
+790919,2015-09-17,Adopted
+791068,2015-09-22,Adopted
+791070,2015-09-22,Adopted
+791072,2015-09-21,Introduced
+791072,2015-09-23,"Refer to Committee: Government Oversight and Reform"
+791073,2015-09-22,Adopted
+791075,2015-09-22,Introduced
+791075,2015-10-01,"Refer to Committee: Commerce and Labor"
+791082,2016-05-18,Passed
+791082,2016-05-19,Introduced
+791082,2016-09-28,"Refer to Committee: Ways and Means"
+791090,2015-09-22,Introduced
+791090,2015-10-01,"Refer to Committee: State Government"
+791098,2016-04-12,Passed
+791098,2016-04-13,Introduced
+791098,2016-04-20,"Refer to Committee: State and Local Government"
+791133,2015-09-22,Adopted
+791144,2016-05-18,Passed
+791144,2016-08-31,"Effective 8/31/16"
+791145,2015-10-21,Passed
+791145,2015-10-22,Introduced
+791145,2015-11-16,"Refer to Committee: Community and Family Advancement"
+791146,2015-09-23,Adopted
+791147,2016-05-24,"Concurred in House amendments"
+791147,2016-09-13,"Effective 9/13/16"
+791148,2015-09-23,Adopted
+791671,2015-09-28,Adopted
+791673,2015-09-28,Adopted
+791675,2015-12-09,"Concurred in Senate amendments"
+791675,2015-12-22,"Effective 12/22/15"
+791677,2016-05-18,Passed
+791677,2016-05-19,Introduced
+791677,2016-09-28,"Refer to Committee: Transportation, Commerce and Labor"
+791679,2015-09-28,Adopted
+791681,2015-09-28,Introduced
+791681,2015-10-01,"Refer to Committee: Judiciary"
+791684,2015-09-28,Adopted
+791686,2015-09-28,Adopted
+791688,2016-05-25,Passed
+791688,2016-09-28,"Effective 9/28/16"
+791690,2015-12-09,Passed
+791690,2015-12-10,Introduced
+791690,2016-01-20,"Refer to Committee: Transportation, Commerce and Labor"
+791692,2015-09-28,Adopted
+791694,2015-09-28,Adopted
+791696,2015-09-28,Adopted
+791697,2015-09-28,Introduced
+791697,2015-10-01,"Refer to Committee: Economic and Workforce Development"
+791697,2016-04-27,"Reported - Amended: Economic and Workforce Development"
+791699,2015-09-28,Adopted
+791700,2015-09-28,Introduced
+791700,2015-09-30,"Refer to Committee: Government Oversight and Reform"
+791702,2015-09-28,Offered
+791702,2015-09-30,"Refer to Committee: Medicaid"
+791703,2015-09-28,Introduced
+791703,2015-09-30,"Refer to Committee: Ways and Means"
+791812,2015-09-29,Introduced
+791812,2015-10-01,"Refer to Committee: Finance"
+791813,2015-09-29,Introduced
+791813,2015-10-01,"Refer to Committee: Judiciary"
+791814,2016-05-25,Passed
+791814,2016-06-01,Introduced
+791814,2016-09-28,"Refer to Committee: Government Oversight and Reform"
+791816,2015-09-29,"Adopted: Rules and Reference"
+791817,2015-09-29,Introduced
+791817,2015-10-01,"Refer to Committee: Community and Family Advancement"
+791818,2015-09-29,"Adopted: Rules and Reference"
+791884,2015-09-29,Adopted
+791888,2015-09-30,Adopted
+791893,2015-09-30,Adopted
+791901,2015-09-30,Adopted
+791908,2015-09-30,Introduced
+791908,2015-10-07,"Refer to Committee: Energy and Natural Resources"
+791909,2015-09-30,Introduced
+791909,2015-10-07,"Refer to Committee: Transportation and Infrastructure"
+791909,2016-01-27,"Reported: Transportation and Infrastructure"
+791910,2015-09-30,Adopted
+791911,2015-09-30,Adopted
+791912,2015-09-30,Offered
+791912,2015-10-07,"Refer to Committee: State and Local Government"
+791912,2015-12-01,"Reported - Amended: State and Local Government"
+791912,2015-12-09,Adopted
+791912,2015-12-14,Offered
+791912,2016-01-20,"Introduced and Referred to Committee: State Government"
+791912,2016-05-03,"Reported: State Government"
+791992,2016-05-18,Passed
+791992,2016-08-31,"Effective 8/31/16"
+791994,2015-10-01,Introduced
+791994,2015-10-07,"Refer to Committee: Judiciary"
+791996,2015-10-01,Introduced
+791996,2015-10-07,"Refer to Committee: Government Accountability and Oversight"
+791996,2016-05-25,"Reported: Government Accountability and Oversight"
+791997,2016-05-25,Passed
+791997,2016-09-28,"Effective 9/28/16"
+792076,2015-10-01,"Introduced and Referred to Committee: Agriculture and Rural Development"
+792095,2015-10-01,Introduced
+792095,2015-10-07,"Refer to Committee: Transportation, Commerce and Labor"
+792107,2015-10-05,Introduced
+792107,2015-10-07,"Refer to Committee: Ways and Means"
+792109,2016-04-27,Passed
+792109,2016-05-05,"Refer to Committee: State Government"
+792112,2015-10-05,Adopted
+792113,2015-10-05,Adopted
+792116,2015-10-05,Introduced
+792116,2015-10-07,"Refer to Committee: Transportation, Commerce and Labor"
+792189,2015-10-06,Introduced
+792189,2015-10-26,"Refer to Committee: Community and Family Advancement"
+792190,2016-05-25,Passed
+792190,2016-09-08,"Effective 9/8/16"
+792192,2015-10-06,"Introduced and Referred to Committee: Agriculture and Rural Development"
+792193,2015-10-06,Introduced
+792193,2015-10-26,"Refer to Committee: Ways and Means"
+792195,2015-10-06,Introduced
+792195,2015-10-26,"Refer to Committee: State Government"
+792196,2015-10-06,Introduced
+792196,2015-10-26,"Refer to Committee: State Government"
+792198,2015-10-06,Introduced
+792198,2015-10-26,"Refer to Committee: Community and Family Advancement"
+792199,2015-10-06,"Adopted: Rules and Reference"
+792200,2015-10-06,"Adopted: Rules and Reference"
+792322,2015-10-07,Introduced
+792322,2015-10-14,"Refer to Committee: Agriculture"
+792323,2016-04-27,Passed
+792323,2016-05-02,Introduced
+792323,2016-05-04,"Refer to Committee: State and Local Government"
+792325,2015-10-07,Introduced
+792325,2015-10-26,"Refer to Committee: Community and Family Advancement"
+792327,2015-10-07,Introduced
+792327,2015-10-14,"Refer to Committee: State and Local Government"
+792329,2015-12-09,Passed
+792329,2015-12-22,"Effective 12/22/15"
+792331,2015-10-07,Adopted
+792708,2015-10-13,Introduced
+792708,2015-10-26,"Refer to Committee: Health and Aging"
+792710,2015-10-13,Introduced
+792710,2015-10-26,"Refer to Committee: Judiciary"
+792712,2016-05-24,Passed
+792712,2016-05-25,Introduced
+792712,2016-09-28,"Refer to Committee: Criminal Justice"
+792716,2016-04-27,Passed
+792716,2016-05-05,"Refer to Committee: Health and Aging"
+792716,2016-05-18,"Reported: Health and Aging"
+792720,2015-10-13,Introduced
+792720,2015-10-14,"Refer to Committee: Financial Institutions"
+792723,2016-05-11,Passed
+792723,2016-05-12,Introduced
+792727,2015-10-13,Introduced
+792727,2015-10-14,"Refer to Committee: Transportation, Commerce and Labor"
+792730,2015-10-13,Introduced
+792730,2015-10-26,"Refer to Committee: Transportation and Infrastructure"
+792730,2016-01-20,"Reported: Transportation and Infrastructure"
+792736,2015-05-19,"Introduced and Referred to Committee: Financial Institutions, Housing, and Urban Development"
+792736,2015-06-17,"Accept Standing Committee Report: Financial Institutions, Housing, and Urban Development"
+792736,2015-10-07,"Resolution Adopted"
+792738,2015-10-13,Adopted
+792739,2015-10-13,Adopted
+792799,2015-10-13,Adopted
+792800,2015-10-14,Introduced
+792800,2015-10-21,"Refer to Committee: Public Utilities"
+792943,2015-10-19,Adopted
+792946,2015-10-19,Introduced
+792946,2015-10-26,"Refer to Committee: Transportation and Infrastructure"
+792947,2015-10-19,Introduced
+792947,2015-10-26,"Refer to Committee: Insurance"
+792950,2015-10-19,Introduced
+792950,2015-10-26,"Refer to Committee: Commerce and Labor"
+792952,2015-10-19,Introduced
+792952,2015-10-26,"Refer to Committee: Transportation and Infrastructure"
+792952,2016-01-27,"Reported - Amended: Transportation and Infrastructure"
+792955,2015-10-19,Introduced
+792955,2015-10-26,"Refer to Committee: Education"
+792956,2015-10-19,Introduced
+792956,2015-10-26,"Refer to Committee: Government Accountability and Oversight"
+792959,2015-10-19,Introduced
+792959,2015-10-26,"Refer to Committee: Community and Family Advancement"
+792961,2015-10-19,Adopted
+792964,2016-05-10,Passed
+792964,2016-05-10,Introduced
+792964,2016-05-11,"Refer to Committee: State and Local Government"
+792965,2015-10-19,Introduced
+792965,2015-10-26,"Refer to Committee: Commerce and Labor"
+792968,2015-10-19,Introduced
+792968,2015-10-26,"Refer to Committee: Finance"
+792968,2015-12-03,"Reported: Finance"
+792970,2015-10-19,Introduced
+792970,2015-10-26,"Refer to Committee: Community and Family Advancement"
+795661,2016-05-17,Passed
+795661,2016-05-18,Introduced
+795663,2015-10-21,Introduced
+795663,2015-11-10,"Refer to Committee: Finance"
+795814,2015-10-22,Introduced
+795814,2015-11-16,"Refer to Committee: Judiciary"
+795818,2015-10-22,Introduced
+795818,2015-11-16,"Refer to Committee: Education"
+795821,2015-10-22,Introduced
+795821,2015-11-16,"Refer to Committee: Commerce and Labor"
+795824,2016-05-24,Passed
+795824,2016-05-25,Introduced
+795824,2016-09-28,"Refer to Committee: State and Local Government"
+795894,2015-10-26,"Adopted: Rules and Reference"
+795896,2016-05-18,Adopted
+795896,2016-05-19,Offered
+795896,2016-09-28,"Refer to Committee: State and Local Government"
+795899,2015-10-26,"Adopted: Rules and Reference"
+795901,2015-10-26,"Adopted: Rules and Reference"
+795904,2015-10-26,"Adopted: Rules and Reference"
+795934,2015-10-26,"Adopted: Rules and Reference"
+795956,2015-10-27,Introduced
+795956,2015-11-16,"Refer to Committee: State Government"
+795959,2015-10-27,Introduced
+795959,2015-11-10,"Refer to Committee: Government Oversight and Reform"
+795964,2016-05-04,Passed
+795964,2016-05-09,Introduced
+795964,2016-05-23,"Refer to Committee: Transportation and Infrastructure"
+795969,2015-10-27,Introduced
+795969,2015-11-10,"Refer to Committee: Education"
+795978,2016-04-12,Passed
+795978,2016-04-13,Introduced
+795978,2016-04-26,"Refer to Committee: Judiciary"
+795978,2016-05-25,"Reported - Substitute: Judiciary"
+795983,2016-05-04,Passed
+795983,2016-05-09,Introduced
+796127,2015-10-29,Adopted
+796131,2015-10-29,Introduced
+796131,2015-11-10,"Refer to Committee: Criminal Justice"
+796221,2016-05-24,Passed
+796221,2016-09-28,"Effective 9/28/16"
+796226,2016-01-27,Passed
+796226,2016-02-01,Introduced
+796226,2016-02-10,"Refer to Committee: Finance"
+796233,2015-11-02,Introduced
+796233,2015-11-16,"Refer to Committee: Education"
+796240,2015-11-02,Introduced
+796240,2015-11-16,"Refer to Committee: Community and Family Advancement"
+796248,2016-05-25,Passed
+796248,2016-06-01,Introduced
+796248,2016-09-28,"Refer to Committee: Education"
+796255,2015-11-02,Introduced
+796255,2015-11-16,"Refer to Committee: State Government"
+796255,2016-02-17,"Reported - Substitute: State Government"
+796272,2015-11-02,Adopted
+796276,2015-11-02,Adopted
+796279,2015-11-02,Adopted
+796282,2015-11-02,Adopted
+796447,2015-11-04,Introduced
+796447,2015-11-10,"Refer to Committee: Education"
+796457,2015-11-04,Adopted
+796467,2015-11-04,Adopted
+796477,2015-11-04,Adopted
+796486,2015-11-04,Adopted
+796533,2016-05-18,Passed
+796533,2016-05-19,Introduced
+796533,2016-09-28,"Refer to Committee: Insurance"
+796536,2015-11-05,Introduced
+796536,2015-11-16,"Refer to Committee: Community and Family Advancement"
+796541,2015-11-02,Adopted
+796545,2016-05-25,"Concurred in Senate amendments"
+796545,2016-09-28,"Effective 9/28/16<div>Certain provisions effective on other dates.</div>"
+796822,2015-11-09,Adopted
+796823,2015-11-09,Adopted
+796824,2016-05-25,Passed
+796824,2016-06-01,Introduced
+796824,2016-09-28,"Refer to Committee: Criminal Justice"
+796825,2015-11-09,Adopted
+796826,2015-11-09,Adopted
+796827,2015-11-09,Introduced
+796827,2015-11-16,"Refer to Committee: Government Accountability and Oversight"
+796828,2015-11-09,Introduced
+796828,2015-11-16,"Refer to Committee: Finance"
+796829,2015-11-09,Adopted
+796830,2015-11-09,Introduced
+796830,2015-11-16,"Refer to Committee: Insurance"
+796832,2015-11-09,Adopted
+796833,2015-11-09,Adopted
+796834,2015-11-09,Adopted
+796835,2015-11-09,Adopted
+796836,2015-11-09,Adopted
+796837,2016-05-25,"Concurred in Senate amendments"
+796837,2016-05-25,"Informally passed"
+796837,2016-09-28,"Effective 9/28/16<div>Certain provisions effective on another date.</div>"
+796838,2015-11-09,Adopted
+796839,2015-11-09,Adopted
+796840,2015-11-09,Adopted
+796841,2015-11-09,Adopted
+796880,2015-11-09,Adopted
+796883,2015-11-10,Introduced
+796883,2015-11-17,"Refer to Committee: Education"
+796892,2015-11-10,Introduced
+796892,2015-11-17,"Refer to Committee: Finance"
+796901,2016-04-27,Passed
+796901,2016-08-05,"Effective 8/5/16"
+797049,2015-11-12,Adopted
+797055,2015-11-12,Offered
+797055,2015-11-17,"Refer to Committee: Energy and Natural Resources"
+797060,2016-05-25,Passed
+797060,2016-05-25,"Reported: Government Accountability and Oversight"
+797060,2016-09-14,"Effective 9/14/16"
+797210,2015-11-16,"Adopted: Rules and Reference"
+797238,2015-11-16,"Adopted: Rules and Reference"
+797265,2015-11-16,Introduced
+797265,2016-01-20,"Refer to Committee: Transportation and Infrastructure"
+797293,2015-11-16,Introduced
+797293,2016-01-20,"Refer to Committee: Agriculture and Rural Development"
+797320,2016-05-18,Adopted
+797320,2016-05-19,Offered
+797320,2016-09-28,"Refer to Committee: Energy and Natural Resources"
+797346,2016-02-17,Adopted
+797346,2016-02-18,Offered
+797346,2016-02-23,"Refer to Committee: Energy and Natural Resources"
+797408,2015-11-17,Adopted
+797408,2015-12-10,Offered
+797408,2016-01-20,"Refer to Committee: Government Oversight and Reform"
+797422,2015-11-17,Adopted
+797423,2015-11-17,Introduced
+797423,2016-01-20,"Refer to Committee: Government Accountability and Oversight"
+797424,2015-11-17,Adopted
+797425,2016-05-04,Passed
+797425,2016-05-09,Introduced
+797426,2015-11-17,Adopted
+797427,2015-11-17,Adopted
+797428,2015-11-17,Adopted
+797429,2015-11-17,Adopted
+797430,2015-11-17,Introduced
+797430,2015-12-09,"Refer to Committee: Ways and Means"
+797431,2015-11-17,Adopted
+797432,2015-11-17,Introduced
+797432,2015-12-09,"Refer to Committee: Medicaid"
+797433,2015-11-17,Adopted
+797539,2015-11-18,Introduced
+797539,2015-12-09,"Refer to Committee: Ways and Means"
+797623,2015-11-19,Introduced
+797623,2016-01-20,"Refer to Committee: Education"
+797634,2015-11-19,Adopted
+797877,2015-11-23,Adopted
+797878,2015-11-23,Introduced
+797878,2015-12-09,"Refer to Committee: Medicaid"
+797880,2015-11-23,Adopted
+797883,2016-05-25,Passed
+797883,2016-05-31,Introduced
+797885,2015-11-23,Introduced
+797885,2015-12-09,"Refer to Committee: Transportation, Commerce and Labor"
+797907,2015-11-24,Introduced
+797907,2016-01-20,"Refer to Committee: Commerce and Labor"
+797975,2015-11-25,Adopted
+797976,2015-11-25,Adopted
+798056,2015-11-30,"Adopted: Rules and Reference"
+798057,2015-11-30,"Adopted: Rules and Reference"
+798058,2015-11-30,"Adopted: Rules and Reference"
+798059,2015-11-30,"Adopted: Rules and Reference"
+798060,2015-11-30,"Adopted: Rules and Reference"
+798061,2015-11-30,"Adopted: Rules and Reference"
+798062,2015-11-30,"Adopted: Rules and Reference"
+798063,2015-11-30,"Adopted: Rules and Reference"
+798064,2015-11-30,"Adopted: Rules and Reference"
+798065,2015-11-30,"Adopted: Rules and Reference"
+798066,2015-11-30,"Adopted: Rules and Reference"
+798067,2015-11-30,"Adopted: Rules and Reference"
+798068,2015-11-30,"Adopted: Rules and Reference"
+798069,2015-11-30,"Adopted: Rules and Reference"
+798070,2015-11-30,Introduced
+798070,2016-01-20,"Refer to Committee: Education"
+798071,2015-11-30,"Adopted: Rules and Reference"
+798072,2015-11-30,"Adopted: Rules and Reference"
+798153,2015-12-01,Introduced
+798153,2016-01-20,"Refer to Committee: Finance"
+798157,2015-12-01,Offered
+798157,2015-12-09,"Refer to Committee: State and Local Government"
+798192,2015-12-01,Introduced
+798192,2016-01-20,"Refer to Committee: Government Accountability and Oversight"
+798403,2015-12-03,Offered
+798403,2016-01-20,"Refer to Committee: Government Oversight and Reform"
+798407,2016-02-10,Passed
+798407,2016-02-11,Introduced
+798407,2016-02-23,"Refer to Committee: Criminal Justice"
+798412,2015-12-03,Adopted
+798417,2015-12-03,Introduced
+798417,2016-01-20,"Refer to Committee: Transportation and Infrastructure"
+798417,2016-02-17,"Reported: Transportation and Infrastructure"
+798422,2015-12-03,Adopted
+798427,2015-12-03,Introduced
+798427,2016-01-20,"Refer to Committee: Ways and Means"
+798432,2015-12-03,Introduced
+798432,2016-01-20,"Refer to Committee: Finance"
+798437,2015-12-03,Offered
+798437,2016-01-20,"Refer to Committee: Government Oversight and Reform"
+798442,2015-12-03,Adopted
+798944,2015-12-07,"Adopted: Rules and Reference"
+798950,2015-12-07,Introduced
+798950,2016-01-20,"Refer to Committee: Ways and Means"
+798950,2016-04-20,"Reported - Amended: Ways and Means"
+798956,2015-12-07,Introduced
+798956,2016-01-20,"Refer to Committee: Local Government"
+798956,2016-05-24,"Reported: Local Government"
+798962,2015-12-07,Introduced
+798962,2016-01-20,"Refer to Committee: Judiciary"
+798968,2015-12-07,"Adopted: Rules and Reference"
+798974,2015-12-07,"Adopted: Rules and Reference"
+799084,2015-12-08,Adopted
+799085,2015-12-08,Adopted
+799086,2015-12-08,Adopted
+799087,2015-12-08,Adopted
+799088,2015-12-08,Introduced
+799088,2016-01-20,"Refer to Committee: Government Oversight and Reform"
+799089,2015-12-08,"Adopted: Rules and Reference"
+799090,2015-12-08,Introduced
+799090,2016-01-20,"Refer to Committee: Education"
+799091,2015-12-08,Adopted
+799092,2015-12-08,Adopted
+799093,2015-12-08,Adopted
+799094,2015-12-08,Adopted
+799159,2015-12-14,Adopted
+799160,2016-04-27,Passed
+799160,2016-05-05,"Refer to Committee: Health and Aging"
+799160,2016-05-25,"Reported - Amended: Health and Aging"
+799161,2016-05-04,Passed
+799161,2016-05-10,Introduced
+799161,2016-05-11,"Refer to Committee: Education"
+799162,2015-12-09,Adopted
+799163,2016-05-10,Passed
+799163,2016-05-10,Introduced
+799163,2016-05-11,"Refer to Committee: Health and Human Services"
+799429,2015-12-08,Adopted
+800484,2016-05-25,Passed
+800484,2016-05-31,Introduced
+800485,2016-02-24,Passed
+800485,2016-02-29,Introduced
+800485,2016-04-12,"Refer to Committee: Ways and Means"
+800486,2015-12-14,Adopted
+800487,2016-05-25,Passed
+800487,2016-09-28,"Effective 9/28/16"
+800488,2015-12-14,Adopted
+800490,2015-12-14,Introduced
+800490,2016-01-20,"Refer to Committee: Insurance"
+800491,2015-12-14,Introduced
+800491,2016-01-20,"Refer to Committee: Health and Aging"
+800491,2016-02-24,"Reported: Health and Aging"
+800492,2015-12-14,Introduced
+800492,2016-01-20,"Refer to Committee: Transportation, Commerce and Labor"
+800493,2015-12-14,Introduced
+800493,2016-01-20,"Refer to Committee: Finance"
+800496,2015-12-14,Adopted
+801149,2015-12-17,Adopted
+801151,2015-12-17,Introduced
+801151,2016-01-20,"Refer to Committee: Financial Institutions, Housing, and Urban Development"
+801153,2015-12-17,Introduced
+801153,2016-01-20,"Refer to Committee: Health and Aging"
+801153,2016-04-13,"Reported - Substitute: Health and Aging"
+801155,2015-12-17,Introduced
+801155,2016-01-20,"Refer to Committee: Agriculture"
+801157,2015-12-17,Adopted
+801158,2015-12-17,Introduced
+801158,2016-01-20,"Refer to Committee: State and Local Government"
+801159,2015-12-17,Adopted
+801833,2015-12-22,Adopted
+801836,2015-12-22,Adopted
+801838,2015-12-22,Adopted
+801870,2015-12-23,Introduced
+801870,2016-01-20,"Refer to Committee: Health and Aging"
+801870,2016-04-13,"Reported - Substitute: Health and Aging"
+801876,2015-12-23,Introduced
+801876,2016-01-20,"Refer to Committee: Education"
+801880,2015-12-23,Adopted
+801886,2016-05-18,Passed
+801886,2016-05-19,Introduced
+801886,2016-09-28,"Refer to Committee: Health and Human Services"
+801889,2015-12-23,Adopted
+802423,2015-12-29,Adopted
+802424,2015-12-29,Adopted
+802425,2015-12-29,Adopted
+802512,2016-05-17,Passed
+802512,2016-05-18,Introduced
+802519,2015-12-30,Adopted
+807661,2016-01-05,Adopted
+808319,2016-01-05,Adopted
+808505,2016-01-06,Adopted
+809578,2016-01-07,Introduced
+809578,2016-01-20,"Refer to Committee: Energy and Natural Resources"
+809663,2016-05-18,Passed
+809663,2016-05-19,Introduced
+809663,2016-09-28,"Refer to Committee: State and Local Government"
+810732,2016-01-11,Adopted
+810977,2016-01-11,Adopted
+811302,2016-01-11,Adopted
+812800,2016-01-13,Introduced
+812800,2016-01-20,"Refer to Committee: Transportation and Infrastructure"
+812859,2016-01-13,Introduced
+812859,2016-01-20,"Refer to Committee: State Government"
+812918,2016-01-13,Introduced
+812918,2016-01-20,"Refer to Committee: Judiciary"
+812979,2016-01-13,Introduced
+812979,2016-01-20,"Refer to Committee: Transportation and Infrastructure"
+813039,2016-01-13,Introduced
+813039,2016-01-20,"Refer to Committee: Education"
+813098,2016-04-13,Passed
+813098,2016-04-14,Introduced
+813098,2016-04-20,"Refer to Committee: Education"
+813156,2016-05-25,Passed
+813156,2016-09-14,"Effective 9/14/16"
+816225,2016-01-13,Adopted
+816392,2016-01-13,Introduced
+816392,2016-01-20,"Refer to Committee: State and Local Government"
+817722,2016-01-14,Adopted
+817764,2016-01-14,Adopted
+817808,2016-01-13,Adopted
+817850,2016-01-14,Adopted
+817893,2016-01-14,Adopted
+818566,2016-01-19,Adopted
+819125,2016-01-19,Introduced
+819125,2016-01-20,"Refer to Committee: Transportation, Commerce and Labor"
+819260,2016-01-19,Introduced
+819260,2016-01-20,"Refer to Committee: Transportation, Commerce and Labor"
+819389,2016-02-10,Passed
+819389,2016-05-23,"Effective 5/23/16"
+819940,2016-01-20,"Adopted: Rules and Reference"
+819952,2016-01-20,"Introduced and Referred to Committee: Finance"
+819968,2016-01-20,"Adopted: Rules and Reference"
+819991,2016-01-20,Adopted
+820008,2016-01-20,"Adopted: Rules and Reference"
+820030,2016-01-20,"Adopted: Rules and Reference"
+820048,2016-01-20,Adopted
+820068,2016-04-27,Adopted
+820068,2016-05-02,Offered
+820068,2016-05-04,"Refer to Committee: Education"
+820068,2016-05-24,"Re-referred: Government Oversight and Reform"
+820087,2016-01-20,"Adopted: Rules and Reference"
+820109,2016-01-20,"Adopted: Rules and Reference"
+820129,2016-01-20,"Adopted: Rules and Reference"
+820149,2016-02-17,Adopted
+820170,2016-01-20,"Adopted: Rules and Reference"
+820183,2016-01-20,Adopted
+820206,2016-01-20,"Introduced and Referred to Committee: Education"
+820227,2016-01-20,"Adopted: Rules and Reference"
+820246,2016-01-20,"Adopted: Rules and Reference"
+820266,2016-01-20,"Adopted: Rules and Reference"
+820286,2016-01-20,"Adopted: Rules and Reference"
+820307,2016-01-20,"Adopted: Rules and Reference"
+820328,2016-01-20,"Adopted: Rules and Reference"
+820345,2016-01-20,"Adopted: Rules and Reference"
+820368,2016-01-20,"Adopted: Rules and Reference"
+820385,2016-01-20,"Adopted: Rules and Reference"
+820406,2016-01-20,"Adopted: Rules and Reference"
+820422,2016-01-20,"Adopted: Rules and Reference"
+822636,2016-01-21,Adopted
+822877,2016-01-21,Adopted
+823117,2016-01-21,Adopted
+823370,2016-01-21,Adopted
+823627,2016-01-21,Adopted
+825065,2016-01-20,"Adopted: Rules and Reference"
+825206,2016-01-20,"Adopted: Rules and Reference"
+826626,2016-01-25,Introduced
+826626,2016-01-27,"Refer to Committee: Civil Justice"
+826673,2016-01-25,Introduced
+826673,2016-01-27,"Refer to Committee: Criminal Justice"
+826720,2016-04-27,Passed
+826720,2016-08-05,"Effective 8/5/16<div>effective until 8/10/2016</div>"
+827653,2016-05-18,Passed
+827653,2016-05-19,Introduced
+827653,2016-09-28,"Refer to Committee: Civil Justice"
+827682,2016-01-26,Introduced
+827682,2016-02-02,"Refer to Committee: Transportation and Infrastructure"
+827682,2016-02-17,"Reported: Transportation and Infrastructure"
+827710,2016-05-24,Passed
+827710,2016-09-28,"Effective 9/28/16"
+827738,2016-05-24,Passed
+827738,2016-05-25,Introduced
+827738,2016-09-28,"Refer to Committee: Transportation, Commerce and Labor"
+827767,2016-05-18,Passed
+827767,2016-05-19,Introduced
+827767,2016-09-28,"Refer to Committee: Finance"
+827794,2016-05-17,Passed
+827794,2016-08-31,"Effective 8/31/16"
+827824,2016-01-26,Adopted
+827894,2016-01-26,"Adopted: Rules and Reference"
+827929,2016-01-26,"Adopted: Rules and Reference"
+827964,2016-01-26,"Adopted: Rules and Reference"
+827997,2016-01-26,"Adopted: Rules and Reference"
+828024,2016-01-26,"Adopted: Rules and Reference"
+829268,2016-01-27,Introduced
+829268,2016-02-02,"Refer to Committee: Judiciary"
+829443,2016-05-18,Passed
+829443,2016-05-19,Introduced
+829443,2016-09-28,"Refer to Committee: Education"
+829713,2016-01-27,Adopted
+829974,2016-01-27,Introduced
+829974,2016-02-10,"Refer to Committee: State and Local Government"
+830235,2016-01-27,Adopted
+830498,2016-01-27,Adopted
+830763,2016-01-27,Adopted
+831025,2016-01-27,Adopted
+831287,2016-01-27,Adopted
+831552,2016-01-27,Adopted
+831813,2016-01-27,Introduced
+831813,2016-02-10,"Refer to Committee: Criminal Justice"
+832470,2016-05-10,Passed
+832470,2016-05-10,Introduced
+832470,2016-05-11,"Refer to Committee: State and Local Government"
+832537,2016-05-24,Passed
+832537,2016-05-25,Introduced
+832537,2016-09-28,"Refer to Committee: Criminal Justice"
+832607,2016-01-27,Adopted
+832678,2016-01-28,Introduced
+832678,2016-02-10,"Refer to Committee: Finance"
+832751,2016-01-28,Adopted
+832821,2016-01-28,Introduced
+832821,2016-02-02,"Refer to Committee: Transportation and Infrastructure"
+832962,2016-05-25,Passed
+832962,2016-06-01,Introduced
+832962,2016-09-28,"Refer to Committee: Education"
+834350,2016-02-01,Adopted
+834372,2016-02-01,Adopted
+834405,2016-02-01,Introduced
+834405,2016-02-10,"Refer to Committee: Energy and Natural Resources"
+834436,2016-02-01,Introduced
+834436,2016-02-10,"Refer to Committee: Civil Justice"
+834470,2016-02-01,Adopted
+835873,2016-02-02,Introduced
+835873,2016-02-10,"Refer to Committee: Insurance"
+835952,2016-02-02,Introduced
+835952,2016-02-10,"Refer to Committee: Government Accountability and Oversight"
+836034,2016-05-24,Passed
+836034,2016-05-25,Introduced
+836034,2016-09-28,"Refer to Committee: Agriculture"
+836121,2016-05-11,Passed
+836121,2016-05-12,Introduced
+836121,2016-05-17,"Refer to Committee: Transportation, Commerce and Labor"
+836230,2016-02-03,Introduced
+836230,2016-02-10,"Refer to Committee: Education"
+837167,2016-02-04,Introduced
+837167,2016-02-10,"Refer to Committee: Agriculture"
+837210,2016-02-04,Introduced
+837210,2016-02-10,"Refer to Committee: Government Oversight and Reform"
+837257,2016-02-04,Introduced
+837257,2016-02-10,"Refer to Committee: Government Oversight and Reform"
+839595,2016-05-18,Passed
+839595,2016-05-19,Introduced
+839659,2016-02-08,Adopted
+839725,2016-02-08,Adopted
+839791,2016-02-04,Adopted
+839855,2016-02-08,Adopted
+840938,2016-02-08,Adopted
+842196,2016-02-09,"Adopted: Rules and Reference"
+842225,2016-02-09,Introduced
+842225,2016-02-10,"Refer to Committee: State Government"
+842258,2016-02-09,Introduced
+842258,2016-02-16,"Refer to Committee: Government Accountability and Oversight"
+842288,2016-02-09,"Adopted: Rules and Reference"
+842321,2016-02-09,Introduced
+842321,2016-02-24,"Refer to Committee: Ways and Means"
+842350,2016-02-09,"Adopted: Rules and Reference"
+842380,2016-05-18,Passed
+842380,2016-05-19,Introduced
+842380,2016-09-28,"Refer to Committee: Transportation, Commerce and Labor"
+842412,2016-05-25,Passed
+842412,2016-06-01,Introduced
+842412,2016-09-28,"Refer to Committee: Civil Justice"
+842441,2016-05-18,Passed
+842441,2016-05-19,Introduced
+842441,2016-09-28,"Refer to Committee: Criminal Justice"
+842469,2016-02-09,Introduced
+842469,2016-02-10,"Refer to Committee: Judiciary"
+842501,2016-05-18,Passed
+842501,2016-05-19,Introduced
+842501,2016-09-28,"Refer to Committee: State and Local Government"
+842530,2016-02-09,Introduced
+842530,2016-02-10,"Refer to Committee: Transportation and Infrastructure"
+842563,2016-02-09,"Adopted: Rules and Reference"
+842591,2016-02-09,"Adopted: Rules and Reference"
+842618,2016-02-09,Introduced
+842618,2016-02-10,"Refer to Committee: State Government"
+844007,2016-02-10,Introduced
+844007,2016-02-16,"Refer to Committee: Education"
+844007,2016-05-25,"Reported: Education"
+844049,2016-02-09,"Adopted: Rules and Reference"
+844091,2016-02-10,Introduced
+844091,2016-02-23,"Refer to Committee: Finance"
+844132,2016-02-10,Introduced
+844132,2016-02-23,"Refer to Committee: State and Local Government"
+844172,2016-02-10,Introduced
+844172,2016-02-16,"Refer to Committee: Transportation and Infrastructure"
+844214,2016-02-10,Introduced
+844214,2016-02-23,"Refer to Committee: State and Local Government"
+844255,2016-02-10,Introduced
+844255,2016-02-23,"Refer to Committee: State and Local Government"
+844296,2016-02-10,Introduced
+844296,2016-02-23,"Refer to Committee: State and Local Government"
+844338,2016-02-10,Introduced
+844338,2016-02-16,"Refer to Committee: Community and Family Advancement"
+844376,2016-02-10,Introduced
+844376,2016-02-23,"Refer to Committee: Medicaid"
+844597,2016-02-10,Adopted
+844810,2016-02-10,Offered
+844810,2016-02-23,"Refer to Committee: Government Oversight and Reform"
+845021,2016-02-10,Adopted
+845847,2016-02-11,Introduced
+845847,2016-02-16,"Refer to Committee: Transportation and Infrastructure"
+846009,2016-02-11,Introduced
+846009,2016-02-16,"Refer to Committee: Local Government"
+846175,2016-02-11,Introduced
+846175,2016-02-16,"Refer to Committee: State Government"
+848498,2016-02-16,"Adopted: Rules and Reference"
+848527,2016-02-16,"Adopted: Rules and Reference"
+848560,2016-02-16,Introduced
+848560,2016-02-23,"Refer to Committee: Government Oversight and Reform"
+848591,2016-02-16,Introduced
+848591,2016-02-24,"Refer to Committee: Armed Services, Veterans Affairs, and Public Safety"
+848627,2016-05-25,Passed
+848627,2016-10-12,"Effective 10/12/16"
+848656,2016-02-16,"Adopted: Rules and Reference"
+848689,2016-02-16,Introduced
+848689,2016-02-23,"Refer to Committee: Transportation, Commerce and Labor"
+848730,2016-02-16,"Adopted: Rules and Reference"
+848758,2016-02-16,"Adopted: Rules and Reference"
+848794,2016-02-16,Introduced
+848794,2016-04-13,"Refer to Committee: Insurance"
+848825,2016-02-16,Introduced
+848859,2016-05-11,Passed
+848859,2016-05-12,Introduced
+848859,2016-05-17,"Refer to Committee: Civil Justice"
+850138,2016-02-17,Introduced
+850138,2016-02-24,"Refer to Committee: State Government"
+850308,2016-02-17,Introduced
+850308,2016-02-24,"Refer to Committee: Transportation and Infrastructure"
+850473,2016-05-25,Passed
+850473,2016-06-01,Introduced
+850473,2016-09-28,"Refer to Committee: Health and Human Services"
+850632,2016-02-17,Adopted
+851046,2016-02-18,Offered
+851046,2016-02-23,"Refer to Committee: State and Local Government"
+851046,2016-05-25,"Reported: State and Local Government"
+851046,2016-05-25,Adopted
+851117,2016-02-18,Adopted
+851187,2016-02-18,Offered
+851187,2016-02-23,"Refer to Committee: Energy and Natural Resources"
+851264,2016-02-18,Adopted
+851455,2016-02-18,Introduced
+851455,2016-02-23,"Refer to Committee: Transportation, Commerce and Labor"
+852296,2016-02-18,Adopted
+853748,2016-02-22,"Adopted: Rules and Reference"
+853772,2016-02-22,"Adopted: Rules and Reference"
+853798,2016-02-22,"Adopted: Rules and Reference"
+853824,2016-05-11,Passed
+853824,2016-05-12,Introduced
+853824,2016-05-17,"Refer to Committee: Government Oversight and Reform"
+853849,2016-02-22,Introduced
+853849,2016-02-24,"Refer to Committee: Public Utilities"
+854235,2016-02-23,Introduced
+854235,2016-04-13,"Refer to Committee: Ways and Means"
+854424,2016-02-24,"Adopted: Rules and Reference"
+854630,2016-02-23,Adopted
+854643,2016-02-24,"Adopted: Rules and Reference"
+854654,2016-02-23,Adopted
+854668,2016-02-23,Adopted
+854684,2016-02-24,"Adopted: Rules and Reference"
+854696,2016-02-23,Adopted
+854709,2016-02-23,Adopted
+854720,2016-02-23,Introduced
+854720,2016-04-13,"Refer to Committee: Finance"
+854720,2016-05-25,"Reported - Substitute: Finance"
+854736,2016-02-23,Introduced
+854736,2016-04-12,"Refer to Committee: Finance"
+854750,2016-02-23,Adopted
+854762,2016-02-23,Adopted
+854785,2016-02-23,Introduced
+854785,2016-04-13,"Refer to Committee: Finance"
+854968,2016-02-24,Adopted
+855114,2016-02-24,Adopted
+855190,2016-02-23,Adopted
+855268,2016-02-24,Introduced
+855268,2016-04-13,"Refer to Committee: Government Accountability and Oversight"
+855268,2016-05-18,"Reported: Government Accountability and Oversight"
+856504,2016-03-01,Adopted
+856862,2016-02-29,Adopted
+856887,2016-02-29,Introduced
+856887,2016-04-12,"Refer to Committee: Criminal Justice"
+856910,2016-05-25,Passed
+856910,2016-05-31,Introduced
+856932,2016-02-29,Adopted
+856955,2016-05-24,Passed
+856955,2016-05-25,Introduced
+856979,2016-02-29,Introduced
+856979,2016-04-12,"Refer to Committee: State and Local Government"
+857308,2016-03-01,Introduced
+857308,2016-04-13,"Refer to Committee: Education"
+857308,2016-05-04,"Reported - Substitute: Education"
+857330,2016-03-01,Introduced
+857330,2016-04-13,"Refer to Committee: Transportation and Infrastructure"
+857352,2016-03-01,Introduced
+857352,2016-04-13,"Refer to Committee: Judiciary"
+857375,2016-03-01,Introduced
+857375,2016-04-13,"Refer to Committee: Transportation and Infrastructure"
+857395,2016-03-01,Introduced
+857395,2016-04-13,"Refer to Committee: Energy and Natural Resources"
+858282,2016-03-02,Introduced
+858282,2016-04-12,"Refer to Committee: Ways and Means"
+858343,2016-03-02,Introduced
+858343,2016-04-12,"Refer to Committee: Ways and Means"
+858769,2016-03-03,Adopted
+858814,2016-03-03,Adopted
+858857,2016-03-03,Introduced
+858857,2016-04-13,"Refer to Committee: Ways and Means"
+858864,2016-05-25,"Passed - Amended"
+858864,2016-10-12,"Effective 10/12/16<div>Certain provisions effective on other dates.</div>"
+858978,2016-03-03,Adopted
+860696,2016-03-07,Introduced
+860696,2016-04-12,"Refer to Committee: Criminal Justice"
+860703,2016-03-07,Adopted
+860713,2016-03-07,Adopted
+860722,2016-05-24,Passed
+860722,2016-05-25,Introduced
+860732,2016-03-07,Adopted
+860742,2016-03-07,Adopted
+860751,2016-03-07,Adopted
+860806,2016-03-08,Introduced
+860806,2016-04-13,"Refer to Committee: Judiciary"
+860893,2016-03-08,Introduced
+860893,2016-04-13,"Refer to Committee: Education"
+860893,2016-05-25,"Reported - Substitute: Education"
+860983,2016-03-08,Introduced
+860983,2016-04-13,"Refer to Committee: Ways and Means"
+861069,2016-03-08,Introduced
+861069,2016-04-13,"Refer to Committee: State Government"
+861157,2016-03-08,Introduced
+861157,2016-04-13,"Refer to Committee: Ways and Means"
+861248,2016-03-08,Introduced
+861248,2016-04-13,"Refer to Committee: Commerce and Labor"
+862449,2016-03-10,Introduced
+862449,2016-04-13,"Refer to Committee: Ways and Means"
+862612,2016-03-10,Adopted
+862685,2016-05-25,Passed
+862685,2016-09-14,"Effective 9/14/16"
+862754,2016-03-10,Introduced
+862754,2016-04-12,"Refer to Committee: Civil Justice"
+862825,2016-03-10,Adopted
+862961,2016-03-10,Adopted
+864000,2016-05-25,"Concurred in House amendments"
+864044,2016-03-14,Introduced
+864044,2016-04-12,"Refer to Committee: State and Local Government"
+864090,2016-03-14,Introduced
+864090,2016-04-12,"Refer to Committee: Health and Human Services"
+864135,2016-03-14,Adopted
+864179,2016-03-14,Adopted
+865195,2016-05-18,Passed
+865195,2016-05-19,Introduced
+865195,2016-09-28,"Refer to Committee: Health and Human Services"
+865285,2016-03-16,Introduced
+865285,2016-04-13,"Refer to Committee: Ways and Means"
+865919,2016-03-17,Offered
+865919,2016-04-12,"Refer to Committee: Energy and Natural Resources"
+865919,2016-05-12,"Reported: Energy and Natural Resources"
+865919,2016-05-18,Adopted
+865986,2016-03-17,Offered
+865986,2016-04-12,"Refer to Committee: Government Oversight and Reform"
+866060,2016-03-17,Adopted
+866695,2016-03-21,Adopted
+866703,2016-03-21,Adopted
+866710,2016-03-21,Adopted
+866720,2016-03-21,Adopted
+866727,2016-03-21,Adopted
+866737,2016-03-21,Adopted
+866746,2016-03-21,Adopted
+866755,2016-03-21,Adopted
+866764,2016-03-21,Adopted
+866773,2016-03-21,Adopted
+866787,2016-03-21,Introduced
+866787,2016-04-13,"Refer to Committee: Finance"
+866871,2016-05-25,Passed
+866871,2016-06-01,Introduced
+866871,2016-09-28,"Refer to Committee: Civil Justice"
+867200,2016-03-21,Introduced
+867200,2016-04-12,"Refer to Committee: Education"
+867204,2016-03-22,Introduced
+867204,2016-04-12,"Refer to Committee: Finance"
+867231,2016-03-22,Adopted
+867261,2016-03-22,Adopted
+867293,2016-03-22,Adopted
+868256,2016-03-24,Introduced
+868256,2016-04-13,"Refer to Committee: Judiciary"
+868267,2016-03-24,Introduced
+868267,2016-04-13,"Refer to Committee: Education"
+868276,2016-03-24,Adopted
+868287,2016-03-24,Introduced
+868287,2016-04-13,"Refer to Committee: Finance"
+868296,2016-03-24,Adopted
+868308,2016-03-24,Introduced
+868308,2016-04-12,"Refer to Committee: Health and Human Services"
+868317,2016-05-04,Passed
+868317,2016-05-09,Introduced
+868326,2016-03-24,Introduced
+868326,2016-04-13,"Refer to Committee: Health and Aging"
+868340,2016-03-24,Introduced
+868340,2016-04-13,"Refer to Committee: State Government"
+868351,2016-03-24,Offered
+868351,2016-04-12,"Refer to Committee: Civil Justice"
+868363,2016-03-24,Introduced
+868363,2016-04-13,"Refer to Committee: State Government"
+868374,2016-03-24,Introduced
+868374,2016-04-13,"Refer to Committee: Education"
+868384,2016-03-24,Offered
+868384,2016-04-12,"Refer to Committee: Transportation, Commerce and Labor"
+868393,2016-03-24,Introduced
+868393,2016-04-13,"Refer to Committee: Finance"
+868402,2016-03-24,Adopted
+868407,2016-03-24,Adopted
+868860,2016-03-29,Adopted
+868869,2016-03-29,Adopted
+868877,2016-03-29,Adopted
+868886,2016-03-29,Adopted
+868896,2016-03-29,Adopted
+868904,2016-03-29,Adopted
+868911,2016-03-29,Adopted
+868924,2016-03-29,Adopted
+868931,2016-03-29,Adopted
+868941,2016-03-29,Adopted
+868949,2016-03-29,Adopted
+868957,2016-03-29,Adopted
+868966,2016-03-29,Adopted
+868975,2016-03-29,Adopted
+868981,2016-03-29,Adopted
+868987,2016-03-29,Introduced
+868987,2016-04-12,"Refer to Committee: Civil Justice"
+869005,2016-03-29,Introduced
+869005,2016-04-12,"Refer to Committee: Ways and Means"
+869203,2016-03-30,Introduced
+869203,2016-04-13,"Refer to Committee: Government Accountability and Oversight"
+869311,2016-03-30,Adopted
+869355,2016-03-30,Introduced
+869355,2016-04-13,"Refer to Committee: Government Accountability and Oversight"
+869459,2016-03-30,Introduced
+869459,2016-04-12,"Refer to Committee: Government Oversight and Reform"
+869850,2016-04-04,Adopted
+869852,2016-04-04,Adopted
+869855,2016-04-04,Adopted
+869859,2016-04-04,Adopted
+869862,2016-04-04,Introduced
+869862,2016-04-12,"Refer to Committee: State and Local Government"
+869866,2016-04-04,Adopted
+869870,2016-04-04,Introduced
+869870,2016-04-13,"Refer to Committee: Finance"
+869874,2016-04-04,Adopted
+869877,2016-04-04,Adopted
+869881,2016-04-04,Adopted
+869884,2016-04-04,Adopted
+869886,2016-04-04,Introduced
+869886,2016-04-13,"Refer to Committee: Government Accountability and Oversight"
+869897,2016-04-04,Adopted
+869900,2016-05-11,Passed
+869900,2016-05-12,Introduced
+869900,2016-05-17,"Refer to Committee: Health and Human Services"
+869905,2016-04-04,Introduced
+869905,2016-04-12,"Refer to Committee: Ways and Means"
+869908,2016-04-04,Introduced
+869908,2016-04-13,"Refer to Committee: State Government"
+869912,2016-04-04,Adopted
+869916,2016-04-04,Adopted
+869919,2016-04-04,Adopted
+869923,2016-04-04,Introduced
+869923,2016-04-13,"Refer to Committee: Government Accountability and Oversight"
+869928,2016-04-04,Introduced
+869928,2016-04-12,"Refer to Committee: Civil Justice"
+869931,2016-04-04,Introduced
+869931,2016-04-13,"Refer to Committee: State Government"
+870366,2016-04-04,Introduced
+870366,2016-04-13,"Refer to Committee: Insurance"
+871277,2016-04-07,Introduced
+871277,2016-04-26,"Refer to Committee: Insurance"
+871315,2016-05-25,Passed
+871315,2016-05-25,"Reported: Energy and Natural Resources"
+871315,2016-05-25,"Informally passed"
+871315,2016-09-09,"Effective 9/9/16"
+871320,2016-04-07,Adopted
+871334,2016-04-07,Adopted
+871348,2016-04-07,Adopted
+871365,2016-04-07,Adopted
+871382,2016-04-07,Adopted
+871400,2016-04-07,Adopted
+871417,2016-04-07,Adopted
+871434,2016-04-07,Adopted
+871548,2016-04-07,Offered
+871548,2016-04-12,"Refer to Committee: Energy and Natural Resources"
+871564,2016-04-07,Introduced
+871564,2016-04-12,"Refer to Committee: State and Local Government"
+871581,2016-05-24,Passed
+871581,2016-05-25,Introduced
+871600,2016-04-07,Introduced
+871600,2016-04-12,"Refer to Committee: Transportation, Commerce and Labor"
+871728,2016-04-11,"Adopted: Rules and Reference"
+871730,2016-04-11,"Adopted: Rules and Reference"
+871734,2016-04-11,"Adopted: Rules and Reference"
+871735,2016-04-11,"Adopted: Rules and Reference"
+871740,2016-04-11,"Adopted: Rules and Reference"
+871743,2016-04-11,"Adopted: Rules and Reference"
+871746,2016-04-11,"Adopted: Rules and Reference"
+871751,2016-04-11,"Adopted: Rules and Reference"
+871755,2016-04-11,"Adopted: Rules and Reference"
+871759,2016-04-11,"Adopted: Rules and Reference"
+871762,2016-04-11,"Adopted: Rules and Reference"
+871765,2016-04-11,"Adopted: Rules and Reference"
+871769,2016-04-11,"Adopted: Rules and Reference"
+871773,2016-04-11,"Adopted: Rules and Reference"
+871779,2016-04-11,"Adopted: Rules and Reference"
+871783,2016-04-11,"Adopted: Rules and Reference"
+871786,2016-04-11,"Adopted: Rules and Reference"
+871789,2016-04-11,"Adopted: Rules and Reference"
+871792,2016-04-11,"Adopted: Rules and Reference"
+871797,2016-04-11,"Adopted: Rules and Reference"
+871800,2016-04-11,"Adopted: Rules and Reference"
+871810,2016-04-11,"Adopted: Rules and Reference"
+871812,2016-04-11,"Adopted: Rules and Reference"
+871818,2016-04-11,"Adopted: Rules and Reference"
+871821,2016-04-11,"Adopted: Rules and Reference"
+871824,2016-04-11,"Adopted: Rules and Reference"
+871828,2016-04-11,"Adopted: Rules and Reference"
+871834,2016-04-11,"Adopted: Rules and Reference"
+871838,2016-04-11,"Adopted: Rules and Reference"
+871840,2016-04-11,"Adopted: Rules and Reference"
+871845,2016-04-11,"Adopted: Rules and Reference"
+871847,2016-04-11,"Adopted: Rules and Reference"
+871851,2016-04-11,"Adopted: Rules and Reference"
+871853,2016-04-11,"Adopted: Rules and Reference"
+871859,2016-04-11,"Adopted: Rules and Reference"
+871863,2016-04-11,"Adopted: Rules and Reference"
+871866,2016-04-11,"Adopted: Rules and Reference"
+871871,2016-04-11,"Adopted: Rules and Reference"
+871873,2016-04-11,"Adopted: Rules and Reference"
+871877,2016-04-11,"Adopted: Rules and Reference"
+872020,2016-04-12,Introduced
+872020,2016-04-26,"Refer to Committee: Commerce and Labor"
+872023,2016-04-12,Introduced
+872023,2016-04-26,"Refer to Committee: Ways and Means"
+872028,2016-04-12,"Adopted: Rules and Reference"
+872034,2016-04-12,"Adopted: Rules and Reference"
+872040,2016-04-12,Adopted
+872043,2016-04-12,"Adopted: Rules and Reference"
+872048,2016-04-12,"Adopted: Rules and Reference"
+872054,2016-04-12,"Adopted: Rules and Reference"
+872060,2016-04-12,Introduced
+872060,2016-04-26,"Refer to Committee: Judiciary"
+872066,2016-04-12,"Adopted: Rules and Reference"
+872286,2016-04-12,Adopted
+872292,2016-04-12,Adopted
+872301,2016-04-12,Adopted
+872308,2016-05-04,Passed
+872308,2016-08-16,"Effective 8/16/16<div>Certain provisions effective 7/1/2016</div>"
+872316,2016-04-12,Adopted
+872329,2016-05-17,Passed
+872329,2016-05-18,Introduced
+872336,2016-04-12,Adopted
+872343,2016-04-12,Adopted
+872351,2016-04-12,Adopted
+872365,2016-04-12,Adopted
+872372,2016-04-12,Adopted
+872380,2016-04-12,Adopted
+872509,2016-04-13,Adopted
+872522,2016-04-13,"Introduced and Referred to Committee: State Government"
+872539,2016-04-13,Introduced
+872539,2016-04-26,"Refer to Committee: Judiciary"
+872552,2016-04-13,"Adopted: Rules and Reference"
+872567,2016-04-13,Adopted
+872579,2016-05-18,Adopted
+872579,2016-05-19,Offered
+872579,2016-09-28,"Refer to Committee: Energy and Natural Resources"
+872591,2016-04-13,Introduced
+872591,2016-04-26,"Refer to Committee: State Government"
+872606,2016-04-13,Introduced
+872606,2016-04-26,"Refer to Committee: State Government"
+872618,2016-04-13,Introduced
+872618,2016-04-26,"Refer to Committee: Judiciary"
+872628,2016-04-13,"Adopted: Rules and Reference"
+872723,2016-04-13,Introduced
+872723,2016-04-26,"Refer to Committee: Health and Aging"
+872922,2016-05-17,Passed
+872922,2016-05-18,Introduced
+872937,2016-05-25,Passed
+872937,2016-09-08,"Effective 9/8/16"
+872951,2016-04-15,Adopted
+872966,2016-04-14,Introduced
+872966,2016-04-26,"Refer to Committee: Energy and Natural Resources"
+872980,2016-05-25,Passed
+872980,2016-05-25,"Reported - Amended: Judiciary"
+872980,2016-06-01,Introduced
+872980,2016-09-28,"Refer to Committee: Criminal Justice"
+873150,2016-04-15,Adopted
+873340,2016-04-18,Introduced
+873340,2016-04-20,"Refer to Committee: Health and Human Services"
+873344,2016-04-18,Adopted
+873347,2016-04-18,Adopted
+873348,2016-04-18,Adopted
+873351,2016-04-18,Adopted
+873354,2016-04-18,Adopted
+873356,2016-04-18,Adopted
+873362,2016-04-18,Adopted
+873364,2016-04-18,Adopted
+873367,2016-04-18,Adopted
+873370,2016-04-18,Introduced
+873370,2016-04-20,"Refer to Committee: Health and Human Services"
+873374,2016-04-18,Adopted
+873375,2016-04-18,Adopted
+873378,2016-04-18,Adopted
+873379,2016-04-18,Adopted
+873481,2016-04-19,"Adopted: Rules and Reference"
+873488,2016-04-19,Introduced
+873488,2016-04-26,"Refer to Committee: Education"
+873494,2016-04-19,"Adopted: Rules and Reference"
+873503,2016-04-19,"Adopted: Rules and Reference"
+873511,2016-04-19,"Adopted: Rules and Reference"
+873519,2016-04-19,"Adopted: Rules and Reference"
+873528,2016-04-19,"Adopted: Rules and Reference"
+873537,2016-04-19,Introduced
+873537,2016-04-26,"Refer to Committee: State Government"
+873543,2016-04-19,"Adopted: Rules and Reference"
+873550,2016-04-19,"Adopted: Rules and Reference"
+873556,2016-04-19,Introduced
+873556,2016-04-26,"Refer to Committee: Public Utilities"
+873690,2016-05-11,Passed
+873690,2016-05-26,"Effective 5/26/16<div>Emergency: effective May 26, 2016</div>"
+873716,2016-04-19,Adopted
+873752,2016-04-19,Adopted
+873777,2016-04-20,Introduced
+873777,2016-04-27,"Refer to Committee: Finance"
+873782,2016-04-20,Introduced
+873782,2016-04-27,"Refer to Committee: Criminal Justice"
+873788,2016-04-20,Adopted
+873796,2016-04-20,Introduced
+873796,2016-04-26,"Refer to Committee: Commerce and Labor"
+873802,2016-04-20,Adopted
+873812,2016-04-20,Offered
+873812,2016-04-27,"Refer to Committee: Government Oversight and Reform"
+873819,2016-04-20,Introduced
+873819,2016-04-26,"Refer to Committee: Ways and Means"
+873826,2016-04-20,Adopted
+874180,2016-04-25,Adopted
+874181,2016-04-25,Introduced
+874181,2016-05-05,"Refer to Committee: Health and Aging"
+874181,2016-05-18,"Reported: Health and Aging"
+874184,2016-04-25,Offered
+874184,2016-04-27,"Refer to Committee: Agriculture"
+874186,2016-04-25,Adopted
+874188,2016-05-25,Passed
+874188,2016-06-01,Introduced
+874188,2016-09-28,"Refer to Committee: Transportation, Commerce and Labor"
+874191,2016-04-25,Adopted
+874194,2016-04-25,Offered
+874194,2016-04-27,"Refer to Committee: Transportation, Commerce and Labor"
+874195,2016-04-25,Adopted
+874199,2016-04-25,Introduced
+874199,2016-05-05,"Refer to Committee: Local Government"
+874201,2016-04-25,Introduced
+874201,2016-04-27,"Refer to Committee: Energy and Natural Resources"
+874203,2016-05-25,Passed
+874203,2016-05-31,Introduced
+874206,2016-04-25,Introduced
+874206,2016-05-05,"Refer to Committee: Commerce and Labor"
+874209,2016-04-25,Introduced
+874209,2016-05-05,"Refer to Committee: State Government"
+874210,2016-04-25,Adopted
+874212,2016-04-25,Introduced
+874212,2016-04-27,"Refer to Committee: Civil Justice"
+874215,2016-04-25,Adopted
+874362,2016-04-26,"Adopted: Rules and Reference"
+874366,2016-04-26,"Adopted: Rules and Reference"
+874369,2016-04-26,"Adopted: Rules and Reference"
+874376,2016-04-26,"Adopted: Rules and Reference"
+874380,2016-04-26,"Adopted: Rules and Reference"
+874384,2016-04-26,"Adopted: Rules and Reference"
+874388,2016-04-26,"Adopted: Rules and Reference"
+874394,2016-04-26,"Adopted: Rules and Reference"
+874398,2016-04-26,"Adopted: Rules and Reference"
+874403,2016-04-26,"Adopted: Rules and Reference"
+874406,2016-04-26,"Introduced and Referred to Committee: State Government"
+874412,2016-04-26,"Adopted: Rules and Reference"
+874415,2016-04-26,Introduced
+874415,2016-05-05,"Refer to Committee: Financial Institutions, Housing, and Urban Development"
+874418,2016-04-26,"Adopted: Rules and Reference"
+874422,2016-04-26,"Introduced and Referred to Committee: State Government"
+874430,2016-04-26,Introduced
+874430,2016-05-05,"Refer to Committee: Commerce and Labor"
+874430,2016-05-25,"Reported: Commerce and Labor"
+874434,2016-04-26,"Adopted: Rules and Reference"
+874438,2016-04-26,"Adopted: Rules and Reference"
+874441,2016-04-26,"Adopted: Rules and Reference"
+874445,2016-04-26,"Adopted: Rules and Reference"
+874449,2016-04-26,Adopted
+874461,2016-04-26,Adopted
+874473,2016-04-26,Adopted
+874487,2016-04-26,Adopted
+874500,2016-04-26,Adopted
+874594,2016-04-27,Adopted
+874609,2016-04-27,Adopted
+874625,2016-04-27,Adopted
+874645,2016-04-27,Adopted
+874847,2016-04-28,Introduced
+874847,2016-05-05,"Refer to Committee: Community and Family Advancement"
+874876,2016-04-28,Introduced
+874876,2016-05-05,"Refer to Committee: Government Accountability and Oversight"
+875378,2016-05-03,"Adopted: Rules and Reference"
+875391,2016-05-02,Adopted
+875404,2016-05-02,Adopted
+875417,2016-05-02,Introduced
+875417,2016-05-04,"Refer to Committee: Civil Justice"
+875430,2016-05-02,Introduced
+875430,2016-05-04,"Refer to Committee: State and Local Government"
+875443,2016-05-25,"Concurred in House amendments"
+875443,2016-09-28,"Effective 9/28/16"
+875456,2016-05-02,Adopted
+875603,2016-04-28,Introduced
+875603,2016-05-05,"Refer to Committee: Government Accountability and Oversight"
+875653,2016-04-28,Introduced
+875653,2016-05-05,"Refer to Committee: Armed Services, Veterans Affairs, and Public Safety"
+875660,2016-05-03,Introduced
+875660,2016-05-10,"Refer to Committee: Health and Aging"
+875663,2016-05-03,"Adopted: Rules and Reference"
+875671,2016-05-03,"Adopted: Rules and Reference"
+875677,2016-05-03,"Adopted: Rules and Reference"
+875683,2016-05-03,Introduced
+875683,2016-05-05,"Refer to Committee: Finance"
+875689,2016-05-03,"Adopted: Rules and Reference"
+875700,2016-05-03,"Adopted: Rules and Reference"
+875708,2016-05-03,"Adopted: Rules and Reference"
+875712,2016-05-03,Introduced
+875721,2016-05-03,Introduced
+875730,2016-05-03,"Adopted: Rules and Reference"
+875736,2016-05-03,"Adopted: Rules and Reference"
+875742,2016-05-03,Introduced
+875751,2016-05-03,"Adopted: Rules and Reference"
+875757,2016-05-03,Introduced
+875757,2016-05-05,"Refer to Committee: Energy and Natural Resources"
+875767,2016-05-03,Introduced
+875771,2016-05-03,"Adopted: Rules and Reference"
+875778,2016-05-03,Introduced
+875788,2016-05-03,Introduced
+875788,2016-05-17,"Refer to Committee: Finance"
+875801,2016-05-03,Adopted
+875818,2016-05-03,Introduced
+875818,2016-05-04,"Refer to Committee: Energy and Natural Resources"
+875843,2016-05-03,Introduced
+875843,2016-05-04,"Refer to Committee: Health and Human Services"
+876172,2016-05-04,Introduced
+876188,2016-05-04,Introduced
+876188,2016-05-11,"Refer to Committee: Finance"
+876209,2016-05-24,Adopted
+876229,2016-05-04,Introduced
+876250,2016-05-04,Adopted
+876272,2016-05-04,Adopted
+876336,2016-05-05,Introduced
+876336,2016-05-11,"Refer to Committee: State and Local Government"
+876370,2016-05-05,Introduced
+876370,2016-05-17,"Refer to Committee: State Government"
+876393,2016-05-05,Introduced
+876627,2016-05-09,"Adopted: Rules and Reference"
+876628,2016-05-09,Introduced
+876628,2016-05-10,"Refer to Committee: Public Utilities"
+876629,2016-05-09,"Adopted: Rules and Reference"
+876631,2016-05-09,"Adopted: Rules and Reference"
+876632,2016-05-09,Introduced
+876634,2016-05-09,"Adopted: Rules and Reference"
+876637,2016-05-09,"Adopted: Rules and Reference"
+876734,2016-05-10,"Adopted: Rules and Reference"
+876758,2016-05-10,Introduced
+876758,2016-05-17,"Refer to Committee: Education"
+876783,2016-05-10,"Adopted: Rules and Reference"
+876806,2016-05-10,Introduced
+876829,2016-05-10,"Adopted: Rules and Reference"
+876854,2016-05-12,Adopted
+876934,2016-05-12,Adopted
+877021,2016-05-10,Adopted
+877024,2016-05-10,Introduced
+877024,2016-05-11,"Refer to Committee: Civil Justice"
+877031,2016-05-10,Adopted
+877037,2016-05-10,Adopted
+877045,2016-05-10,Adopted
+877052,2016-05-10,Adopted
+877058,2016-05-10,Adopted
+877066,2016-05-10,Adopted
+877072,2016-05-10,Adopted
+877081,2016-05-10,Adopted
+877086,2016-05-10,Adopted
+877094,2016-05-10,Adopted
+877099,2016-05-10,Adopted
+877107,2016-05-10,Adopted
+877115,2016-05-10,Adopted
+877121,2016-05-10,Adopted
+877128,2016-05-10,Adopted
+877310,2016-05-11,Introduced
+877367,2016-05-11,Introduced
+877367,2016-05-17,"Refer to Committee: Government Accountability and Oversight"
+877371,2016-05-11,Introduced
+877381,2016-05-11,Introduced
+877513,2016-05-12,Introduced
+877526,2016-05-12,Introduced
+877541,2016-05-12,Introduced
+877554,2016-09-28,"Passed - Amended"
+877554,2016-10-05,Introduced
+877569,2016-05-12,Introduced
+877582,2016-05-12,Introduced
+877595,2016-05-12,Introduced
+877988,2016-05-17,"Adopted: Rules and Reference"
+878063,2016-05-17,"Adopted: Rules and Reference"
+878066,2016-05-17,Introduced
+878066,2016-05-23,"Refer to Committee: Finance"
+878072,2016-05-17,"Introduced and Referred to Committee: Government Accountability and Oversight"
+878077,2016-05-17,Adopted
+878081,2016-05-25,Passed
+878081,2016-05-31,Introduced
+878088,2016-05-17,"Adopted: Rules and Reference"
+878095,2016-05-17,Introduced
+878101,2016-05-17,Introduced
+878105,2016-05-17,Adopted
+878110,2016-05-17,Introduced
+878117,2016-05-17,Adopted
+878123,2016-05-17,Introduced
+878127,2016-05-17,Adopted
+878133,2016-05-18,"Refer to Committee: Health and Human Services"
+878140,2016-05-17,Introduced
+878140,2016-05-18,"Refer to Committee: Government Oversight and Reform"
+878143,2016-05-17,Adopted
+878149,2016-05-17,Adopted
+878161,2016-05-17,Adopted
+878166,2016-05-17,"Adopted: Rules and Reference"
+878172,2016-05-17,Introduced
+878177,2016-09-28,Passed
+878177,2016-10-05,Introduced
+878183,2016-05-17,Introduced
+878229,2016-05-17,Adopted
+878410,2016-05-18,Introduced
+878410,2016-09-28,"Refer to Committee: Energy and Natural Resources"
+878432,2016-05-18,Adopted
+878463,2016-05-18,Adopted
+878713,2016-05-19,Adopted
+878735,2016-05-19,Adopted
+878760,2016-05-19,Adopted
+879144,2016-05-23,Introduced
+879156,2016-05-23,Introduced
+879213,2016-05-23,"Adopted: Rules and Reference"
+879224,2016-05-23,"Adopted: Rules and Reference"
+879235,2016-05-23,"Adopted: Rules and Reference"
+879245,2016-05-23,"Adopted: Rules and Reference"
+879361,2016-05-24,"Introduced and Referred to Committee: Health and Aging"
+879393,2016-05-24,"Adopted: Rules and Reference"
+879424,2016-05-24,"Introduced and Referred to Committee: Government Accountability and Oversight"
+879456,2016-05-24,Adopted
+879486,2016-05-24,Adopted
+879594,2016-05-24,Adopted
+879598,2016-05-24,Adopted
+879602,2016-05-24,Introduced
+879602,2016-09-28,"Refer to Committee: Transportation, Commerce and Labor"
+879606,2016-05-24,Introduced
+879606,2016-09-28,"Refer to Committee: Financial Institutions"
+879609,2016-05-24,Adopted
+879614,2016-05-24,Adopted
+879617,2016-05-24,Introduced
+879617,2016-09-28,"Refer to Committee: Government Oversight and Reform"
+879621,2016-05-24,Adopted
+879624,2016-05-24,Adopted
+879703,2016-05-25,Introduced
+879712,2016-05-25,Introduced
+879722,2016-05-25,Introduced
+879734,2016-05-25,Introduced
+879744,2016-05-25,Introduced
+880079,2016-05-26,Adopted
+880237,2016-05-31,Introduced
+880379,2016-06-01,Adopted
+880386,2016-06-01,Adopted
+880388,2016-06-01,Adopted
+880393,2016-06-01,Adopted
+880395,2016-06-01,Adopted
+880432,2016-06-01,Introduced
+880432,2016-09-28,"Refer to Committee: Transportation, Commerce and Labor"
+880798,2016-06-06,Adopted
+880802,2016-06-06,Adopted
+880808,2016-06-06,Introduced
+880813,2016-06-06,Adopted
+881309,2016-06-09,Adopted
+881312,2016-06-09,Adopted
+881317,2016-06-09,Adopted
+881323,2016-06-09,Adopted
+881333,2016-06-09,Adopted
+881342,2016-06-09,Introduced
+881625,2016-06-13,Adopted
+881630,2016-06-09,Adopted
+881631,2016-06-09,Introduced
+881631,2016-09-28,"Refer to Committee: Government Oversight and Reform"
+881633,2016-06-09,Adopted
+881635,2016-06-09,Adopted
+881637,2016-06-09,Adopted
+881639,2016-06-09,Adopted
+881641,2016-06-09,Adopted
+881975,2016-06-15,Offered
+881975,2016-09-28,"Refer to Committee: State and Local Government"
+881979,2016-06-15,Adopted
+881981,2016-06-15,Adopted
+882285,2016-06-20,Adopted
+882451,2016-06-20,Adopted
+882456,2016-06-20,Adopted
+882462,2016-06-20,Adopted
+882557,2016-06-22,Adopted
+882561,2016-06-22,Adopted
+882772,2016-06-27,Adopted
+882774,2016-06-27,Adopted
+882777,2016-06-27,Adopted
+882779,2016-06-27,Adopted
+882781,2016-06-27,Adopted
+882784,2016-06-27,Adopted
+882786,2016-06-27,Adopted
+882788,2016-06-27,Adopted
+882790,2016-06-27,Adopted
+883117,2016-06-30,Introduced
+883118,2016-06-30,Adopted
+883119,2016-06-30,Adopted
+883120,2016-06-30,Introduced
+883120,2016-09-28,"Refer to Committee: State and Local Government"
+883123,2016-06-30,Adopted
+883124,2016-06-30,Adopted
+883126,2016-06-30,Adopted
+883128,2016-06-30,Adopted
+883130,2016-06-30,Adopted
+883131,2016-06-30,Adopted
+883224,2016-07-05,Adopted
+883225,2016-07-05,Adopted
+883226,2016-07-05,Adopted
+883227,2016-07-05,Adopted
+883228,2016-07-05,Adopted
+883229,2016-07-05,Adopted
+883230,2016-07-05,Adopted
+883231,2016-07-05,Adopted
+883232,2016-07-05,Adopted
+883233,2016-07-05,Adopted
+883234,2016-07-05,Offered
+883234,2016-09-28,"Refer to Committee: Criminal Justice"
+883282,2016-07-06,Introduced
+883457,2016-07-11,Adopted
+883507,2016-07-11,Adopted
+883508,2016-07-11,Adopted
+883509,2016-07-11,Adopted
+883510,2016-07-11,Adopted
+883511,2016-07-11,Adopted
+883513,2016-07-11,Adopted
+883514,2016-07-11,Adopted
+883515,2016-07-11,Adopted
+883516,2016-07-11,Adopted
+883517,2016-07-11,Adopted
+883519,2016-07-11,Adopted
+883520,2016-07-11,Adopted
+883521,2016-07-11,Adopted
+883522,2016-07-11,Adopted
+883524,2016-07-11,Adopted
+883525,2016-07-11,Adopted
+883526,2016-07-11,Introduced
+883527,2016-07-11,Adopted
+883711,2016-07-12,Adopted
+883825,2016-07-14,Introduced
+883830,2016-07-14,Adopted
+883831,2016-07-14,Adopted
+883832,2016-07-14,Adopted
+883833,2016-07-14,Adopted
+883834,2016-07-14,Adopted
+883835,2016-07-14,Adopted
+883837,2016-07-14,Adopted
+884115,2016-07-19,Adopted
+884116,2016-07-19,Adopted
+884117,2016-07-19,Adopted
+884118,2016-07-19,Adopted
+884119,2016-07-19,Adopted
+884120,2016-07-19,Adopted
+884121,2016-07-19,Adopted
+884122,2016-07-19,Adopted
+884123,2016-07-19,Adopted
+884124,2016-07-19,Adopted
+884125,2016-07-19,Adopted
+884126,2016-07-19,Adopted
+884127,2016-07-19,Adopted
+884203,2016-07-25,Adopted
+884204,2016-07-25,Adopted
+884205,2016-07-25,Adopted
+884206,2016-07-25,Adopted
+884207,2016-07-25,Introduced
+884207,2016-09-28,"Refer to Committee: State and Local Government"
+884208,2016-07-25,Adopted
+884220,2016-07-27,Adopted
+884221,2016-07-27,Adopted
+884222,2016-07-27,Adopted
+884224,2016-07-27,Adopted
+884225,2016-07-27,Adopted
+884226,2016-07-27,Introduced
+884226,2016-09-28,"Refer to Committee: State and Local Government"
+884227,2016-07-27,Adopted
+884308,2016-08-01,Adopted
+884310,2016-08-01,Adopted
+884311,2016-08-01,Adopted
+884313,2016-08-01,Introduced
+884314,2016-08-01,Adopted
+884316,2016-08-01,Adopted
+884318,2016-08-01,Introduced
+884318,2016-09-28,"Refer to Committee: State and Local Government"
+884320,2016-08-01,Adopted
+884329,2016-08-02,Adopted
+884332,2016-08-02,Adopted
+884332,2016-08-02,Adopted
+884335,2016-08-02,Adopted
+884340,2016-08-02,"Adopted: Rules and Reference"
+884341,2016-08-02,"Adopted: Rules and Reference"
+884342,2016-08-02,"Adopted: Rules and Reference"
+884343,2016-08-02,"Adopted: Rules and Reference"
+884344,2016-08-02,"Adopted: Rules and Reference"
+884345,2016-08-02,"Adopted: Rules and Reference"
+884346,2016-08-02,"Adopted: Rules and Reference"
+884348,2016-08-02,Adopted
+884349,2016-08-02,"Adopted: Rules and Reference"
+884350,2016-08-02,"Adopted: Rules and Reference"
+884351,2016-08-02,"Adopted: Rules and Reference"
+884353,2016-08-02,"Adopted: Rules and Reference"
+884354,2016-08-02,"Adopted: Rules and Reference"
+884355,2016-08-02,"Adopted: Rules and Reference"
+884356,2016-08-02,"Adopted: Rules and Reference"
+884361,2016-08-03,Introduced
+884361,2016-09-28,"Refer to Committee: State and Local Government"
+884369,2016-08-03,Introduced
+884369,2016-09-28,"Refer to Committee: Transportation, Commerce and Labor"
+884377,2016-08-03,Adopted
+884417,2016-08-08,Introduced
+884417,2016-09-28,"Refer to Committee: Transportation, Commerce and Labor"
+884418,2016-08-08,Adopted
+884563,2016-08-16,Offered
+884563,2016-09-28,"Refer to Committee: Energy and Natural Resources"
+884565,2016-08-16,Introduced
+884567,2016-08-16,Introduced
+884568,2016-08-16,Introduced
+884568,2016-09-28,"Refer to Committee: Education"
+884570,2016-08-16,Adopted
+884571,2016-08-16,Introduced
+884572,2016-08-16,Adopted
+884605,2016-08-18,Adopted
+884612,2016-08-18,Adopted
+884629,2016-08-18,Introduced
+884629,2016-09-28,"Refer to Committee: State and Local Government"
+884712,2016-08-25,Adopted
+884715,2016-08-25,Introduced
+884715,2016-09-28,"Refer to Committee: Public Utilities"
+884722,2016-08-25,Introduced
+884723,2016-08-25,Introduced
+884757,2016-08-30,Adopted
+884759,2016-08-30,Introduced
+884759,2016-09-28,"Refer to Committee: Civil Justice"
+884761,2016-08-30,Adopted
+884763,2016-08-30,Introduced
+884763,2016-09-28,"Refer to Committee: Transportation, Commerce and Labor"
+884765,2016-08-30,Adopted
+884767,2016-08-31,Introduced
+884785,2016-09-01,Introduced
+884785,2016-09-28,"Refer to Committee: Insurance"
+884786,2016-09-01,Adopted
+885057,2016-09-06,Introduced
+885146,2016-09-07,Adopted
+885148,2016-09-07,Adopted
+885151,2016-09-07,Adopted
+885153,2016-09-07,Introduced
+885153,2016-09-28,"Refer to Committee: Transportation, Commerce and Labor"
+885154,2016-09-07,Adopted
+885254,2016-09-08,Introduced
+885254,2016-09-28,"Refer to Committee: Criminal Justice"
+885414,2016-09-12,Adopted
+885417,2016-09-12,Introduced
+885419,2016-09-12,Introduced
+885422,2016-09-12,Adopted
+885651,2016-09-15,Adopted
+885655,2016-09-15,Adopted
+885659,2016-09-15,Introduced
+885659,2016-09-28,"Refer to Committee: Finance"
+885663,2016-09-15,Offered
+885663,2016-09-28,"Refer to Committee: State and Local Government"
+885668,2016-09-15,Adopted
+885672,2016-09-15,Adopted
+885903,2016-09-20,Adopted
+885904,2016-09-20,Adopted
+885942,2016-09-20,Adopted
+885967,2016-09-20,Introduced
+885991,2016-09-20,Adopted
+886015,2016-09-20,Introduced
+886061,2016-09-26,Adopted
+886114,2016-09-20,Introduced
+886114,2016-09-28,"Refer to Committee: Financial Institutions"
+886449,2016-09-22,Offered
+886449,2016-09-28,"Refer to Committee: Government Oversight and Reform"
+886466,2016-09-26,Introduced
+886469,2016-09-26,Introduced
+886471,2016-09-26,Introduced
+886471,2016-09-28,"Refer to Committee: State and Local Government"
+886475,2016-09-26,Adopted
+886593,2016-09-27,Adopted
+886596,2016-09-27,Introduced
+886596,2016-09-28,"Refer to Committee: Medicaid"
+886598,2016-09-27,Introduced
+886598,2016-09-28,"Refer to Committee: Civil Justice"
+886602,2016-09-27,Adopted
+886652,2016-09-28,Introduced
+886670,2016-09-28,Adopted
+886671,2016-09-28,Offered
+886671,2016-09-28,Adopted
+886672,2016-09-28,Adopted
+886674,2016-09-28,Offered
+886760,2016-09-29,Adopted
+886787,2016-09-29,Adopted
+886815,2016-09-29,Adopted
+886843,2016-09-29,Adopted
+886871,2016-09-29,Adopted
+887050,2016-10-04,Adopted
+887054,2016-10-04,Adopted
+887060,2016-10-05,Adopted
+887061,2016-10-05,Adopted
+887063,2016-10-05,Adopted
+887064,2016-10-05,Introduced
+887065,2016-10-05,Adopted
+887066,2016-10-05,Adopted
+887067,2016-10-05,Adopted
+887074,2016-10-05,Introduced
+887109,2016-10-06,Adopted
+887222,2016-10-11,Adopted
+887228,2016-10-11,Introduced
+887234,2016-10-11,Introduced
+887238,2016-10-11,Adopted
+887243,2016-05-03,"Adopted: Rules and Reference"
+887243,2016-10-11,Adopted
+887252,2016-10-11,Adopted
+887258,2016-10-11,Introduced
+887262,2016-10-11,Adopted
+887267,2016-10-11,Introduced
+887434,2016-10-17,Adopted
+887435,2016-10-17,Adopted
+887437,2016-10-17,Adopted
+887439,2016-10-17,Adopted
+887441,2016-10-17,Adopted
+887443,2016-10-17,Adopted
+887445,2016-10-17,Adopted
+887447,2016-10-17,Adopted
+887449,2016-10-17,Adopted
+887451,2016-10-17,Adopted
+887526,2016-10-19,Adopted
+887537,2016-10-19,Adopted
+887550,2016-10-19,Adopted
+887562,2016-10-19,Adopted
+887575,2016-10-19,Adopted
+887587,2016-10-19,Adopted
+887732,2016-10-25,Adopted
+887734,2016-10-25,Adopted
+887736,2016-10-25,Introduced
+887738,2016-10-25,Adopted
+887740,2016-10-25,Adopted
+887742,2016-10-25,Introduced
+887744,2016-10-25,Adopted
+887746,2016-10-25,Introduced
+887748,2016-10-25,Adopted
+887755,2016-10-25,Adopted
+887756,2016-10-25,Adopted
+887759,2016-10-25,Adopted
+887793,2016-10-27,Adopted
+887794,2016-10-27,Offered
+887795,2016-10-27,Adopted
+887796,2016-10-27,Adopted

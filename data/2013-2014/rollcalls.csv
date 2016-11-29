@@ -1,0 +1,1119 @@
+bill_id,roll_call_id,date,description,yea,nay,nv
+445606,218171,2013-01-07,"Senate - Resolution Adoption",32,0,0
+445629,218178,2013-01-07,"Senate - Resolution Adoption",32,0,0
+445655,218180,2013-01-07,"House - Resolution was adopted (Vote)",97,0,0
+445683,218187,2013-01-07,"House - Resolution was adopted (Vote)",97,0,0
+445709,219766,2013-01-07,"House - Resolution was adopted (Vote)",97,0,0
+445739,217186,2013-01-07,"House - Resolution was adopted (Vote)",97,0,0
+445764,217187,2013-01-07,"House - Resolution was adopted (Vote)",97,0,0
+445795,217188,2013-01-07,"House - Resolution was adopted (Vote)",97,0,0
+445820,217190,2013-01-07,"House - Resolution was adopted (Vote)",97,0,0
+445850,217191,2013-01-07,"House - Resolution was adopted (Vote)",97,0,0
+445876,217192,2013-01-07,"House - Resolution was adopted (Vote)",97,0,0
+445903,217193,2013-01-07,"House - Resolution was adopted (Vote)",97,0,0
+445928,217195,2013-01-07,"House - Resolution was adopted (Vote)",97,0,0
+467678,222052,2013-01-23,"House - Resolution was adopted (Vote)",79,15,0
+480504,225021,2013-01-30,"House - Resolution was adopted (Vote)",80,16,0
+480504,225022,2013-01-30,"Senate - Resolution Adoption",24,9,0
+481206,244299,2013-03-06,"House - Resolution was adopted (Vote)",95,0,0
+482249,310603,2014-01-22,"House - Motion agreed to and so amended (Vote)",88,1,0
+482249,310604,2014-01-22,"House - Motion laid on table (Vote)",57,35,0
+482249,310605,2014-01-22,"House - Bill Passed (Vote)",63,29,0
+482249,383857,2014-01-22,"House - Motion agreed to and so amended (Vote)",88,1,0
+482249,383858,2014-01-22,"House - Motion laid on table (Vote)",57,35,0
+482249,383859,2014-01-22,"House - Bill Passed (Vote)",63,29,0
+482289,262425,2013-04-10,"House - Bill Passed (Vote)",98,0,0
+482289,304912,2013-12-04,"Senate - Third Consideration",21,12,0
+482289,305193,2013-12-11,"House - SA Concurred in",0,94,0
+482289,382524,2014-12-09,"House - Conference report agree to",92,0,0
+482289,382545,2014-12-10,"Senate - Conference Committee Report",32,0,0
+482326,370036,2014-06-04,"House - Bill Passed (Vote)",87,8,0
+482326,382334,2014-12-04,"Senate - Third Consideration",32,0,0
+482326,382525,2014-12-09,"House - SA Concurred in",54,38,0
+482406,251615,2013-03-20,"House - Motion agreed to and so amended (Vote)",88,5,0
+482406,251616,2013-03-20,"House - Bill Passed (Vote)",84,9,0
+482406,303093,2013-10-02,"Senate - Third Consideration",30,1,0
+482482,277274,2013-05-08,"House - Bill Passed (Vote)",94,0,0
+482482,292055,2013-06-27,"Senate - Third Consideration",32,0,0
+482563,247330,2013-03-13,"House - Emergency clause stood",95,0,0
+482563,247331,2013-03-13,"House - Passed as emergency measure",95,0,0
+482681,290125,2013-06-18,"House - Motion agreed to and so amended (Vote)",93,0,0
+482681,290126,2013-06-18,"House - Bill Passed (Vote)",93,0,0
+482681,319907,2014-02-12,"Senate - Third Consideration",32,0,0
+482681,324591,2014-02-19,"House - SA Concurred in",98,0,0
+483405,250884,2013-03-19,"House - Bill Passed (Vote)",81,11,0
+483405,288304,2013-06-12,"Senate - Third Consideration",32,1,0
+483405,289269,2013-06-18,"House - SA Concurred in",80,13,0
+483413,250749,2013-03-19,"House - Motion laid on table (Vote)",57,35,0
+483413,250750,2013-03-19,"House - Bill Passed (Vote)",80,12,0
+483413,290558,2013-06-20,"Senate - Third Consideration",31,1,0
+483413,291508,2013-06-25,"House - SA Concurred in",91,6,0
+483421,247327,2013-03-13,"House - Bill Passed (Vote)",90,5,0
+483421,270347,2013-04-23,"Senate - Motion to Table Amendment",22,10,0
+483421,270348,2013-04-23,"Senate - Motion to Table Amendment",22,10,0
+483421,270349,2013-04-23,"Senate - Third Consideration",23,9,0
+483421,271131,2013-04-24,"House - SA Concurred in",88,7,0
+483437,304356,2013-11-13,"House - Motion agreed to and so amended (Vote)",67,30,0
+483437,304357,2013-11-13,"House - Motion laid on table (Vote)",56,41,0
+483437,304358,2013-11-13,"House - Motion laid on table (Vote)",58,39,0
+483437,304359,2013-11-13,"House - Motion laid on table (Vote)",57,40,0
+483437,304360,2013-11-13,"House - Bill Passed (Vote)",56,41,0
+483437,382130,2014-12-03,"Senate - Motion to Table Amendment",21,10,0
+483437,382131,2014-12-03,"Senate - Motion to Table Amendment",20,11,0
+483437,382132,2014-12-03,"Senate - Motion to Table Amendment",22,9,0
+483437,382133,2014-12-03,"Senate - Motion to Table Amendment",22,9,0
+483437,382134,2014-12-03,"Senate - Third Consideration",23,8,0
+483437,382523,2014-12-09,"House - SA Concurred in",60,32,0
+483446,279907,2013-05-15,"House - Bill Passed (Vote)",98,0,0
+483453,247801,2013-03-13,"House - Bill Passed (Vote)",66,29,0
+483453,282010,2013-05-22,"Senate - Third Consideration",27,6,0
+483453,383866,2013-05-22,"Senate - Third Consideration",27,6,0
+483453,383867,2013-03-13,"House - Bill Passed (Vote)",66,29,0
+488053,234780,2013-02-20,"House - Resolution was adopted (Vote)",95,0,0
+488053,252940,2013-03-19,"Senate - Resolution Adoption",33,0,0
+488402,277161,2013-05-08,"House - Bill Passed (Vote)",94,0,0
+488402,382059,2014-12-02,"Senate - Third Consideration",32,0,0
+488402,382357,2014-12-04,"House - SA Concurred in",82,0,0
+488443,239177,2013-02-28,"House - Motion laid on table (Vote)",57,36,0
+488443,239178,2013-02-28,"House - Motion laid on table (Vote)",58,35,0
+488443,239179,2013-02-28,"House - Motion laid on table (Vote)",58,35,0
+488443,239180,2013-02-28,"House - Motion laid on table (Vote)",59,36,0
+488443,239181,2013-02-28,"House - Motion laid on table (Vote)",57,38,0
+488443,239182,2013-02-28,"House - Motion laid on table (Vote)",56,39,0
+488443,239183,2013-02-28,"House - Motion laid on table (Vote)",59,35,0
+488443,239184,2013-02-28,"House - Bill Passed (Vote)",62,32,0
+488480,239388,2013-02-28,"House - Bill Passed (Vote)",97,0,0
+488480,245691,2013-03-13,"Senate - Third Consideration",33,0,0
+488521,239401,2013-02-28,"House - Bill Passed (Vote)",97,0,0
+488521,248192,2013-03-13,"Senate - Third Consideration",33,0,0
+488675,286753,2013-06-04,"House - Bill Passed (Vote)",94,0,0
+488675,291760,2013-06-26,"Senate - Third Consideration - Emergency Clause",31,1,0
+488675,291761,2013-06-26,"Senate - Third Consideration",32,0,0
+488675,292112,2013-06-27,"House - Emergency clause stood",95,3,0
+488675,292113,2013-06-27,"House - SA Concurred in",98,0,0
+488757,239483,2013-02-27,"House - Bill Passed (Vote)",96,0,0
+488757,381585,2014-11-12,"Senate - Third Consideration",32,0,0
+488913,290128,2013-06-19,"House - Bill Passed (Vote)",94,0,0
+488913,304677,2013-11-19,"Senate - Third Consideration",33,0,0
+488913,305233,2013-12-11,"House - SA Concurred in",94,0,0
+489215,262367,2013-04-10,"House - Emergency clause stood",96,1,0
+489215,262368,2013-04-10,"House - Passed as emergency measure",97,0,0
+489215,291958,2013-06-26,"Senate - Third Consideration - Emergency Clause",29,3,0
+489215,291959,2013-06-26,"Senate - Third Consideration",31,1,0
+489215,292103,2013-06-27,"House - SA Concurred in",98,0,0
+489215,383892,2013-06-27,"House - Emergency clause stood",98,0,0
+489215,383893,2013-06-27,"House - SA Concurred in",98,0,0
+489215,383894,2013-06-26,"Senate - Third Consideration - Emergency Clause",29,3,0
+489215,383895,2013-06-26,"Senate - Third Consideration",31,1,0
+489215,383896,2013-04-10,"House - Emergency clause stood",96,1,0
+489215,383897,2013-04-10,"House - Passed as emergency measure",97,0,0
+490200,227173,2013-01-30,"Senate - Resolution Adoption",33,0,0
+490236,227174,2013-01-30,"Senate - Resolution Adoption",33,0,0
+490276,227175,2013-01-30,"Senate - Resolution Adoption",28,5,0
+495045,238265,2013-02-27,"Senate - Resolution Adoption",32,0,0
+495045,252995,2013-03-20,"House - Resolution was adopted (Vote)",92,0,0
+495790,289804,2013-06-19,"House - Bill Passed (Vote)",93,1,0
+495790,329538,2014-02-26,"Senate - Third Consideration",32,0,0
+495790,329539,2014-02-26,"House - SA Concurred in",96,0,0
+495815,348241,2014-03-26,"House - Bill Passed (Vote)",91,0,0
+495815,382185,2014-12-03,"Senate - Third Consideration",32,0,0
+495910,319553,2014-02-12,"House - Motion agreed to and so amended (Vote)",94,0,0
+495910,319554,2014-02-12,"House - Bill Passed (Vote)",88,6,0
+495910,383873,2014-02-12,"House - Motion agreed to and so amended (Vote)",94,0,0
+495910,383874,2014-02-12,"House - Bill Passed (Vote)",88,6,0
+495959,239292,2013-02-28,"House - Motion agreed to and so amended (Vote)",61,33,0
+495959,239293,2013-02-28,"House - Motion laid on table (Vote)",60,35,0
+495959,239294,2013-02-28,"House - Motion laid on table (Vote)",59,35,0
+495959,239295,2013-02-28,"House - Motion laid on table (Vote)",59,34,0
+495959,239296,2013-02-28,"House - Motion laid on table (Vote)",60,34,0
+495959,239297,2013-02-28,"House - Motion laid on table (Vote)",60,34,0
+495959,239298,2013-02-28,"House - Bill Passed (Vote)",58,36,0
+495959,247522,2013-03-13,"Senate - Motion to Table Amendment",23,10,0
+495959,247523,2013-03-13,"Senate - Motion to Table Amendment",23,10,0
+495959,247524,2013-03-13,"Senate - Motion to Table Amendment",23,10,0
+495959,247525,2013-03-13,"Senate - Motion to Table Amendment",23,10,0
+495959,247526,2013-03-13,"Senate - Motion to Table Amendment",23,10,0
+495959,247527,2013-03-13,"Senate - Motion to Table Amendment",23,10,0
+495959,247528,2013-03-13,"Senate - Motion to Table Amendment",23,10,0
+495959,247529,2013-03-13,"Senate - Motion to Table Amendment",23,10,0
+495959,247530,2013-03-13,"Senate - Third Consideration",27,6,0
+495959,247531,2013-03-13,"House - SA Concurred in",1,88,0
+495959,251446,2013-03-20,"Senate - Conference Committee Report",27,6,0
+495959,252165,2013-03-21,"House - Conference report agree to",63,28,0
+496026,243200,2013-03-06,"House - Emergency clause stood",94,1,0
+496026,243201,2013-03-06,"House - Passed as emergency measure",95,0,0
+496101,292376,2013-06-26,"House - Bill Passed (Vote)",98,0,0
+496148,268201,2013-04-18,"House - Motion laid on table (Vote)",58,39,0
+496148,268202,2013-04-18,"House - Motion agreed to and so amended (Vote)",76,19,0
+496148,268203,2013-04-18,"House - Motion agreed to and so amended (Vote)",97,0,0
+496148,268204,2013-04-18,"House - Motion laid on table (Vote)",59,37,0
+496148,268205,2013-04-18,"House - Motion laid on table (Vote)",56,40,0
+496148,268206,2013-04-18,"House - Motion laid on table (Vote)",56,40,0
+496148,268207,2013-04-18,"House - Motion laid on table (Vote)",57,39,0
+496148,268208,2013-04-18,"House - Motion laid on table (Vote)",59,37,0
+496148,268209,2013-04-18,"House - Motion laid on table (Vote)",58,39,0
+496148,268210,2013-04-18,"House - Motion laid on table (Vote)",57,40,0
+496148,268211,2013-04-18,"House - Motion laid on table (Vote)",58,39,0
+496148,268212,2013-04-18,"House - Motion laid on table (Vote)",58,38,0
+496148,268213,2013-04-18,"House - Motion laid on table (Vote)",59,37,0
+496148,268214,2013-04-18,"House - Motion laid on table (Vote)",59,38,0
+496148,268215,2013-04-18,"House - Bill Passed (Vote)",61,35,0
+496148,287434,2013-06-06,"Senate - Motion to Table Amendment",23,10,0
+496148,287435,2013-06-06,"Senate - Motion to Table Amendment",23,10,0
+496148,287436,2013-06-06,"Senate - Motion to Table Amendment",23,10,0
+496148,287437,2013-06-06,"Senate - Motion to Table Amendment",23,10,0
+496148,287438,2013-06-06,"Senate - Motion to Table Amendment",23,10,0
+496148,287439,2013-06-06,"Senate - Motion to Table Amendment",23,10,0
+496148,287440,2013-06-06,"Senate - Motion to Table Amendment",23,10,0
+496148,287441,2013-06-06,"Senate - Motion to Table Amendment",23,10,0
+496148,287442,2013-06-06,"Senate - Motion to Table Amendment",23,10,0
+496148,287443,2013-06-06,"Senate - Motion to Table Amendment",23,10,0
+496148,287444,2013-06-06,"Senate - Motion to Table Amendment",23,10,0
+496148,287445,2013-06-06,"Senate - Third Consideration",23,10,0
+496148,288194,2013-06-12,"House - SA Concurred in",0,95,0
+496148,292041,2013-06-27,"House - Conference report agree to",53,44,0
+496148,292042,2013-06-27,"Senate - Conference Committee Report",21,11,0
+496192,261915,2013-04-10,"House - Bill Passed (Vote)",96,1,0
+496240,244007,2013-03-06,"House - Resolution was adopted (Vote)",95,0,0
+496266,266941,2013-04-17,"Senate - Third Consideration",33,0,0
+496266,292100,2013-06-27,"Senate - Senate concurred in House amendments (Vote)",32,0,0
+496266,292101,2013-06-26,"House - Bill Passed (Vote)",96,0,0
+496285,251363,2013-03-20,"Senate - Third Consideration",32,1,0
+496334,250403,2013-03-19,"Senate - Third Consideration",33,0,0
+496334,289707,2013-06-18,"House - Bill Passed (Vote)",93,0,0
+496334,290063,2013-06-20,"Senate - Senate concurred in House amendments (Vote)",32,0,0
+496356,267235,2013-04-17,"Senate - Third Consideration",32,1,0
+496381,350527,2014-04-02,"Senate - Third Consideration",32,0,0
+496404,251677,2013-03-20,"Senate - Third Consideration",32,1,0
+496404,284742,2013-05-29,"House - Bill Passed (Vote)",96,0,0
+496404,383886,2013-05-29,"House - Bill Passed (Vote)",96,0,0
+496404,383887,2013-03-20,"Senate - Third Consideration",32,1,0
+496428,292058,2013-06-26,"Senate - Motion to Table Amendment",22,10,0
+496428,292059,2013-06-26,"Senate - Third Consideration - Emergency Clause",32,0,0
+496428,292060,2013-06-26,"Senate - Third Consideration",32,0,0
+496450,250359,2013-03-19,"Senate - Motion to Table Amendment",23,10,0
+496450,250360,2013-03-19,"Senate - Third Consideration",33,0,0
+496450,279403,2013-05-15,"House - Bill Passed (Vote)",95,3,0
+496450,281989,2013-05-22,"Senate - Senate concurred in House amendments (Vote)",22,11,0
+496474,239377,2013-02-27,"Senate - Third Consideration",32,0,0
+496474,251269,2013-03-20,"House - Motion laid on table (Vote)",57,37,0
+496474,251270,2013-03-20,"House - Motion laid on table (Vote)",57,36,0
+496474,251271,2013-03-20,"House - Bill Passed (Vote)",92,2,0
+496474,383862,2013-03-20,"House - Motion laid on table (Vote)",57,37,0
+496474,383863,2013-03-20,"House - Motion laid on table (Vote)",57,36,0
+496474,383864,2013-03-20,"House - Bill Passed (Vote)",92,2,0
+496474,383865,2013-02-27,"Senate - Third Consideration",32,0,0
+496611,304708,2013-11-20,"Senate - Third Consideration",33,0,0
+496679,274339,2013-04-30,"Senate - Third Consideration",32,1,0
+496724,238364,2013-02-27,"Senate - Third Consideration - Emergency Clause",32,0,0
+496724,238365,2013-02-27,"Senate - Third Consideration",30,1,0
+496724,279464,2013-05-15,"House - Emergency clause stood",95,2,0
+496724,279465,2013-05-15,"House - Motion laid on table (Vote)",59,39,0
+496724,279466,2013-05-15,"House - Passed as emergency measure",98,0,0
+496724,282077,2013-05-22,"Senate - Senate concurred in House amendments (Vote)",33,0,0
+496724,383850,2013-05-22,"Senate - Third Consideration - Emergency Clause",31,2,0
+496724,383851,2013-05-22,"Senate - Senate concurred in House amendments (Vote)",33,0,0
+496724,383852,2013-05-15,"House - Emergency clause stood",95,2,0
+496724,383853,2013-05-15,"House - Motion laid on table (Vote)",59,39,0
+496724,383854,2013-05-15,"House - Passed as emergency measure",98,0,0
+496724,383855,2013-02-27,"Senate - Third Consideration - Emergency Clause",32,0,0
+496724,383856,2013-02-27,"Senate - Third Consideration",30,1,0
+496773,304907,2013-12-04,"Senate - Third Consideration",33,0,0
+496773,305191,2013-12-11,"House - Bill Passed (Vote)",91,2,0
+496795,250870,2013-03-19,"Senate - Third Consideration",33,0,0
+496795,274170,2013-04-30,"House - Bill Passed (Vote)",93,1,0
+496815,251420,2013-03-20,"Senate - Third Consideration - Emergency Clause",33,0,0
+496815,251421,2013-03-20,"Senate - Third Consideration",32,1,0
+496815,383860,2013-03-20,"Senate - Third Consideration - Emergency Clause",33,0,0
+496815,383861,2013-03-20,"Senate - Third Consideration",32,1,0
+496839,247725,2013-03-13,"Senate - Third Consideration - Emergency Clause",33,0,0
+496839,247726,2013-03-13,"Senate - Third Consideration",33,0,0
+496839,279576,2013-05-15,"House - Emergency clause stood",94,3,0
+496839,279577,2013-05-15,"House - Passed as emergency measure",98,0,0
+496839,282487,2013-05-22,"Senate - Senate concurred in House amendments (Vote)",33,0,0
+496885,241587,2013-03-05,"Senate - Third Consideration - Emergency Clause",33,0,0
+496885,241588,2013-03-05,"Senate - Third Consideration",33,0,0
+496885,251424,2013-03-20,"Senate - Senate concurred in House amendments (Vote)",33,0,0
+496885,251425,2013-03-20,"House - Emergency clause stood",95,0,0
+496885,251426,2013-03-20,"House - Passed as emergency measure",94,1,0
+496998,262137,2013-04-10,"Senate - Third Consideration",33,0,0
+496998,274234,2013-04-30,"House - Bill Passed (Vote)",96,0,0
+497112,270535,2013-04-23,"Senate - Third Consideration",32,0,0
+497112,292064,2013-06-26,"House - Bill Passed (Vote)",93,3,0
+497284,230307,2013-02-13,"House - Resolution was adopted (Vote)",98,0,0
+500444,242677,2013-03-05,"Senate - Resolution Adoption",33,0,0
+500459,242684,2013-03-05,"Senate - Resolution Adoption",33,0,0
+500459,278368,2013-05-08,"House - Resolution was adopted (Vote)",93,0,0
+500459,280027,2013-05-15,"Senate - Senate concurred in House amendments (Vote)",33,0,0
+501171,291979,2013-06-26,"Senate - Third Consideration",32,0,0
+501171,369575,2014-06-03,"House - Motion agreed to and so amended (Vote)",95,0,0
+501171,369576,2014-06-03,"House - Bill Passed (Vote)",95,0,0
+501171,369783,2014-06-04,"Senate - Senate concurred in House amendments (Vote)",32,0,0
+501445,262045,2013-04-10,"Senate - Third Consideration",31,2,0
+501445,382596,2014-12-10,"House - Motion agreed to and so amended (Vote)",89,4,0
+501445,382597,2014-12-10,"House - Bill Passed (Vote)",92,1,0
+501445,382766,2014-12-11,"Senate - Senate concurred in House amendments (Vote)",30,0,0
+501577,325181,2014-02-19,"Senate - Third Consideration",32,0,0
+501577,369600,2014-06-03,"House - Bill Passed (Vote)",95,0,0
+501577,369748,2014-06-04,"Senate - Senate concurred in House amendments (Vote)",32,0,0
+501577,383889,2014-06-04,"Senate - Senate concurred in House amendments (Vote)",32,0,0
+501577,383890,2014-06-03,"House - Bill Passed (Vote)",95,0,0
+501577,383891,2014-02-19,"Senate - Third Consideration",32,0,0
+509260,242027,2013-03-06,"Senate - Third Consideration",23,10,0
+509260,251260,2013-03-20,"House - Motion laid on table (Vote)",58,36,0
+509260,251261,2013-03-20,"House - Motion laid on table (Vote)",58,37,0
+509260,251262,2013-03-20,"House - Motion laid on table (Vote)",58,37,0
+509260,251263,2013-03-20,"House - Motion laid on table (Vote)",58,37,0
+509260,251264,2013-03-20,"House - Bill Passed (Vote)",57,38,0
+509260,251265,2013-03-20,"Senate - Senate concurred in House amendments (Vote)",23,10,0
+511205,251693,2013-03-20,"Senate - Third Consideration",33,0,0
+511205,267374,2013-04-17,"House - Bill Passed (Vote)",97,0,0
+511205,267375,2013-04-17,"Senate - Senate concurred in House amendments (Vote)",32,0,0
+511262,274349,2013-04-30,"House - Bill Passed (Vote)",94,2,0
+511262,288621,2013-06-12,"Senate - Third Consideration",33,0,0
+511444,305004,2013-12-04,"House - Bill Passed (Vote)",90,3,0
+511562,287166,2013-06-05,"House - Bill Passed (Vote)",95,0,0
+511562,303424,2013-10-16,"Senate - Motion to Table Amendment",20,8,0
+511562,303425,2013-10-16,"Senate - Motion to Table Amendment",20,8,0
+511562,303426,2013-10-16,"Senate - Third Consideration - Emergency Clause",20,8,0
+511562,303427,2013-10-16,"Senate - Third Consideration",27,1,0
+511562,303849,2013-10-30,"House - SA Concurred in",97,0,0
+511746,291990,2013-06-26,"House - Bill Passed (Vote)",64,32,0
+511746,383872,2013-06-26,"House - Bill Passed (Vote)",64,32,0
+511867,238283,2013-02-27,"House - Emergency clause stood",96,0,0
+511867,238284,2013-02-27,"House - Passed as emergency measure",96,0,0
+511867,241983,2013-03-06,"Senate - Third Consideration - Emergency Clause",33,0,0
+511867,241984,2013-03-06,"Senate - Third Consideration",33,0,0
+516028,368005,2014-05-28,"Senate - Third Consideration",32,0,0
+516217,273205,2013-04-24,"House - Resolution was adopted (Vote)",76,19,0
+518137,240508,2013-02-27,"Senate - Resolution Adoption",31,0,0
+518264,345348,2014-03-19,"House - Bill Passed (Vote)",97,0,0
+518264,367919,2014-05-28,"Senate - Third Consideration",31,0,0
+518264,369619,2014-06-03,"House - SA Concurred in",95,0,0
+518349,267410,2013-04-17,"House - Bill Passed (Vote)",96,1,0
+518349,304935,2013-12-04,"Senate - Third Consideration",33,0,0
+518349,305011,2013-12-04,"House - SA Concurred in",90,0,0
+520161,279441,2013-05-15,"Senate - Third Consideration",33,0,0
+520161,291966,2013-06-26,"House - Bill Passed (Vote)",95,0,0
+520161,292110,2013-06-27,"Senate - Senate concurred in House amendments (Vote)",32,0,0
+521670,279513,2013-05-15,"House - Bill Passed (Vote)",98,0,0
+523852,251203,2013-03-20,"House - Resolution was adopted (Vote)",86,7,0
+523941,262114,2013-04-10,"Senate - Resolution Adoption",28,5,0
+523941,266833,2013-04-17,"House - Resolution was adopted (Vote)",90,7,0
+523953,264775,2013-04-10,"Senate - Resolution Adoption",33,0,0
+523953,305021,2013-12-04,"House - Resolution was adopted (Vote)",92,1,0
+523971,304554,2013-11-13,"Senate - Resolution Adoption",32,0,0
+525016,303098,2013-10-02,"House - Bill Passed (Vote)",72,23,0
+526821,271422,2013-04-24,"House - Bill Passed (Vote)",95,0,0
+526821,319368,2014-02-12,"Senate - Third Consideration",32,0,0
+526821,324605,2014-02-19,"House - SA Concurred in",98,0,0
+528002,288357,2013-06-12,"House - Bill Passed (Vote)",92,2,0
+528002,303444,2013-10-16,"Senate - Third Consideration",29,0,0
+528127,282690,2013-05-22,"House - Emergency clause stood",92,1,0
+528127,282691,2013-05-22,"House - Motion laid on table (Vote)",60,33,0
+528127,282692,2013-05-22,"House - Passed as emergency measure",93,0,0
+528127,304050,2013-11-06,"Senate - Third Consideration - Emergency Clause",30,3,0
+528127,304051,2013-11-06,"Senate - Third Consideration",33,0,0
+528127,304052,2013-11-06,"House - SA Concurred in",97,0,0
+528249,285349,2013-05-30,"Senate - Third Consideration",30,2,0
+528249,291627,2013-06-25,"House - Emergency clause stood",97,0,0
+528249,291628,2013-06-25,"House - Passed as emergency measure",97,0,0
+528249,292174,2013-06-27,"Senate - Third Consideration - Emergency Clause",27,5,0
+528249,292175,2013-06-27,"Senate - Senate concurred in House amendments (Vote)",27,5,0
+531393,285960,2013-05-29,"House - Resolution was adopted (Vote)",91,0,0
+531393,332154,2014-02-26,"Senate - Resolution Adoption",32,0,0
+531393,343633,2014-03-12,"House - SA Concurred in",96,0,0
+532577,295381,2013-06-26,"House - Resolution was adopted (Vote)",98,0,0
+532603,251833,2013-03-20,"Senate - Third Consideration",33,0,0
+532603,290729,2013-06-19,"House - Bill Passed (Vote)",94,0,0
+532603,291987,2013-06-26,"Senate - Senate concurred in House amendments (Vote)",32,0,0
+532623,282501,2013-05-22,"Senate - Third Consideration",33,0,0
+532623,284751,2013-05-29,"House - Motion laid on table (Vote)",59,37,0
+532623,284752,2013-05-29,"House - Bill Passed (Vote)",62,35,0
+532623,285244,2013-05-30,"Senate - Senate concurred in House amendments (Vote)",22,10,0
+532644,290127,2013-06-20,"Senate - Third Consideration",31,0,0
+532644,304947,2013-12-04,"House - Motion agreed to and so amended (Vote)",75,18,0
+532644,304948,2013-12-04,"House - Emergency clause stood",74,19,0
+532644,304949,2013-12-04,"House - Passed as emergency measure",74,19,0
+532644,304950,2013-12-04,"Senate - Third Consideration - Emergency Clause",22,10,0
+532644,304951,2013-12-04,"Senate - Senate concurred in House amendments (Vote)",22,10,0
+532670,304354,2013-11-13,"Senate - Third Consideration",32,0,0
+532670,381588,2014-11-12,"House - Bill Passed (Vote)",89,0,0
+533258,247312,2013-03-13,"Senate - Resolution Adoption",33,0,0
+534620,350454,2014-04-02,"Senate - Third Consideration",32,0,0
+534620,369896,2014-06-04,"House - Bill Passed (Vote)",96,0,0
+534677,303902,2013-10-30,"Senate - Third Consideration",30,0,0
+534677,345797,2014-03-19,"House - Bill Passed (Vote)",95,0,0
+534677,347691,2014-03-25,"Senate - Senate concurred in House amendments (Vote)",30,0,0
+534701,369810,2014-06-04,"Senate - Third Consideration",31,0,0
+534701,382530,2014-12-09,"House - Motion agreed to and so amended (Vote)",91,1,0
+534701,382531,2014-12-09,"House - Bill Passed (Vote)",91,1,0
+534701,382566,2014-12-10,"Senate - Senate concurred in House amendments (Vote)",32,0,0
+536207,304936,2013-12-04,"Senate - Resolution Adoption",33,0,0
+536207,314359,2014-01-29,"House - Resolution was adopted (Vote)",91,0,0
+536763,305192,2013-12-11,"House - Bill Passed (Vote)",87,6,0
+536772,286951,2013-06-04,"House - Bill Passed (Vote)",92,2,0
+536772,369747,2014-06-04,"Senate - Third Consideration",32,0,0
+536772,369882,2014-06-04,"House - SA Concurred in",95,0,0
+537245,291502,2013-06-25,"House - Bill Passed (Vote)",77,20,0
+537245,382832,2014-12-11,"Senate - Third Consideration",30,0,0
+537245,383309,2014-12-17,"House - SA Concurred in",87,2,0
+537346,288286,2013-06-12,"House - Bill Passed (Vote)",95,0,0
+537391,304739,2013-11-20,"House - Bill Passed (Vote)",91,0,0
+537391,340276,2014-03-12,"Senate - Third Consideration",32,0,0
+537391,340277,2014-03-12,"House - SA Concurred in",96,0,0
+540622,305234,2013-12-11,"House - Bill Passed (Vote)",87,6,0
+540628,274874,2013-05-01,"Senate - Third Consideration",33,0,0
+540628,289213,2013-06-18,"House - Bill Passed (Vote)",91,2,0
+540643,277312,2013-05-08,"House - Bill Passed (Vote)",93,0,0
+540643,291983,2013-06-27,"Senate - Third Consideration",32,0,0
+540643,292335,2013-06-27,"House - SA Concurred in",95,2,0
+541214,277333,2013-05-08,"House - Bill Passed (Vote)",94,0,0
+541214,303433,2013-10-16,"Senate - Third Consideration",29,0,0
+541214,303856,2013-10-30,"House - SA Concurred in",98,0,0
+542178,312877,2014-01-29,"House - Motion agreed to and so amended (Vote)",91,0,0
+542178,312878,2014-01-29,"House - Bill Passed (Vote)",82,9,0
+543143,364549,2014-05-14,"Senate - Third Consideration",31,0,0
+543143,382614,2014-12-10,"House - Motion agreed to and so amended (Vote)",88,0,0
+543143,382615,2014-12-10,"House - Bill Passed (Vote)",81,8,0
+543143,383847,2014-12-10,"House - Motion agreed to and so amended (Vote)",88,0,0
+543143,383848,2014-12-10,"House - Bill Passed (Vote)",81,8,0
+543143,383849,2014-05-14,"Senate - Third Consideration",31,0,0
+543836,288327,2013-06-12,"House - Bill Passed (Vote)",94,1,0
+543836,383879,2013-06-12,"House - Bill Passed (Vote)",94,1,0
+543853,286695,2013-06-04,"House - Bill Passed (Vote)",94,0,0
+543853,367894,2014-05-28,"Senate - Third Consideration",32,0,0
+543853,369618,2014-06-03,"House - SA Concurred in",95,0,0
+544111,340059,2014-03-12,"Senate - Third Consideration",31,1,0
+544111,369527,2014-06-03,"House - Bill Passed (Vote)",88,7,0
+544211,292259,2013-06-27,"Senate - Third Consideration",32,0,0
+544211,313355,2014-01-29,"House - Bill Passed (Vote)",91,0,0
+545463,304916,2013-12-04,"Senate - Third Consideration",33,0,0
+545484,291970,2013-06-26,"House - Motion laid on table (Vote)",60,38,0
+545484,291971,2013-06-26,"House - Bill Passed (Vote)",95,3,0
+545484,312934,2014-01-29,"Senate - Motion to Table Amendment",21,9,0
+545484,312935,2014-01-29,"Senate - Third Consideration",30,0,0
+545484,312936,2014-01-29,"House - SA Concurred in",86,0,0
+545495,304369,2013-11-13,"Senate - Third Consideration",32,0,0
+545495,382533,2014-12-09,"House - Bill Passed (Vote)",74,18,0
+545495,382562,2014-12-10,"Senate - Senate concurred in House amendments (Vote)",32,0,0
+546595,289064,2013-06-12,"House - Bill Passed (Vote)",93,2,0
+546595,303898,2013-10-30,"Senate - Third Consideration",31,0,0
+546605,292033,2013-06-26,"House - Emergency clause stood",98,0,0
+546605,292034,2013-06-26,"House - Motion agreed to and so amended (Vote)",98,0,0
+546605,292035,2013-06-26,"House - Passed as emergency measure",98,0,0
+546605,369570,2014-06-03,"Senate - Third Consideration - Emergency Clause",33,0,0
+546605,369571,2014-06-03,"Senate - Third Consideration",33,0,0
+546605,369572,2014-06-03,"Senate - Third Consideration - Emergency Clause",33,0,0
+546605,369573,2014-06-03,"Senate - Third Consideration",33,0,0
+546605,369905,2014-06-04,"House - SA Concurred in",96,0,0
+546617,288352,2013-06-12,"House - Bill Passed (Vote)",95,0,0
+546617,304731,2013-11-20,"Senate - Third Consideration",33,0,0
+546627,277394,2013-05-08,"Senate - Motion to Table Amendment",23,10,0
+546627,277395,2013-05-08,"Senate - Third Consideration",23,10,0
+546627,304717,2013-11-20,"House - Motion laid on table (Vote)",57,36,0
+546627,304718,2013-11-20,"House - Bill Passed (Vote)",66,28,0
+546627,304719,2013-11-20,"Senate - Senate concurred in House amendments (Vote)",32,0,0
+546685,310517,2014-01-22,"House - Bill Passed (Vote)",92,0,0
+546685,369564,2014-06-03,"Senate - Third Consideration",32,1,0
+546685,369911,2014-06-04,"House - SA Concurred in",96,0,0
+546996,266847,2013-04-17,"Senate - Resolution Adoption",33,0,0
+547220,289669,2013-06-19,"House - Bill Passed (Vote)",94,0,0
+547220,383846,2013-06-19,"House - Bill Passed (Vote)",94,0,0
+547323,369900,2014-06-04,"House - Bill Passed (Vote)",92,4,0
+547323,382735,2014-12-11,"Senate - Third Consideration",26,4,0
+547323,383329,2014-12-17,"House - SA Concurred in",86,3,0
+548347,287613,2013-06-05,"House - Resolution was adopted (Vote)",96,0,0
+548351,287614,2013-06-04,"House - Resolution was adopted (Vote)",94,0,0
+548427,303120,2013-10-02,"House - Bill Passed (Vote)",95,0,0
+548427,313225,2014-01-29,"Senate - Third Consideration",30,0,0
+548440,279627,2013-05-15,"Senate - Motion to Table Amendment",23,10,0
+548440,279628,2013-05-15,"Senate - Third Consideration",31,2,0
+548440,291857,2013-06-25,"House - Motion agreed to and so amended (Vote)",96,1,0
+548440,291858,2013-06-25,"House - Bill Passed (Vote)",94,3,0
+548440,292397,2013-06-27,"Senate - Senate concurred in House amendments (Vote)",31,1,0
+548508,284886,2013-05-29,"House - Bill Passed (Vote)",95,0,0
+548508,291886,2013-06-26,"Senate - Third Consideration",31,1,0
+548597,292355,2013-06-26,"House - Resolution was adopted (Vote)",96,0,0
+548762,289640,2013-06-18,"House - Bill Passed (Vote)",93,0,0
+548762,304058,2013-11-06,"Senate - Third Consideration",33,0,0
+548808,282601,2013-05-22,"House - Emergency clause stood",87,6,0
+548808,282602,2013-05-22,"House - Passed as emergency measure",92,1,0
+548808,290057,2013-06-20,"Senate - Third Consideration - Emergency Clause",30,2,0
+548808,290058,2013-06-20,"Senate - Third Consideration",32,0,0
+549187,382047,2014-12-02,"Senate - Third Consideration",31,0,0
+549221,274373,2013-05-01,"Senate - Third Consideration - Emergency Clause",33,0,0
+549221,274374,2013-05-01,"Senate - Third Consideration",33,0,0
+549221,282653,2013-05-22,"House - Emergency clause stood",71,21,0
+549221,282654,2013-05-22,"House - Passed as emergency measure",78,14,0
+550219,304365,2013-11-13,"House - Emergency clause failed",3,89,0
+550219,304366,2013-11-13,"House - Motion laid on table (Vote)",58,33,0
+550219,304367,2013-11-13,"House - Motion laid on table (Vote)",56,34,0
+550219,304368,2013-11-13,"House - Bill Passed (Vote)",67,25,0
+550219,319952,2014-02-12,"Senate - Third Consideration",32,0,0
+550219,324057,2014-02-19,"House - SA Concurred in",70,28,0
+550243,287058,2013-06-05,"House - Bill Passed (Vote)",96,0,0
+550243,304902,2013-12-04,"Senate - Third Consideration",33,0,0
+550799,284782,2013-05-29,"House - Bill Passed (Vote)",92,0,0
+550799,290038,2013-06-20,"Senate - Third Consideration",32,0,0
+551244,287815,2013-06-05,"House - Resolution was adopted (Vote)",96,0,0
+551244,304361,2013-11-13,"Senate - Resolution Adoption",32,0,0
+551297,304216,2013-11-06,"House - Resolution was adopted (Vote)",97,0,0
+551715,288174,2013-06-12,"House - Resolution was adopted (Vote)",95,0,0
+551715,332192,2014-02-26,"Senate - Resolution Adoption",32,0,0
+553269,292382,2013-06-25,"House - Resolution was adopted (Vote)",97,0,0
+553278,289642,2013-06-18,"House - Resolution was adopted (Vote)",93,0,0
+553278,332047,2014-02-26,"Senate - Resolution Adoption",32,0,0
+553299,348060,2014-03-26,"House - Bill Passed (Vote)",91,0,0
+553758,291669,2013-06-25,"House - Bill Passed (Vote)",96,1,0
+553758,363165,2014-05-07,"Senate - Third Consideration",33,0,0
+553758,365914,2014-05-21,"House - SA Concurred in",95,0,0
+553758,383840,2014-05-21,"House - SA Concurred in",95,0,0
+553758,383841,2014-05-07,"Senate - Third Consideration",33,0,0
+553758,383842,2013-06-25,"House - Bill Passed (Vote)",96,1,0
+554323,284917,2013-05-29,"House - Emergency clause stood",77,17,0
+554323,284918,2013-05-29,"House - Passed as emergency measure",79,15,0
+554323,290086,2013-06-20,"Senate - Third Consideration - Emergency Clause",31,1,0
+554323,290087,2013-06-20,"Senate - Third Consideration",31,1,0
+554323,291651,2013-06-25,"House - SA Concurred in",80,17,0
+554958,289065,2013-06-12,"Senate - Resolution Adoption",33,0,0
+554958,305046,2013-12-04,"House - Resolution was adopted (Vote)",91,0,0
+555335,289086,2013-06-12,"Senate - Resolution Adoption",33,0,0
+555335,294289,2013-06-26,"House - Resolution was adopted (Vote)",96,0,0
+555374,284226,2013-05-22,"House - Motion to amend not agreed to (Vote)",32,60,0
+555374,284227,2013-05-22,"House - Resolution was adopted (Vote)",59,33,0
+555643,303442,2013-10-16,"House - Emergency clause stood",95,1,0
+555643,303443,2013-10-16,"House - Passed as emergency measure",96,0,0
+555643,325001,2014-02-19,"Senate - Third Consideration - Emergency Clause",31,1,0
+555643,325002,2014-02-19,"Senate - Third Consideration",32,0,0
+555643,329780,2014-02-26,"House - SA Concurred in",97,0,0
+555651,291790,2013-06-26,"Senate - Third Consideration - Emergency Clause",32,0,0
+555651,291791,2013-06-26,"Senate - Third Consideration",32,0,0
+555651,305231,2013-12-11,"House - Emergency clause stood",84,10,0
+555651,305232,2013-12-11,"House - Passed as emergency measure",94,0,0
+555673,370022,2014-06-04,"House - Motion laid on table (Vote)",58,36,0
+555673,370023,2014-06-04,"House - Motion laid on table (Vote)",58,36,0
+555673,370024,2014-06-04,"House - Motion laid on table (Vote)",60,34,0
+555673,370025,2014-06-04,"House - Bill Passed (Vote)",86,8,0
+555689,308826,2014-01-15,"House - Bill Passed (Vote)",78,15,0
+555689,369561,2014-06-03,"Senate - Third Consideration",24,9,0
+555689,369917,2014-06-04,"House - SA Concurred in",86,10,0
+555703,304944,2013-12-04,"House - Motion laid on table (Vote)",56,37,0
+555703,304945,2013-12-04,"House - Bill Passed (Vote)",57,35,0
+555711,291633,2013-06-25,"House - Bill Passed (Vote)",97,0,0
+556789,303579,2013-10-16,"House - Resolution was adopted (Vote)",73,18,0
+556789,363383,2014-05-07,"Senate - Resolution Adoption",26,7,0
+556817,292257,2013-06-26,"House - Resolution was adopted (Vote)",95,2,0
+556895,291640,2013-06-25,"House - Bill Passed (Vote)",97,0,0
+556895,304906,2013-12-04,"Senate - Third Consideration",33,0,0
+556895,304989,2013-12-04,"House - SA Concurred in",90,0,0
+556904,345667,2014-03-19,"House - Bill Passed (Vote)",97,0,0
+556904,382743,2014-12-11,"Senate - Third Consideration",31,0,0
+556904,383287,2014-12-17,"House - SA Concurred in",91,0,0
+557021,285111,2013-05-29,"House - Resolution was adopted (Vote)",97,0,0
+557031,285113,2013-05-29,"House - Resolution was adopted (Vote)",97,0,0
+557125,305177,2013-12-11,"House - Motion agreed to and so amended (Vote)",87,5,0
+557125,305178,2013-12-11,"House - Bill Passed (Vote)",87,6,0
+557854,364879,2014-05-14,"Senate - Third Consideration",31,0,0
+557854,368028,2014-05-28,"House - Bill Passed (Vote)",94,1,0
+557854,383907,2014-05-28,"House - Bill Passed (Vote)",94,1,0
+557854,383908,2014-05-14,"Senate - Third Consideration",31,0,0
+557861,310464,2014-01-22,"House - Bill Passed (Vote)",90,1,0
+557861,383843,2014-01-22,"House - Bill Passed (Vote)",90,1,0
+558157,303843,2013-10-30,"House - Bill Passed (Vote)",97,1,0
+558177,366405,2014-05-21,"House - Bill Passed (Vote)",83,11,0
+558736,291925,2013-06-26,"Senate - Third Consideration - Emergency Clause",23,9,0
+558736,291926,2013-06-26,"Senate - Third Consideration",25,7,0
+558736,382638,2014-12-10,"Senate - Senate concurred in House amendments (Vote)",32,0,0
+558736,382639,2014-12-09,"House - Emergency clause failed",63,28,0
+558736,382640,2014-12-09,"House - Bill Passed (Vote)",90,1,0
+558755,303857,2013-10-30,"House - Bill Passed (Vote)",98,0,0
+558755,315364,2014-02-04,"Senate - Third Consideration",29,0,0
+558755,324598,2014-02-19,"House - SA Concurred in",98,0,0
+558761,304711,2013-11-20,"House - Motion laid on table (Vote)",56,34,0
+558761,304712,2013-11-20,"House - Motion laid on table (Vote)",58,33,0
+558761,304713,2013-11-20,"House - Motion laid on table (Vote)",54,37,0
+558761,304714,2013-11-20,"House - Motion laid on table (Vote)",56,35,0
+558761,304715,2013-11-20,"House - Bill Passed (Vote)",63,27,0
+558805,329867,2014-02-26,"House - Bill Passed (Vote)",97,0,0
+558805,382754,2014-12-11,"Senate - Third Consideration",26,5,0
+558805,382755,2014-12-11,"Senate - Third Consideration",26,5,0
+558805,383347,2014-12-17,"House - SA Concurred in",65,25,0
+558893,304667,2013-11-19,"Senate - Third Consideration",31,2,0
+558893,369789,2014-06-04,"Senate - Senate concurred in House amendments (Vote)",31,0,0
+558893,369945,2014-06-04,"House - Bill Passed (Vote)",90,6,0
+558901,305271,2013-12-11,"House - Bill Passed (Vote)",93,0,0
+558901,349547,2014-04-01,"Senate - Third Consideration",32,0,0
+558901,350902,2014-04-02,"House - SA Concurred in",89,0,0
+559565,310591,2014-01-22,"House - Bill Passed (Vote)",92,0,0
+559565,369593,2014-06-03,"Senate - Third Consideration",33,0,0
+559565,369924,2014-06-04,"House - SA Concurred in",96,0,0
+559594,304555,2013-11-13,"House - Resolution was adopted (Vote)",68,23,0
+559725,304938,2013-12-04,"House - Bill Passed (Vote)",63,27,0
+559766,308887,2014-01-15,"House - Bill Passed (Vote)",93,0,0
+559766,381582,2014-11-12,"Senate - Third Consideration",32,0,0
+559766,381992,2014-11-19,"House - SA Concurred in",93,0,0
+560964,304670,2013-11-19,"Senate - Third Consideration",33,0,0
+560964,382015,2014-11-20,"House - Bill Passed (Vote)",91,0,0
+561021,350734,2014-04-02,"House - Motion agreed to and so amended (Vote)",91,0,0
+561021,350735,2014-04-02,"House - Bill Passed (Vote)",91,0,0
+561025,304920,2013-12-04,"Senate - Third Consideration",33,0,0
+561133,310724,2014-01-22,"Senate - Third Consideration",32,0,0
+561133,354147,2014-04-09,"House - Bill Passed (Vote)",93,0,0
+561133,363110,2014-05-07,"Senate - Senate concurred in House amendments (Vote)",33,0,0
+561149,292006,2013-06-26,"House - Resolution was adopted (Vote)",37,0,0
+561404,304914,2013-12-04,"Senate - Third Consideration",32,0,0
+561549,381987,2014-11-20,"House - Motion agreed to and so amended (Vote)",92,0,0
+561549,381988,2014-11-20,"House - Bill Passed (Vote)",88,4,0
+561692,304383,2013-11-13,"Senate - Third Consideration",32,0,0
+561692,345838,2014-03-19,"House - Bill Passed (Vote)",96,1,0
+561692,347173,2014-03-25,"Senate - Senate concurred in House amendments (Vote)",31,0,0
+562259,304005,2013-11-06,"House - Motion laid on table (Vote)",37,60,0
+562259,304006,2013-11-06,"House - Motion agreed to and so amended (Vote)",65,32,0
+562259,304007,2013-11-06,"House - Bill Passed (Vote)",74,23,0
+562259,350443,2014-04-02,"Senate - Third Consideration",31,0,0
+562259,350655,2014-04-02,"House - SA Concurred in",87,2,0
+562266,350938,2014-04-02,"House - Bill Passed (Vote)",76,15,0
+562266,382539,2014-12-09,"Senate - Third Consideration",24,6,0
+562266,382611,2014-12-10,"House - SA Concurred in",72,21,0
+562674,345478,2014-03-19,"House - Bill Passed (Vote)",90,7,0
+562674,353951,2013-12-04,"Senate - Third Consideration",33,0,0
+563058,382200,2014-12-02,"House - Motion laid on table (Vote)",36,53,0
+563058,382201,2014-12-02,"House - Motion agreed to and so amended (Vote)",53,36,0
+563058,382202,2014-12-02,"House - Bill Passed (Vote)",55,34,0
+563425,364379,2014-05-14,"House - Bill Passed (Vote)",89,0,0
+563474,304910,2013-12-04,"Senate - Third Consideration",33,0,0
+563474,304911,2013-12-04,"Senate - Third Consideration",31,2,0
+563474,350659,2014-04-02,"House - Bill Passed (Vote)",87,2,0
+563474,363214,2014-05-07,"Senate - Senate concurred in House amendments (Vote)",0,33,0
+563474,367805,2014-05-28,"House - Conference report agree to",95,1,0
+563474,383868,2014-05-28,"House - Conference report agree to",95,1,0
+563474,383869,2014-05-07,"Senate - Senate concurred in House amendments (Vote)",0,33,0
+563474,383870,2014-04-02,"House - Bill Passed (Vote)",87,2,0
+563474,383871,2013-12-04,"Senate - Third Consideration",31,2,0
+563476,304909,2013-12-04,"Senate - Third Consideration",32,0,0
+563476,347877,2014-03-26,"House - Bill Passed (Vote)",91,0,0
+563476,350184,2014-04-01,"Senate - Senate concurred in House amendments (Vote)",31,0,0
+563513,369663,2014-06-03,"Senate - Third Consideration",33,0,0
+563513,382521,2014-12-09,"House - Bill Passed (Vote)",90,1,0
+563513,382606,2014-12-10,"Senate - Senate concurred in House amendments (Vote)",32,0,0
+563536,304351,2013-11-13,"House - Motion laid on table (Vote)",58,39,0
+563536,304352,2013-11-13,"House - Bill Passed (Vote)",97,0,0
+563536,382798,2014-12-11,"Senate - Third Consideration",30,1,0
+563536,383366,2014-12-17,"House - SA Concurred in",89,1,0
+563813,304675,2013-11-19,"Senate - Third Consideration",33,0,0
+563813,348189,2014-03-26,"House - Bill Passed (Vote)",91,0,0
+563813,349555,2014-04-01,"Senate - Senate concurred in House amendments (Vote)",32,0,0
+563840,303930,2013-10-30,"Senate - Resolution Adoption",31,0,0
+563889,382612,2014-12-10,"House - Bill Failed (Vote)",47,40,0
+564257,304021,2013-11-06,"House - Bill Passed (Vote)",93,4,0
+564257,382716,2014-12-11,"Senate - Third Consideration",31,0,0
+564257,383317,2014-12-17,"House - SA Concurred in",88,2,0
+564263,309186,2014-01-15,"House - Bill Passed (Vote)",94,0,0
+564291,310561,2014-01-22,"Senate - Third Consideration",32,0,0
+564291,350768,2014-04-02,"House - Bill Passed (Vote)",91,0,0
+564292,304671,2013-11-19,"Senate - Third Consideration",33,0,0
+564292,329792,2014-02-26,"House - Bill Passed (Vote)",97,0,0
+564513,313045,2014-01-29,"House - Bill Passed (Vote)",91,0,0
+564513,347174,2014-03-25,"Senate - Third Consideration",31,0,0
+564513,348130,2014-03-26,"House - SA Concurred in",88,0,0
+564656,329926,2014-02-26,"House - Bill Passed (Vote)",96,1,0
+564656,369601,2014-06-03,"Senate - Third Consideration",33,0,0
+564899,314895,2014-02-04,"Senate - Third Consideration",29,1,0
+564899,366369,2014-05-21,"House - Bill Passed (Vote)",94,0,0
+564899,367696,2014-05-28,"Senate - Senate concurred in House amendments (Vote)",30,1,0
+566254,303553,2013-10-16,"House - Resolution was adopted (Vote)",89,0,0
+566254,305047,2013-12-04,"Senate - Resolution Adoption",33,0,0
+566255,305426,2013-12-11,"House - Resolution was adopted (Vote)",89,0,0
+566255,347267,2014-03-25,"Senate - Resolution Adoption",31,0,0
+567760,303248,2013-10-08,"Senate - Third Consideration - Emergency Clause",23,10,0
+567760,303249,2013-10-08,"Senate - Third Consideration",22,11,0
+567760,303850,2013-10-30,"House - Motion agreed to and so amended (Vote)",91,7,0
+567760,303851,2013-10-30,"House - Motion laid on table (Vote)",56,42,0
+567760,303852,2013-10-30,"House - Bill Passed (Vote)",52,46,0
+567760,304024,2013-11-06,"Senate - Conference Committee Report",21,12,0
+567760,372340,2013-11-06,"House - Conference report agree to",51,46,0
+567765,304029,2013-11-06,"Senate - Third Consideration",33,0,0
+567765,319976,2014-02-12,"House - Bill Passed (Vote)",95,0,0
+567765,325841,2014-02-19,"Senate - Senate concurred in House amendments (Vote)",32,0,0
+567770,319888,2014-02-12,"House - Bill Passed (Vote)",93,0,0
+567770,382097,2014-12-02,"Senate - Third Consideration",32,0,0
+567770,382355,2014-12-04,"House - SA Concurred in",82,0,0
+567829,382878,2014-12-09,"House - Resolution was adopted (Vote)",92,0,0
+568252,364203,2014-05-14,"House - Motion agreed to and so amended (Vote)",87,2,0
+568252,364204,2014-05-14,"House - Bill Passed (Vote)",88,2,0
+568266,305194,2013-12-11,"House - Motion agreed to and so amended (Vote)",92,1,0
+568266,305195,2013-12-11,"House - Bill Passed (Vote)",84,8,0
+568282,381989,2014-11-20,"House - Bill Passed (Vote)",60,32,0
+568404,380164,2014-03-25,"Senate - Resolution Adoption",31,0,0
+568404,382520,2014-12-04,"House - Resolution was adopted (Vote)",78,0,0
+568514,303245,2013-10-02,"House - Resolution was adopted (Vote)",95,0,0
+568514,303479,2013-10-16,"Senate - Resolution Adoption",29,0,0
+568518,303440,2013-10-16,"Senate - Third Consideration",29,0,0
+568518,313079,2014-01-29,"House - Bill Passed (Vote)",91,0,0
+568527,303077,2013-10-02,"Senate - Resolution Adoption",30,0,0
+568578,303137,2013-10-02,"House - Resolution was adopted (Vote)",95,0,0
+568633,303903,2013-10-30,"Senate - Motion to Table Amendment",21,10,0
+568633,303904,2013-10-30,"Senate - Third Consideration",21,10,0
+568633,305226,2013-12-11,"House - Motion laid on table (Vote)",58,35,0
+568633,305227,2013-12-11,"House - Bill Passed (Vote)",60,33,0
+568633,383875,2013-12-11,"House - Motion laid on table (Vote)",58,35,0
+568633,383876,2013-12-11,"House - Bill Passed (Vote)",60,33,0
+568633,383877,2013-10-30,"Senate - Motion to Table Amendment",21,10,0
+568633,383878,2013-10-30,"Senate - Third Consideration",21,10,0
+568639,362810,2014-05-07,"House - Bill Passed (Vote)",90,0,0
+568640,309089,2014-01-15,"House - Bill Passed (Vote)",94,0,0
+568640,369586,2014-06-03,"Senate - Third Consideration",33,0,0
+568790,303900,2013-10-30,"Senate - Third Consideration - Emergency Clause",31,0,0
+568790,303901,2013-10-30,"Senate - Third Consideration",31,0,0
+568790,304995,2013-12-04,"House - Emergency clause stood",92,1,0
+568790,304996,2013-12-04,"House - Passed as emergency measure",93,0,0
+568840,330089,2014-02-26,"House - Bill Passed (Vote)",89,8,0
+568840,366049,2014-05-21,"Senate - Third Consideration - Emergency Clause",26,6,0
+568840,366050,2014-05-21,"Senate - Third Consideration",30,2,0
+568840,367772,2014-05-28,"House - Emergency clause stood",84,13,0
+568840,367773,2014-05-28,"House - SA Concurred in",91,6,0
+568993,304035,2013-11-06,"Senate - Third Consideration",33,0,0
+568993,348012,2014-03-26,"House - Bill Passed (Vote)",91,0,0
+569102,303928,2013-10-30,"Senate - Motion to Table Amendment",21,10,0
+569102,303929,2013-10-30,"Senate - Resolution Adoption",28,3,0
+569102,304752,2013-11-20,"Senate - Senate concurred in House amendments (Vote)",28,4,0
+569102,304753,2013-11-20,"House - Resolution was adopted (Vote)",63,30,0
+569150,364226,2014-05-14,"House - Bill Passed (Vote)",90,0,0
+569150,382724,2014-12-11,"Senate - Third Consideration",25,6,0
+569150,383284,2014-12-17,"House - SA Concurred in",82,8,0
+569154,304738,2013-11-20,"House - Bill Passed (Vote)",92,0,0
+569154,353052,2014-04-08,"Senate - Third Consideration - Emergency Clause",32,0,0
+569154,353053,2014-04-08,"Senate - Third Consideration",32,0,0
+569154,353909,2014-04-09,"House - Emergency clause stood",93,0,0
+569154,353910,2014-04-09,"House - SA Concurred in",93,0,0
+569156,305180,2013-12-11,"House - Bill Passed (Vote)",90,0,0
+569156,369546,2014-06-03,"Senate - Third Consideration",33,0,0
+569156,369976,2014-06-04,"House - SA Concurred in",95,0,0
+569161,304372,2013-11-13,"Senate - Third Consideration",27,5,0
+569161,304908,2013-12-04,"Senate - Senate concurred in House amendments (Vote)",28,5,0
+569161,304963,2013-12-04,"House - Motion agreed to and so amended (Vote)",81,12,0
+569161,304964,2013-12-04,"House - Motion laid on table (Vote)",54,39,0
+569161,304965,2013-12-04,"House - Motion laid on table (Vote)",55,37,0
+569161,304966,2013-12-04,"House - Motion laid on table (Vote)",55,38,0
+569161,304967,2013-12-04,"House - Bill Passed (Vote)",55,36,0
+569163,304014,2013-11-06,"Senate - Third Consideration",22,11,0
+569163,324622,2014-02-19,"House - Motion laid on table (Vote)",60,38,0
+569163,324623,2014-02-19,"House - Motion laid on table (Vote)",60,38,0
+569163,324624,2014-02-19,"House - Motion laid on table (Vote)",60,38,0
+569163,324625,2014-02-19,"House - Bill Passed (Vote)",60,38,0
+569163,325047,2014-02-19,"Senate - Senate concurred in House amendments (Vote)",22,10,0
+569167,303899,2013-10-30,"House - Resolution was adopted (Vote)",98,0,0
+569293,316764,2014-02-04,"Senate - Resolution Adoption",30,0,0
+569347,303435,2013-10-16,"Senate - Resolution Adoption",29,0,0
+569347,305449,2013-12-11,"House - Resolution was adopted (Vote)",93,0,0
+569419,369733,2014-06-04,"Senate - Third Consideration",32,0,0
+569419,383308,2014-12-17,"House - Bill Passed (Vote)",88,0,0
+569481,381603,2014-11-12,"House - Bill Passed (Vote)",89,0,0
+569794,313119,2014-01-29,"Senate - Third Consideration",30,0,0
+569794,329605,2014-02-26,"Senate - Senate concurred in House amendments (Vote)",32,0,0
+569794,329606,2014-02-26,"House - Bill Passed (Vote)",97,0,0
+569805,312968,2014-01-29,"House - Motion laid on table (Vote)",57,34,0
+569805,312969,2014-01-29,"House - Bill Passed (Vote)",77,14,0
+569820,319837,2014-02-12,"House - Bill Passed (Vote)",92,0,0
+569820,369750,2014-06-04,"Senate - Third Consideration",31,0,0
+569820,369971,2014-06-04,"House - SA Concurred in",94,0,0
+569952,310756,2014-01-22,"House - Bill Passed (Vote)",92,0,0
+569952,350581,2014-04-02,"Senate - Third Consideration",32,0,0
+569954,309169,2014-01-15,"House - Bill Passed (Vote)",94,0,0
+569956,304733,2013-11-20,"House - Emergency clause stood",93,1,0
+569956,304734,2013-11-20,"House - Motion agreed to and so amended (Vote)",93,0,0
+569956,304735,2013-11-20,"House - Motion agreed to and so amended (Vote)",91,0,0
+569956,304736,2013-11-20,"House - Passed as emergency measure",93,0,0
+569956,304927,2013-12-04,"Senate - Third Consideration - Emergency Clause",33,0,0
+569956,304928,2013-12-04,"Senate - Third Consideration",33,0,0
+569957,308899,2014-01-15,"House - Motion laid on table (Vote)",57,37,0
+569957,308900,2014-01-15,"House - Bill Passed (Vote)",86,7,0
+569957,367750,2014-05-28,"Senate - Third Consideration",32,0,0
+569957,369581,2014-06-03,"House - SA Concurred in",95,0,0
+570154,304700,2013-11-20,"Senate - Motion to Table Amendment",23,10,0
+570154,304701,2013-11-20,"Senate - Third Consideration",23,10,0
+570154,329673,2014-02-26,"House - Motion laid on table (Vote)",59,38,0
+570154,329674,2014-02-26,"House - Motion laid on table (Vote)",59,38,0
+570154,329675,2014-02-26,"House - Bill Passed (Vote)",59,37,0
+570154,329676,2014-02-26,"Senate - Senate concurred in House amendments (Vote)",22,9,0
+570156,308657,2014-01-14,"Senate - Third Consideration",31,0,0
+570157,381990,2014-11-20,"House - Motion laid on table (Vote)",55,37,0
+570157,381991,2014-11-20,"House - Bill Passed (Vote)",92,0,0
+570165,382350,2014-12-04,"House - Bill Passed (Vote)",77,6,0
+570165,382720,2014-12-11,"Senate - Third Consideration",31,0,0
+570169,310881,2014-01-22,"House - Bill Passed (Vote)",91,0,0
+570169,382527,2014-12-09,"Senate - Third Consideration",30,0,0
+570169,382681,2014-12-10,"House - SA Concurred in",93,0,0
+570172,319669,2014-02-12,"House - Bill Passed (Vote)",94,1,0
+570172,382158,2014-12-03,"Senate - Third Consideration",28,3,0
+570172,382363,2014-12-04,"House - SA Concurred in",81,1,0
+570303,309147,2014-01-15,"House - Bill Passed (Vote)",94,0,0
+570303,382546,2014-12-10,"Senate - Third Consideration",28,4,0
+570303,383312,2014-12-17,"House - SA Concurred in",90,0,0
+570303,383898,2014-12-17,"House - SA Concurred in",90,0,0
+570303,383899,2014-12-10,"Senate - Third Consideration",28,4,0
+570303,383900,2014-01-15,"House - Bill Passed (Vote)",94,0,0
+570313,329634,2014-02-26,"Senate - Motion to Table Amendment",22,10,0
+570313,329635,2014-02-26,"Senate - Resolution Adoption",22,10,0
+570353,310468,2014-01-22,"Senate - Third Consideration",32,0,0
+570353,345746,2014-03-19,"House - Bill Passed (Vote)",97,0,0
+570569,304724,2013-11-20,"Senate - Third Consideration",23,10,0
+570575,313118,2014-01-29,"Senate - Third Consideration",30,0,0
+570575,382488,2014-12-02,"House - Bill Passed (Vote)",85,3,0
+570585,310584,2014-01-22,"Senate - Third Consideration",32,0,0
+570585,340805,2014-03-12,"House - Bill Passed (Vote)",96,0,0
+570822,347787,2014-03-26,"House - Bill Passed (Vote)",92,0,0
+570826,304903,2013-12-04,"Senate - Third Consideration",33,0,0
+570841,345330,2014-03-19,"House - Emergency clause failed",2,95,0
+570841,345331,2014-03-19,"House - Bill Passed (Vote)",70,27,0
+570956,382224,2014-12-02,"House - Bill Passed (Vote)",87,2,0
+570960,308811,2014-01-15,"House - Bill Passed (Vote)",94,0,0
+570960,329850,2014-02-26,"Senate - Third Consideration - Emergency Clause",30,2,0
+570960,329851,2014-02-26,"Senate - Third Consideration",32,0,0
+570960,329852,2014-02-26,"House - Emergency clause stood",91,5,0
+570960,329853,2014-02-26,"House - SA Concurred in",96,0,0
+570961,310755,2014-01-22,"Senate - Third Consideration",31,1,0
+570961,369653,2014-06-03,"House - Motion laid on table (Vote)",37,57,0
+570961,369654,2014-06-03,"House - Motion agreed to and so amended (Vote)",55,39,0
+570961,369655,2014-06-03,"House - Bill Passed (Vote)",88,6,0
+570961,369746,2014-06-04,"Senate - Senate concurred in House amendments (Vote)",29,3,0
+570962,340215,2014-03-12,"House - Bill Passed (Vote)",96,0,0
+570962,367862,2014-05-28,"Senate - Third Consideration",32,0,0
+570962,369517,2014-06-03,"House - SA Concurred in",95,0,0
+571029,383298,2014-12-17,"House - Resolution was adopted (Vote)",84,3,0
+571102,382159,2014-12-03,"Senate - Third Consideration",31,1,0
+571105,325901,2014-02-19,"Senate - Third Consideration",32,0,0
+571110,367986,2014-05-28,"Senate - Third Consideration",32,0,0
+571110,382528,2014-12-09,"House - Motion agreed to and so amended (Vote)",91,1,0
+571120,369835,2014-06-04,"Senate - Third Consideration",31,0,0
+571120,383903,2014-06-04,"Senate - Third Consideration",31,0,0
+571218,304696,2013-11-20,"Senate - Third Consideration",23,10,0
+571218,324626,2014-02-19,"House - Bill Passed (Vote)",59,37,0
+571218,325863,2014-02-19,"Senate - Senate concurred in House amendments (Vote)",22,10,0
+571387,348187,2014-03-26,"House - Emergency clause failed",0,90,0
+571387,348188,2014-03-26,"House - Bill Passed (Vote)",58,32,0
+571395,382481,2014-12-04,"Senate - Resolution Adoption",27,5,0
+571505,304804,2013-11-19,"Senate - Resolution Adoption",33,0,0
+571505,321650,2014-02-12,"House - Resolution was adopted (Vote)",95,0,0
+571510,305051,2013-12-04,"House - Resolution was adopted (Vote)",90,0,0
+571510,325859,2014-02-19,"Senate - Resolution Adoption",32,0,0
+571514,340880,2014-03-12,"House - Resolution was adopted (Vote)",94,2,0
+571623,329317,2014-02-26,"Senate - Motion to Table Amendment",22,10,0
+571623,329318,2014-02-26,"Senate - Motion to Table Amendment",22,10,0
+571623,329319,2014-02-26,"Senate - Third Consideration",30,2,0
+571623,382623,2014-12-10,"House - Motion agreed to and so amended (Vote)",87,1,0
+571623,382624,2014-12-10,"House - Motion laid on table (Vote)",57,31,0
+571623,382625,2014-12-10,"House - Bill Passed (Vote)",79,9,0
+571623,382797,2014-12-11,"Senate - Senate concurred in House amendments (Vote)",29,1,0
+571648,381763,2014-11-19,"Senate - Third Consideration",33,0,0
+571648,383885,2014-11-19,"Senate - Third Consideration",33,0,0
+571857,315199,2014-02-04,"Senate - Third Consideration",30,0,0
+571857,364199,2014-05-14,"House - Motion agreed to and so amended (Vote)",93,0,0
+571857,364200,2014-05-14,"House - Bill Passed (Vote)",93,0,0
+571857,366407,2014-05-21,"Senate - Senate concurred in House amendments (Vote)",32,0,0
+572016,350977,2014-04-02,"House - Bill Passed (Vote)",86,5,0
+572016,369511,2014-06-03,"Senate - Third Consideration",30,3,0
+572016,369589,2014-06-03,"House - SA Concurred in",94,1,0
+572016,383904,2014-06-03,"Senate - Third Consideration",30,3,0
+572016,383905,2014-06-03,"House - SA Concurred in",94,1,0
+572016,383906,2014-04-02,"House - Bill Passed (Vote)",86,5,0
+572090,329672,2014-02-26,"House - Bill Passed (Vote)",97,0,0
+572090,369524,2014-06-03,"Senate - Third Consideration",33,0,0
+572090,369902,2014-06-04,"House - SA Concurred in",96,0,0
+572109,340404,2014-03-12,"House - Bill Passed (Vote)",95,1,0
+572109,382786,2014-12-11,"Senate - Third Consideration",31,0,0
+572109,383349,2014-12-17,"House - SA Concurred in",65,25,0
+572374,354166,2014-04-09,"House - Bill Passed (Vote)",71,20,0
+572431,364168,2014-05-14,"House - Motion agreed to and so amended (Vote)",88,5,0
+572431,364169,2014-05-14,"House - Motion laid on table (Vote)",58,35,0
+572431,364170,2014-05-14,"House - Bill Passed (Vote)",55,38,0
+572432,369759,2014-06-04,"Senate - Third Consideration",30,1,0
+572432,383839,2014-06-04,"Senate - Third Consideration",30,1,0
+572454,382504,2014-12-09,"Senate - Third Consideration",29,1,0
+572454,383305,2014-12-17,"House - Bill Passed (Vote)",84,4,0
+572457,348197,2014-03-26,"House - Bill Passed (Vote)",90,0,0
+572804,382210,2014-12-02,"House - Motion agreed to and so amended (Vote)",89,0,0
+572804,382211,2014-12-02,"House - Bill Passed (Vote)",89,0,0
+573084,305448,2013-12-11,"House - Resolution was adopted (Vote)",94,0,0
+573364,345698,2014-03-19,"House - Bill Passed (Vote)",93,0,0
+573368,369792,2014-06-04,"Senate - Third Consideration",31,0,0
+573368,382529,2014-12-09,"House - Bill Passed (Vote)",91,0,0
+573378,350565,2014-04-02,"House - Bill Passed (Vote)",90,0,0
+573378,383888,2014-04-02,"House - Bill Passed (Vote)",90,0,0
+573864,347232,2014-03-25,"Senate - Third Consideration",30,0,0
+573864,382004,2014-11-19,"House - Bill Passed (Vote)",93,0,0
+573864,382060,2014-12-02,"Senate - Senate concurred in House amendments (Vote)",31,0,0
+574075,308933,2014-01-14,"Senate - Motion to Table Amendment",21,10,0
+574075,308934,2014-01-14,"Senate - Resolution Adoption",31,0,0
+574075,311603,2014-01-22,"House - Motion laid on table (Vote)",57,35,0
+574075,311604,2014-01-22,"House - Motion laid on table (Vote)",57,35,0
+574075,311605,2014-01-22,"House - Resolution was adopted (Vote)",90,2,0
+574851,350909,2014-04-02,"House - Bill Passed (Vote)",84,6,0
+574851,369577,2014-06-03,"Senate - Third Consideration",33,0,0
+575181,349515,2014-04-01,"Senate - Third Consideration",32,0,0
+575181,364211,2014-05-14,"House - Bill Passed (Vote)",88,0,0
+575181,383901,2014-05-14,"House - Bill Passed (Vote)",88,0,0
+575181,383902,2014-04-01,"Senate - Third Consideration",32,0,0
+575185,350588,2014-04-02,"House - Bill Passed (Vote)",88,1,0
+575188,350716,2014-04-02,"House - Bill Passed (Vote)",82,7,0
+575188,382550,2014-12-10,"Senate - Motion to Table Amendment",22,9,0
+575188,382551,2014-12-10,"Senate - Third Consideration - Emergency Clause",22,9,0
+575188,382552,2014-12-10,"Senate - Third Consideration",28,3,0
+575188,383288,2014-12-17,"House - Emergency clause stood",85,5,0
+575188,383289,2014-12-17,"House - SA Concurred in",90,0,0
+577026,340386,2014-03-12,"Senate - Third Consideration",32,0,0
+577026,340387,2014-03-12,"Senate - Resolution Adoption",32,0,0
+577026,369774,2014-06-04,"Senate - Senate concurred in House amendments (Vote)",0,31,0
+577026,370006,2014-06-04,"House - Bill Passed (Vote)",96,0,0
+577940,313195,2014-01-29,"House - Bill Passed (Vote)",91,0,0
+577940,367705,2014-05-28,"Senate - Third Consideration",32,0,0
+587722,308407,2014-01-14,"Senate - Resolution Adoption",24,7,0
+587722,309926,2014-01-15,"House - Resolution was adopted (Vote)",74,20,0
+590329,320101,2014-02-12,"Senate - Third Consideration",32,0,0
+590329,369660,2014-06-03,"House - Motion agreed to and so amended (Vote)",87,8,0
+590329,369661,2014-06-03,"House - Bill Passed (Vote)",95,0,0
+590329,369811,2014-06-04,"Senate - Senate concurred in House amendments (Vote)",32,0,0
+591791,364405,2014-05-14,"House - Bill Passed (Vote)",94,0,0
+591937,347841,2014-03-26,"House - Bill Passed (Vote)",89,0,0
+592517,350966,2014-04-02,"House - Bill Passed (Vote)",89,0,0
+592517,382526,2014-12-09,"Senate - Third Consideration",30,0,0
+592734,382179,2014-12-03,"Senate - Third Consideration",32,0,0
+600979,364213,2014-05-14,"House - Bill Passed (Vote)",89,1,0
+600979,382736,2014-12-11,"Senate - Third Consideration",29,1,0
+600979,382737,2014-12-11,"Senate - Third Consideration",30,0,0
+601380,340216,2014-03-12,"House - Bill Passed (Vote)",84,9,0
+606597,348888,2014-03-25,"Senate - Resolution Adoption",31,0,0
+607784,347245,2014-03-25,"Senate - Resolution Adoption",31,0,0
+607897,330537,2014-02-26,"House - Bill Passed (Vote)",97,0,0
+607952,324154,2014-02-19,"House - Motion agreed to and so amended (Vote)",92,6,0
+607952,324155,2014-02-19,"House - Emergency clause stood",85,13,0
+607952,324156,2014-02-19,"House - Passed as emergency measure",82,16,0
+607952,329521,2014-02-26,"Senate - Third Consideration - Emergency Clause",32,0,0
+607952,329522,2014-02-26,"Senate - Third Consideration",32,0,0
+607952,329523,2014-02-26,"House - SA Concurred in",40,56,0
+607952,340085,2014-03-12,"Senate - So the emergency clause stood as part of the report.",32,0,0
+607952,340086,2014-03-12,"Senate - Report of the Committee of Conference was(not) agreed to - emergency measure",32,0,0
+607952,340087,2014-03-12,"House - Conference Committee Report - Emergency Clause",93,3,0
+607952,340088,2014-03-12,"House - Report agreed to as emergency measure",91,5,0
+608121,312984,2014-01-29,"House - Resolution was adopted (Vote)",90,1,0
+608121,317417,2014-02-04,"Senate - Resolution Adoption",30,0,0
+613414,367695,2014-05-28,"Senate - Third Consideration",32,0,0
+613414,382602,2014-12-10,"House - Bill Passed (Vote)",92,1,0
+613414,382753,2014-12-11,"Senate - Senate concurred in House amendments (Vote)",30,0,0
+613759,381993,2014-11-20,"House - Bill Passed (Vote)",92,0,0
+619147,366134,2014-05-21,"House - Bill Passed (Vote)",95,0,0
+619147,382577,2014-12-10,"Senate - Third Consideration",32,0,0
+619147,383397,2014-12-17,"House - SA Concurred in",90,0,0
+619150,325007,2014-02-19,"Senate - Third Consideration",32,0,0
+619150,325008,2014-02-19,"Senate - Resolution Adoption",32,0,0
+619150,325009,2014-02-19,"Senate - Resolution Adoption",32,0,0
+619150,325010,2014-02-19,"Senate - Resolution Adoption",32,0,0
+619150,364372,2014-05-14,"House - Bill Passed (Vote)",93,0,0
+619194,382323,2014-12-04,"Senate - Third Consideration",32,0,0
+619194,382621,2014-12-10,"House - Motion agreed to and so amended (Vote)",87,2,0
+619194,382622,2014-12-10,"House - Bill Passed (Vote)",89,0,0
+619194,382752,2014-12-11,"Senate - Senate concurred in House amendments (Vote)",29,1,0
+619209,369585,2014-06-03,"House - Bill Passed (Vote)",94,1,0
+619209,382505,2014-12-09,"Senate - Third Consideration",30,0,0
+619209,382619,2014-12-10,"House - SA Concurred in",93,0,0
+619921,369544,2014-06-03,"Senate - Third Consideration",33,0,0
+619921,383838,2014-06-03,"Senate - Third Consideration",33,0,0
+619977,350533,2014-04-02,"Senate - Third Consideration",32,0,0
+619977,369899,2014-06-04,"House - Bill Passed (Vote)",95,0,0
+619977,383844,2014-06-04,"House - Bill Passed (Vote)",95,0,0
+619977,383845,2014-04-02,"Senate - Third Consideration",32,0,0
+620006,369531,2014-06-03,"Senate - Third Consideration",33,0,0
+620006,382616,2014-12-10,"House - Motion agreed to and so amended (Vote)",87,6,0
+620006,382617,2014-12-10,"House - Passed as emergency measure",92,1,0
+620006,382733,2014-12-11,"Senate - Third Consideration - Emergency Clause",22,8,0
+620006,382734,2014-12-11,"Senate - Senate concurred in House amendments (Vote)",22,8,0
+620064,353722,2014-04-08,"Senate - Resolution Adoption",32,0,0
+620064,369584,2014-06-03,"House - Resolution was adopted (Vote)",95,0,0
+623207,353247,2014-04-08,"Senate - Third Consideration",32,0,0
+623219,369638,2014-06-03,"House - Bill Passed (Vote)",95,0,0
+623219,382399,2014-12-04,"Senate - Third Consideration - Emergency Clause",31,1,0
+623219,382400,2014-12-04,"Senate - Third Consideration",32,0,0
+623219,382401,2014-12-04,"House - Emergency clause stood",80,0,0
+623219,382402,2014-12-04,"House - SA Concurred in",80,0,0
+623244,326998,2014-02-19,"House - Resolution was adopted (Vote)",96,2,0
+625164,382369,2014-12-04,"House - Bill Passed (Vote)",81,2,0
+625234,362831,2014-05-07,"House - Bill Passed (Vote)",90,0,0
+628596,382199,2014-12-02,"House - Bill Passed (Vote)",86,3,0
+628596,383884,2014-12-02,"House - Bill Passed (Vote)",86,3,0
+628702,367770,2014-05-28,"Senate - Third Consideration",32,0,0
+628702,382787,2014-12-10,"House - Motion agreed to and so amended (Vote)",87,2,0
+628702,382788,2014-12-10,"House - Motion laid on table (Vote)",56,34,0
+628702,382789,2014-12-10,"House - Motion laid on table (Vote)",58,32,0
+628702,382790,2014-12-10,"House - Bill Passed (Vote)",90,0,0
+628734,364635,2014-05-14,"Senate - Third Consideration",30,0,0
+628734,368149,2014-05-28,"House - Bill Passed (Vote)",95,0,0
+631725,369583,2014-06-03,"House - Bill Passed (Vote)",95,0,0
+631725,382547,2014-12-10,"Senate - Third Consideration",32,0,0
+631725,383304,2014-12-17,"House - SA Concurred in",90,0,0
+633930,363014,2014-05-07,"House - Bill Passed (Vote)",88,0,0
+633930,381762,2014-11-19,"Senate - Third Consideration",33,0,0
+635216,364399,2014-05-14,"House - Motion laid on table (Vote)",57,37,0
+635216,364400,2014-05-14,"House - Bill Passed (Vote)",64,30,0
+635216,382321,2014-12-04,"Senate - Third Consideration",32,0,0
+635216,382441,2014-12-04,"House - SA Concurred in",68,12,0
+635248,352919,2014-04-08,"Senate - Third Consideration",32,0,0
+635248,369551,2014-06-03,"House - Bill Passed (Vote)",95,0,0
+636528,381748,2014-11-12,"House - Resolution was adopted (Vote)",89,0,0
+637582,369910,2014-06-04,"House - Bill Passed (Vote)",96,0,0
+637582,382723,2014-12-11,"Senate - Third Consideration",30,0,0
+637582,383294,2014-12-17,"House - SA Concurred in",89,0,0
+638034,345269,2014-03-19,"House - Emergency clause stood",89,5,0
+638034,345270,2014-03-19,"House - Passed as emergency measure",92,1,0
+638034,353170,2014-04-08,"Senate - Third Consideration - Emergency Clause",30,1,0
+638034,353171,2014-04-08,"Senate - Third Consideration",31,0,0
+638034,353915,2014-04-09,"House - SA Concurred in",93,0,0
+638314,369137,2014-05-28,"Senate - Resolution Adoption",31,0,0
+639377,347780,2014-03-26,"House - Bill Passed (Vote)",89,2,0
+639377,349801,2014-04-01,"Senate - Third Consideration",30,1,0
+639386,354427,2014-04-09,"House - Bill Passed (Vote)",92,0,0
+639386,364646,2014-05-14,"Senate - Third Consideration",31,0,0
+639386,365991,2014-05-21,"House - SA Concurred in",95,0,0
+639398,367964,2014-05-28,"House - Bill Passed (Vote)",94,0,0
+639398,382559,2014-12-10,"Senate - Third Consideration",30,0,0
+639398,383391,2014-12-17,"House - SA Concurred in",85,5,0
+639409,354091,2014-04-09,"House - Motion agreed to and so amended (Vote)",89,3,0
+639409,354092,2014-04-09,"House - Motion laid on table (Vote)",58,34,0
+639409,354093,2014-04-09,"House - Motion laid on table (Vote)",56,36,0
+639409,354094,2014-04-09,"House - Motion laid on table (Vote)",57,35,0
+639409,354095,2014-04-09,"House - Motion laid on table (Vote)",55,37,0
+639409,354096,2014-04-09,"House - Motion laid on table (Vote)",58,34,0
+639409,354097,2014-04-09,"House - Motion laid on table (Vote)",58,34,0
+639409,354098,2014-04-09,"House - Motion laid on table (Vote)",57,35,0
+639409,354099,2014-04-09,"House - Bill Passed (Vote)",57,35,0
+639409,366493,2014-05-21,"Senate - Motion to Table Amendment",23,9,0
+639409,366494,2014-05-21,"Senate - Motion to Table Amendment",24,8,0
+639409,366495,2014-05-21,"Senate - Motion to Table Amendment",23,9,0
+639409,366496,2014-05-21,"Senate - Motion to Table Amendment",23,9,0
+639409,366497,2014-05-21,"Senate - Motion to Table Amendment",23,9,0
+639409,366498,2014-05-21,"Senate - Motion to Table Amendment",23,9,0
+639409,366499,2014-05-21,"Senate - Motion to Table Amendment",23,9,0
+639409,366500,2014-05-21,"Senate - Motion to Table Amendment",23,9,0
+639409,366501,2014-05-21,"Senate - Motion to Table Amendment",23,9,0
+639409,366502,2014-05-21,"Senate - Motion to Table Amendment",23,9,0
+639409,366503,2014-05-21,"Senate - Motion to Table Amendment",23,9,0
+639409,366504,2014-05-21,"Senate - Motion to Table Amendment",24,8,0
+639409,366505,2014-05-21,"Senate - Third Consideration",24,8,0
+639409,367834,2014-05-28,"House - SA Concurred in",1,96,0
+639409,369740,2014-06-04,"Senate - Conference Committee Report",23,9,0
+639409,369741,2014-06-04,"Senate - Conference Committee Report",24,7,0
+639409,372361,2014-06-04,"House - Conference report agree to",61,33,0
+639417,365913,2014-05-21,"House - Bill Passed (Vote)",90,3,0
+639428,381994,2014-11-19,"House - Motion laid on table (Vote)",56,37,0
+639428,381995,2014-11-19,"House - Motion laid on table (Vote)",53,40,0
+639428,381996,2014-11-19,"House - Motion laid on table (Vote)",56,37,0
+639428,381997,2014-11-19,"House - Motion laid on table (Vote)",57,36,0
+639428,381998,2014-11-19,"House - Bill Passed (Vote)",73,20,0
+639430,354607,2014-04-09,"House - Bill Passed (Vote)",62,30,0
+639449,354003,2014-04-09,"House - Motion laid on table (Vote)",37,55,0
+639449,354004,2014-04-09,"House - Motion agreed to and so amended (Vote)",66,26,0
+639449,354005,2014-04-09,"House - Bill Passed (Vote)",88,4,0
+639449,367807,2014-05-28,"Senate - Third Consideration",32,0,0
+639449,369605,2014-06-03,"House - SA Concurred in",82,13,0
+639450,354242,2014-04-09,"House - Bill Passed (Vote)",92,0,0
+639450,369754,2014-06-04,"Senate - Third Consideration",32,0,0
+639450,369895,2014-06-04,"House - SA Concurred in",95,0,0
+639464,382366,2014-12-04,"House - Motion agreed to and so amended (Vote)",77,3,0
+639464,382367,2014-12-04,"House - Bill Passed (Vote)",69,12,0
+639465,354203,2014-04-09,"House - Motion laid on table (Vote)",58,34,0
+639465,354204,2014-04-09,"House - Bill Passed (Vote)",62,30,0
+639465,366014,2014-05-21,"Senate - Motion to Table Amendment",17,15,0
+639465,366015,2014-05-21,"Senate - Motion to Table Amendment",22,10,0
+639465,366016,2014-05-21,"Senate - Motion to Table Amendment",22,10,0
+639465,366017,2014-05-21,"Senate - Motion to Table Amendment",23,9,0
+639465,366018,2014-05-21,"Senate - Third Consideration",27,5,0
+639465,367771,2014-05-28,"House - SA Concurred in",6,91,0
+639465,369745,2014-06-04,"Senate - Conference Committee Report",23,9,0
+639465,372372,2014-06-04,"House - Conference report agree to",64,31,0
+639471,354061,2014-04-09,"House - Bill Passed (Vote)",92,0,0
+639471,367765,2014-05-28,"Senate - Conference Committee Report",30,1,0
+639471,367766,2014-05-28,"Senate - Motion to Table Amendment",23,9,0
+639471,367767,2014-05-28,"Senate - Third Consideration",32,0,0
+639471,369563,2014-06-03,"House - SA Concurred in",64,30,0
+639472,354039,2014-04-09,"House - Motion laid on table (Vote)",59,33,0
+639472,354040,2014-04-09,"House - Bill Passed (Vote)",92,0,0
+639472,369752,2014-06-04,"Senate - Third Consideration",23,8,0
+639472,369898,2014-06-04,"House - SA Concurred in",64,31,0
+639472,383880,2014-06-04,"Senate - Third Consideration",23,8,0
+639472,383881,2014-06-04,"House - SA Concurred in",64,31,0
+639472,383882,2014-04-09,"House - Motion laid on table (Vote)",59,33,0
+639472,383883,2014-04-09,"House - Bill Passed (Vote)",92,0,0
+640118,352970,2014-04-08,"Senate - Third Consideration",32,0,0
+640118,381587,2014-11-12,"House - Bill Passed (Vote)",89,0,0
+640134,367841,2014-05-28,"Senate - Third Consideration",32,0,0
+640134,369877,2014-06-04,"House - Bill Passed (Vote)",96,0,0
+641194,382356,2014-12-04,"House - Bill Passed (Vote)",65,18,0
+641194,383837,2014-12-04,"House - Bill Passed (Vote)",65,18,0
+641278,369938,2014-06-04,"House - Bill Passed (Vote)",96,0,0
+642002,363119,2014-05-07,"Senate - Motion to Table Amendment",21,11,0
+642002,363120,2014-05-07,"Senate - Third Consideration",21,12,0
+642002,367829,2014-05-28,"House - Motion laid on table (Vote)",57,40,0
+642002,367830,2014-05-28,"House - Motion laid on table (Vote)",54,43,0
+642002,367831,2014-05-28,"House - Bill Passed (Vote)",55,42,0
+642002,367832,2014-05-28,"Senate - Senate concurred in House amendments (Vote)",21,11,0
+642120,354720,2014-04-08,"Senate - Resolution Adoption",32,0,0
+642647,381586,2014-11-12,"Senate - Resolution Adoption",32,0,0
+642971,369743,2014-06-04,"Senate - Third Consideration",31,0,0
+642971,383538,2014-12-17,"House - Bill Passed (Vote)",88,0,0
+643053,382239,2014-12-03,"Senate - Third Consideration",32,0,0
+643231,381999,2014-11-19,"House - Resolution was adopted (Vote)",64,27,0
+643269,367924,2014-05-28,"House - Bill Passed (Vote)",65,30,0
+643269,382507,2014-12-09,"Senate - Third Consideration",24,6,0
+643269,382608,2014-12-10,"House - SA Concurred in",9,84,0
+646353,382245,2014-12-02,"House - Bill Passed (Vote)",87,1,0
+646982,381986,2014-11-19,"House - Bill Passed (Vote)",92,0,0
+647772,366162,2014-05-21,"House - Bill Passed (Vote)",88,7,0
+647772,369841,2014-06-04,"Senate - Third Consideration",31,0,0
+647780,370123,2014-06-03,"House - Resolution was adopted (Vote)",92,3,0
+647780,382923,2014-12-09,"Senate - Resolution Adoption",28,2,0
+648540,367956,2014-05-28,"Senate - Third Consideration",32,0,0
+648733,382353,2014-12-04,"House - Motion agreed to and so amended (Vote)",71,10,0
+648733,382354,2014-12-04,"House - Bill Passed (Vote)",80,0,0
+649179,382604,2014-12-10,"Senate - Third Consideration",32,0,0
+649757,381584,2014-11-12,"House - Bill Passed (Vote)",88,0,0
+649757,383394,2014-12-17,"House - SA Concurred in",89,0,0
+650013,381761,2014-11-19,"Senate - Third Consideration",24,9,0
+650013,382590,2014-12-10,"House - Motion agreed to and so amended (Vote)",55,35,0
+650013,382591,2014-12-10,"House - Motion agreed to and so amended (Vote)",79,10,0
+650013,382592,2014-12-10,"House - Bill Passed (Vote)",58,31,0
+650013,382757,2014-12-11,"Senate - Senate concurred in House amendments (Vote)",21,9,0
+650498,382851,2014-12-11,"Senate - Motion to Table Amendment",22,8,0
+650498,382852,2014-12-11,"Senate - Third Consideration",23,7,0
+650768,382005,2014-11-19,"House - Resolution was adopted (Vote)",92,0,0
+650839,382489,2014-12-02,"House - Resolution was adopted (Vote)",89,0,0
+651001,369950,2014-06-04,"House - Motion laid on table (Vote)",60,36,0
+651001,369951,2014-06-04,"House - Motion laid on table (Vote)",60,36,0
+651001,369952,2014-06-04,"House - Bill Passed (Vote)",96,0,0
+651638,369548,2014-06-03,"House - Resolution was adopted (Vote)",95,0,0
+654438,382000,2014-11-20,"House - Motion agreed to and so amended (Vote)",92,0,0
+654438,382001,2014-11-20,"House - Bill Passed (Vote)",91,0,0
+654670,382352,2014-12-04,"House - Bill Passed (Vote)",81,0,0
+656127,382280,2014-12-04,"Senate - Third Consideration",32,0,0
+656127,383392,2014-12-17,"House - Bill Passed (Vote)",88,0,0
+658086,382439,2014-12-02,"Senate - Resolution Adoption",32,0,0
+659067,382296,2014-12-04,"Senate - Motion to Table Amendment",22,10,0
+659067,382297,2014-12-04,"Senate - Third Consideration",32,0,0
+659067,382605,2014-12-10,"House - Bill Passed (Vote)",87,2,0
+659183,381985,2014-11-19,"House - Bill Passed (Vote)",93,0,0
+659183,382278,2014-12-04,"Senate - Third Consideration",32,0,0
+659997,382002,2014-11-20,"House - Motion laid on table (Vote)",53,36,0
+659997,382003,2014-11-20,"House - Bill Passed (Vote)",62,27,0
+659997,382841,2014-12-11,"Senate - Motion to Table Amendment",22,8,0
+659997,382842,2014-12-11,"Senate - Third Consideration",20,10,0
+659997,383315,2014-12-17,"House - SA Concurred in",66,23,0
+660011,382371,2014-12-04,"House - Emergency clause failed",54,26,0
+660011,382372,2014-12-04,"House - Motion agreed to and so amended (Vote)",69,11,0
+660011,382373,2014-12-04,"House - Bill Passed (Vote)",56,26,0
+660139,382538,2014-12-09,"Senate - Third Consideration",22,7,0
+660143,382486,2014-12-04,"House - Resolution was adopted (Vote)",80,4,0
+660143,382915,2014-12-11,"Senate - Resolution Adoption",28,1,0
+660143,383400,2014-12-17,"House - SA Concurred in",82,8,0
+660143,383401,2014-12-17,"House - SA Concurred in",81,7,0
+661296,382022,2014-12-02,"House - Resolution was adopted (Vote)",53,0,0
+661409,382487,2014-12-04,"Senate - Resolution Adoption",32,0,0
+662822,383113,2014-12-10,"House - Resolution was adopted (Vote)",93,0,0

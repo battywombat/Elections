@@ -1,0 +1,50 @@
+1. All legislators working in the current session
+select * from term JOIN people ON term.sponsor_id=people.sponsor_id and term.end="2016-11-04" LIMIT 10;
+16973|9|House|Democrat|2015-01-06|2016-11-04|16973|Janine Boyd
+16984|81|House|Republican|2015-01-06|2016-11-04|16984|Robert Mccolley
+13313|30|House|Republican|2011-09-14|2016-11-04|13313|Louis Terhar
+13835|15|House|Democrat|2012-12-15|2016-11-04|13835|Nicholas Celebrezze
+16982|55|House|Republican|2015-01-06|2016-11-04|16982|Nathan Manning
+13527|96|House|Democrat|2011-12-15|2016-11-04|13527|Jack Cera
+12655|50|House|Republican|2011-02-03|2016-11-04|12655|Christina Hagan
+16966|85|House|Republican|2015-01-06|2016-11-04|16966|Nino Vitale
+10996|21|House|Republican|2011-01-03|2016-11-04|10996|Mike Duffey
+11544|44|House|Democrat|2011-01-03|2016-11-04|11544|Michael Ashford
+
+2. All districts whose representatives voted for SB17 2011, a bill to allow open carry of guns in bars.
+select district from
+       (select * from (select sponsor_id, vote
+       	       	       from votes where roll_call_id in
+		              (select roll_call_id from
+			       rollcalls join bills
+			       on bills.bill_id=rollcalls.bill_id and bill_number="SB17" and year="2011"
+			       and rollcalls.description like "%Consideration")) as t
+        join people on
+	people.sponsor_id=t.sponsor_id and t.vote=1) as t
+	join term on t.sponsor_id=term.sponsor_id
+	limit 10;
+HD21
+SD3
+HD83
+SD1
+HD22
+SD16
+HD54
+SD7
+HD48
+SD29
+
+3. All bills whose passage would favor expanded gun rights.
+select * from bills,
+       	      (select * from bill_on
+	       join issues on
+	       bill_on.issue_id=issues.issue_id) as t
+where bills.bill_id=t.bill_id
+and t.issue_name="Guns"
+and t.favorability=1;
+
+SB184|15858|2007|Self-defense/defend another-civil immunity/ presume acted properly|1|15858|1|1|Guns
+SB17|253361|2011|To permit a concealed carry licensee to possess a firearm in a liquor permit premises, or an open air arena, for which a D permit has been issued if the licensee is not consuming beer or intoxicating liquor or under the influence of alcohol or a drug of abuse, to modify the offense of improperly handling firearms in a motor vehicle as it applies to concealed carry licensees, and to authorize the expungement of a prior conviction of improperly handling firearms in a motor vehicle that no longer would be a crime under the bill.|1|253361|1|1|Guns
+
+
+
