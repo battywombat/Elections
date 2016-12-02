@@ -18,14 +18,24 @@ ISSUES = [
 ]
 
 BILLS_TO_ISSUES = {
-    1:[("SB184", 2007, 1), ("HB234", 2013, 2), ("SB17", 2011, 1)],
-    2:[("HB200", 2013, 2), ("HB294", 2015, 2), ("HB64", 2015, 2)],
-    3:[("HB523", 2015, 1), ("HB171", 2015, 1)],
-    4:[("SB221", 2007, 1), ("HB310", 2013, 2)]
+    1:[("SB184", 2007, 1, "Do you believe people should be allowed to use deadly force on unknown persons on their own property?"), 
+       ("HB234", 2013, 2, "Should potential gun buyers be compelled to complete a full criminal background check?"),
+       ("SB17", 2011, 1, "Sholud it be legal to carry a gun in a public place such as a school, restaurant or bar?")],
+    2:[("HB200", 2013, 2, "Should a physican be be required to carry out an ultrasound of a pregnan woman no less than 48 hours before carrying out an abortion?"),
+       ("HB294", 2015, 2, "Should the state fund Planned Parenthood, an organization that provides low income women with abortions and other reproductive care?"),
+       ("HB64", 2015, 2, "Should medicaid funds be used for abortions?")],
+    3:[("HB523", 2015, 1, "Should doctors be allowed to perscribe marijuana as a pain killer?"),
+       ("HB171", 2015, 1, "Should the amount of herion required to be legally classified as a major drug offendor be reduced?")],
+    4:[("SB221", 2007, 1, "Should Ohio have a set of guidelines for energy usage for businesses to target clean energy?"),
+       ("HB310", 2013, 2, "If there was a set of such guidelines, should they be repealed?")
+       ]
 }
 
 def main():
-    conn = sqlite3.connect(sys.argv[1])
+    create_database('legislature.db')
+
+def create_database(fp):
+    conn = sqlite3.connect(fp)
     conn.executescript(open('schema.sql').read())
     add_rawdata(conn)
     add_sponsor_info(conn)
@@ -35,7 +45,6 @@ def main():
     connect_bills_to_issues(conn)
     conn.commit()
     conn.close()
-    print("finished!")
 
 def make_districts(conn):
     for x in SENATE_DISTRICTS:
@@ -59,7 +68,8 @@ def connect_bills_to_issues(conn):
             elif len(c) < 1:
                 print("No responses for ", bill)
                 sys.exit(1)
-            conn.execute("INSERT INTO bill_on VALUES(?,?,?)", (i, c[0][0], bill[2]))
+            conn.execute("INSERT INTO bill_on(issue_id, bill_id, favorability, question_text) "
+                         "VALUES(?,?,?,?)", (i, c[0][0], bill[2], bill[3]))
 
 def add_rawdata(conn):
     for folder in os.listdir(DATA_ROOT):
@@ -125,7 +135,6 @@ def add_sponsor_info(conn):
     term_data = legislature_districts.get_map()
     for l in term_data:
         for term in term_data[l]:
-            print(term)
             if len(term) < 4:  # missing some date information
                 term = (term[0], term[1], None, term[2])
             if term[3] == 'present' or  term[3] < CUTOFF_DATE:
@@ -134,10 +143,11 @@ def add_sponsor_info(conn):
             t = c.fetchall()
             if len(t) < 1:
                 lastname = l.split(' ')[-1].strip()
-                c = conn.execute('SELECT sponsor_id FROM people WHERE sponsor_name LIKE ?', ("%"+lastname,))
+                c = conn.execute('SELECT sponsor_id FROM people WHERE sponsor_name LIKE ?',
+                                 ("%"+lastname,))
                 t = c.fetchall()
                 if len(t) < 1:
-                    print("error: cant find ", l, "With info: ", term, " Exiting...")
+                    print("error: cant find ", l, "With info: ", term)
                     continue
             if len(t) > 1:
                 print("too many names: ", l, ' With ids: ', t, ' info: ', term_data[l])

@@ -19,8 +19,14 @@ SENATE_PREFIX = "https://en.wikipedia.org/wiki/Ohio's_"
 SENATE_POSTFIX = "_senatorial_district"
 SENATE_DISTRICTS = [x for x in range(1, 34)]
 
+SIGNAL_WORDS = {
+    "based",
+    "consisted",
+    "consists",
+}
+
 def main() -> None:
-    print(get_map())
+    print(house_mapping_wiki())
 
 def prefix(x):
     if x % 10 == 1 and x != 11:
@@ -127,7 +133,7 @@ def get_wiki_body(root: ET) -> ET:
     return contentText
 
 def get_house_wiki() -> dict:
-    # It sure is a good thing that the structe of this page won't change...
+    # It sure is a good thing that the structure of this page won't change...
     raw_page = urllib.request.urlopen(HOUSE_PAGE).read()
     content = get_wiki_body(ET.fromstring(raw_page))
     regex = re.compile("([0-9]+)(st|nd|rd|th){1} District")
@@ -161,6 +167,36 @@ def get_senate_wiki() -> dict:
                 break
     return r
 
+# There is not a one to one correspondence between congressional districts and
+# counties. However, most demographic data that might be helpful would be is at
+# the county level. Again, I can't find any data that would be useful to map
+# congressional districts to counties, so I'm using wikipedia again.
+# These functions will go through the wikipedia pages for the house and build
+# A "best guess" mapping that will estimate based on the text of the wikipedia
+# page what districts contain what counties.
+
+def house_mapping_wiki() -> dict:
+    raw_page = urllib.request.urlopen(HOUSE_PAGE).read()
+    content = get_wiki_body(ET.fromstring(raw_page))
+    regex = re.compile("([0-9]+)(st|nd|rd|th){1} District")
+    in_district = -1
+    for elem in content:
+        if in_district == -1 and elem.tag == 'h2':
+            test = regex.match(elem[0].text)
+            if test is not None:
+                in_district = int(test.group(1))
+        elif in_district != -1 and elem.tag != 'table':
+            print_elem(elem)
+
+def print_elem(elem):
+    print(elem.text, end="")
+    for e in elem:
+        print_elem(e)
+    print()
+
+def senate_mapping_wiki() -> dict:
+    pass
+
 if __name__ == '__main__':
     main()
-    
+

@@ -72,9 +72,11 @@ CREATE TABLE issues (
 
 DROP TABLE IF EXISTS bill_on;
 CREATE TABLE bill_on (
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
     issue_id INT,
     bill_id INT,
     favorability INT,
+    question_text TEXT,
     FOREIGN KEY(issue_id) REFERENCES issues(issue_id),
     FOREIGN KEY(bill_id) REFERENCES bills(bill_id)
 );
