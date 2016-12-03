@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<body>
+    {% if totals[1] > 0.5 %}
+        <h2>You'll win the election with {{ '%.2f' % (totals[1] * 100) }}% of the vote</h2>
+    {% else %}
+        <h2>You'll lose the election with only {{ '%.2f' % (totals[1] *100) }}% of the vote</h2>
+    {% endif %}
+    <h2>Results by district</h2>
+    {% for district, total in district_results[1].items() %}
+        <h3>District {{ district[2:] }}</h3>
+        <p>{{ '%.2f' % (total*100)  }}%</p>
+        {% if total < 0.5 %}
+            <p>Want to win in this district?</p>
+            <form action="" method="POST">
+                <input type="hidden" value="{{ district }}" />
+                <input type="submit" value="Yes!" />
+            </form>
+        {% endif %}
+        <form action="" method="POST">
+            <input type="hidden" value="{{ district }}" />
+            <input type="submit" value="Show me other districts like this one" />
+        <br />
+    {% endfor %}
+</body>
