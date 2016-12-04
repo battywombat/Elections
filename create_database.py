@@ -76,7 +76,7 @@ def add_rawdata(conn):
         add_year_folder(conn, folder)
 
 def add_year_folder(conn, folder):
-    start, end = folder.split("-")
+    start, _ = folder.split("-")
     path = os.path.join(DATA_ROOT, folder)
     for fp in os.listdir(path):
         if fp == 'bills.csv':

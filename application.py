@@ -126,6 +126,9 @@ LIKE_DISTRICTS_QUERY = '''SELECT v.bill_id, v.title FROM districts d JOIN
                             AND b.bill_id IN(SELECT bill_id FROM bill_on)) AS v 
                             GROUP BY v.bill_id ORDER BY COUNT(v.bill_id) DESC LIMIT 10'''
 DISTRICTS_QUERY = '''SELECT district_id FROM districts WHERE district_id LIKE ?'''
+BILL_ON_QUERY = '''SELECT id, bill_id from bill_on'''
+YEA_QUERY = '''SELECT yea FROM rollcalls WHERE description LIKE "%House Passed%" AND bill_id=?'''
+NAY_QUERY = '''SELECT nay FROM rollcalls WHERE description LIKE "%House Passed%" AND bill_id=?'''
 
 def generate_results(question_answers):
     db = get_db()
@@ -142,7 +145,7 @@ def generate_results(question_answers):
             for congressman, vote in votes:
                 try:
                     districtt, = db.execute(TERM_QUERY, (congressman, date, date))
-                except ValueError as err:
+                except ValueError:
                     cantfind.add(congressman)
                     continue
                 district = districtt[0]
@@ -191,22 +194,27 @@ def calc_vote_total(vote_percent):
         house_voters += population*percent
     return (senate_voters/senate_total, house_voters/house_total)
 
-@application.route("/", methods=['POST', 'GET'])
+@application.route("/", methods=['GET'])
 def main():
-    if request.method == 'GET':
-        questions = get_questions()
-        return render_template('index.html', questions=questions)
-    elif request.method == 'POST':
-        question_answers = {}
-        for answer in request.form:
-            question_id = int(answer)
-            question_answers[question_id] = int(request.form[answer])
-        district_results = generate_results(question_answers)
-        totals = calc_vote_total(district_results)
-        session['answers'] = question_answers
-        session['district_results'] = district_results
-        session['totals'] = totals
-        return render_template('results.html', district_results=district_results, totals=totals)
+    questions = get_questions()
+    return render_template('index.html', questions=questions)
+
+
+@application.route("/results", methods=['POST'])
+def results():
+    question_answers = {}
+    for answer in request.form:
+        question_id = int(answer)
+        question_answers[question_id] = int(request.form[answer])
+    return calc_results(question_answers)
+
+def calc_results(question_answers):
+    district_results = generate_results(question_answers)
+    totals = calc_vote_total(district_results)
+    session['answers'] = question_answers
+    session['district_results'] = district_results
+    session['totals'] = totals
+    return render_template('results.html', district_results=district_results, totals=totals)
 
 @application.route("/towin", methods=['POST'])
 def to_win():
@@ -237,7 +245,6 @@ def to_win():
         my_answer = question_answers[str(bill_on)]
         result.append((question, 1 if my_answer == 2 else 2))
     return render_template('towin.html', bills=result)
-
 
 def find_similar(district, similar=True):
     if 'district' not in request.form:
@@ -278,6 +285,32 @@ def unsimilar():
         return 'no district requested!'
     return find_similar(request.form['district'], False)
 
+def optimize_vote(bill_id):
+    db = get_db()
+    yeacurs = db.execute(YEA_QUERY, (bill_id,))
+    yeatup = yeacurs.fetchone()
+    if not yeatup:
+        yea = 0
+    else:
+        yea = yeatup[0]
+    naycurs = db.execute(NAY_QUERY, (bill_id,))
+    naytup = naycurs.fetchone()
+    if not naytup:
+        nay = 0
+    else:
+        nay = naytup[0]
+    return 1 if yea > nay else 2
+
+@application.route("/winning", methods=["GET"])
+def random_win():
+    db = get_db()
+    bills = db.execute(BILL_ON_QUERY)
+    question_answers = {}
+    for question, bill in bills:
+        vote = optimize_vote(bill)
+        question_answers[question] = vote
+    print(question_answers)
+    return calc_results(question_answers)
 
 
 @application.teardown_appcontext

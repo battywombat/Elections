@@ -2,7 +2,8 @@
 <body>
     <h2>Ohio Elections</h2>
     <h1>Curious how well you would do in an election in Ohio? Take this quiz to find out!</h1>
-    <form action="" method="POST">
+    <a href="/winning">Just tell me how to win!</a>
+    <form action="/results" method="POST">
     {% for question in questions %}
     <p>{{ question[1] }}</p>
     <input name="{{ question[0] }}" type="radio" value="1">

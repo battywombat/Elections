@@ -18,7 +18,7 @@ select district from
 		              (select roll_call_id from
 			       rollcalls join bills
 			       on bills.bill_id=rollcalls.bill_id and bill_number="SB17" and year="2011"
-			       and rollcalls.description like "%Consideration")) as t
+			       and rollcalls.description like "%Passed%")) as t
         join people on
 	people.sponsor_id=t.sponsor_id and t.vote=1) as t
 	join term on t.sponsor_id=term.sponsor_id
