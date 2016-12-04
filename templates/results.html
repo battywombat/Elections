@@ -16,8 +16,8 @@
                 <input type="submit" value="Yes!" />
             </form>
         {% endif %}
-        <form action="" method="POST">
-            <input type="hidden" value="{{ district }}" />
+        <form action="/similar" method="POST">
+            <input name="district" type="hidden" value="{{ district }}" />
             <input type="submit" value="Show me other districts like this one" />
         </form>
         <br />
