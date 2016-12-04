@@ -238,8 +238,8 @@ def to_win():
         result.append((question, 1 if my_answer == 2 else 2))
     return render_template('towin.html', bills=result)
 
-@application.route('/similar', methods=['POST'])
-def similar():
+
+def find_similar(district, similar=True):
     if 'district' not in request.form:
         return 'no district requested!'
     db = get_db()
@@ -256,7 +256,7 @@ def similar():
         similarities[otherdistrict] = same.fetchall()
     result = []
     count = 0
-    for matches in sorted(similarities.items(), reverse=True, key=lambda x: len(x[1])):
+    for matches in sorted(similarities.items(), reverse=similar, key=lambda x: len(x[1])):
         if matches[0] == district:
             continue
         result.append(matches)
@@ -265,9 +265,18 @@ def similar():
             break
     return str(result)
 
+@application.route('/similar', methods=['POST'])
+def similar():
+    if 'district' not in request.form:
+        return 'no district requested'
+    return find_similar(request.form['district'])
+
+
 @application.route("/unsimilar", methods=["POST"])
 def unsimilar():
-    pass
+    if 'district' not in request.form:
+        return 'no district requested!'
+    return find_similar(request.form['district'], False)
 
 
 

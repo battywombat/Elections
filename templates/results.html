@@ -20,6 +20,9 @@
             <input name="district" type="hidden" value="{{ district }}" />
             <input type="submit" value="Show me other districts like this one" />
         </form>
+        <form action="unsimilar" method="POST">
+            <input name="district" type="hidden" value="{{ district }}" />
+            <input type="submit" value="show me districts least like this one" />
         <br />
     {% endfor %}
 </body>
