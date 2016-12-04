@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<body>
+    <h2>
+        {% if district_info[0].startswith("HD") %}
+        House
+        {% else %}
+        Senate
+        {% endif %}
+        District {{ district_info[0][2:] }}
+    </h2>
+    <h3>Representative history</h3>
+    <ul>
+    {% for name, party, start, end in reps %}
+    <li>
+        {{ start }} to {{ end }}: {{ name }} ({{party }})
+    </li>
+    {% endfor %}
+    <ul>
+</body>

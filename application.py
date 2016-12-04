@@ -129,6 +129,9 @@ DISTRICTS_QUERY = '''SELECT district_id FROM districts WHERE district_id LIKE ?'
 BILL_ON_QUERY = '''SELECT id, bill_id from bill_on'''
 YEA_QUERY = '''SELECT yea FROM rollcalls WHERE description LIKE "%House Passed%" AND bill_id=?'''
 NAY_QUERY = '''SELECT nay FROM rollcalls WHERE description LIKE "%House Passed%" AND bill_id=?'''
+REPS_QUERY = '''SELECT p.sponsor_name, t.party, t.start, t.end FROM term t
+                JOIN people p ON p.sponsor_id=t.sponsor_id AND t.district=?'''
+DISTRICT_INFO_QUERY = '''SELECT * FROM districts WHERE district_id=?'''
 
 def generate_results(question_answers):
     db = get_db()
@@ -312,6 +315,13 @@ def random_win():
     print(question_answers)
     return calc_results(question_answers)
 
+@application.route("/districts/<districtid>", methods=["GET"])
+def get_district(districtid):
+    db = get_db()
+    district_info = db.execute(DISTRICT_INFO_QUERY, (districtid,)).fetchone()
+    reps = db.execute(REPS_QUERY, (districtid,)).fetchall()
+    sorted_reps = sorted(reps, key=lambda x: x[2])
+    return render_template("district.html", district_info=district_info, reps=sorted_reps)
 
 @application.teardown_appcontext
 def close_db(error):

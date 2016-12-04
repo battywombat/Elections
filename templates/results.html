@@ -7,7 +7,7 @@
     {% endif %}
     <h2>Results by district</h2>
     {% for district, total in district_results[1].items() %}
-        <h3>District {{ district[2:] }}</h3>
+        <a href="/districts/{{ district }}"><h3>District {{ district[2:] }}</h3></a>
         <p>{{ '%.2f' % (total*100)  }}%</p>
         {% if total < 0.5 %}
             <p>Want to win in this district?</p>
