@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<body>
+    {% if bills|length == 0 %}
+    <h2>There's nothing you could do to improve your vote in this district</h2>
+    {% else %}
+        <h2>Try answering the questions a bit differently</h2>
+        {% for question, answer in bills %}
+        <p>When asked the question</p> 
+        <p><i>{{ question }}</i></p>
+        <p>This district's representative voted
+            {% if answer == 1 %}
+            Yes
+            {% else %}
+            No
+            {% endif %},
+            but you voted the opposite
+        </p>
+        {% endfor %}
+    {% endif %}
+</body>
