@@ -340,7 +340,11 @@ def district(district_id):
 def inject_globals():
     return dict(
         author="Paul Warner",
-        email="pew22@scarletmail.rutgers.edu"
+        email="pew22@scarletmail.rutgers.edu",
+        sources=[
+            ("Ohio State Assembly", "https://www.legislature.ohio.gov/"),
+            ("LegiScan", "https://legiscan.com/OH")
+        ]
     )
 
 application.secret_key = "%s" % os.urandom(24)

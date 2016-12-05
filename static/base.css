@@ -1,5 +1,6 @@
-body {
+html, body {
     margin: 0px;
+    height: 100%;
 }
 
 * {
@@ -12,7 +13,7 @@ body {
     left: 50%;
     top: 50%;
     transform:translate(-50%, -50%);
-    font-size: 5em;
+    font-size: 4em;
     background-color: inherit;
 }
 
@@ -35,8 +36,18 @@ body {
     margin: 0 auto;
 }
 
-footer {
+#wrapper {
+    min-height: 100%;
+    height: auto !important;
+    height: 100%;
+    margin: 0 auto -10em; /* the bottom margin is the negative value of the footer's height */
+}
+
+footer, #push {
     height: 10em;
+}
+
+footer {
     background-color: #4285F4;
     margin-top: 2em;
 }
@@ -61,5 +72,9 @@ footer {
 
 .footer-text > * {
     background-color: inherit;
+}
+
+input {
+    outline-style: solid;
 }
 

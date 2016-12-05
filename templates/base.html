@@ -2,19 +2,22 @@
 <html>
 <head>
     <script src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
-    <link rel=stylesheet type=text/css href="{{ url_for('static', filename='base.css') }}" >
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='base.css') }}" >
     <link href="https://fonts.googleapis.com/css?family=Merriweather" rel="stylesheet"> 
     {% block header %}
     {% endblock %}
 </head>
 <body>
+<div id="wrapper">
     <header>
         <div id="blue-box"><span id="header-text">Ohio Elections</span></div>
         <div id="red-box"></div>
     </header>
-<div id="main-body">
-{% block body %}
-{% endblock %}
+    <div id="main-body">
+        {% block body %}
+        {% endblock %}
+    </div>
+    <div id="push"></div>
 </div>
 {% block footer %}
 <footer>
@@ -22,7 +25,12 @@
         <div class="footer-text">Written by {{ author }}</div>
         <div class="footer-text"><a href="mailto:{{ email }}">Send me an email</a></div>
     </div>
-    <dif id="footer-right">right text</div>
+    <div id="footer-right">
+        <div class="footer-text">Data taken from:</div>
+        {% for name, source in sources %}
+        <div class="footer-text"><a href="{{ source }}">{{ name }}</a></div>
+        {% endfor %}
+    </div>
 </footer>
 {% endblock %}
 </body>
