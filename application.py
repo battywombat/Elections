@@ -1,5 +1,6 @@
 import os
 import sqlite3
+import datetime
 
 from flask import Flask, request, render_template, g, session
 
@@ -54,7 +55,7 @@ def start_vote_percent():
     return start_support
 
 BILL_ID_QUERY = '''SELECT bill_id FROM bill_on WHERE id=?'''
-ROLLCALL_QUERY = '''SELECT roll_call_id, date, description FROM rollcalls
+ROLLCALL_QUERY = '''SELECT roll_call_id, date FROM rollcalls
                     WHERE bill_id=?
                     AND description LIKE "%Passed%"'''
 VOTES_QUERY = """SELECT sponsor_id, vote FROM votes WHERE roll_call_id=?"""
@@ -86,14 +87,9 @@ DELETE_VOTES_QUERY = '''DELETE FROM votes WHERE sponsor_id=?'''
 DELETE_USER_QUERY = '''DELETE FROM people WHERE sponsor_id=?'''
 DELETE_TERM_QUERY = '''DELETE FROM term where sponsor_id=?'''
 SELECT_BILLS = '''SELECT question_text FROM bill_on WHERE bill_id=?'''
-VOTE_ON_QUERY = '''SELECT p.name, v.vote FROM people p, votes v WHERE
-                   p.sponsor_id=v.sponsor_id
-                   AND v.roll_call_id IN(SELECT roll_call_id FROM rollcalls r WHERE r.bill_id=? 
-                                                                                    AND r.description LIKE "%Passed%")
-                   AND p.sponsor_id=?'''
 VOTE_FROM_QUERY = '''SELECT sponsor_id, vote FROM votes WHERE '''
-BILL_ON_QUERY = '''SELECT id FROM bill_on WHERE bill_id=?'''
-DISTRICTS_SIMILAR_QUERY = '''SELECT b.bill_id FROM bills b WHERE
+BILL_ON_BY_ID_QUERY = '''SELECT id FROM bill_on WHERE bill_id=?'''
+DISTRICTS_SIMILAR_QUERY = '''SELECT question_text FROM bill_on b WHERE
                     EXISTS(SELECT r.roll_call_id FROM rollcalls r WHERE
                     b.bill_id=r.bill_id
                     AND r.description LIKE "%Passed%" 
@@ -106,8 +102,7 @@ DISTRICTS_SIMILAR_QUERY = '''SELECT b.bill_id FROM bills b WHERE
                         AND v1.sponsor_id IN(SELECT sponsor_id FROM term t
                                             WHERE v1.sponsor_id=t.sponsor_id 
                                             AND t.district=?) 
-                        AND v1.vote=v2.vote))
-                    AND b.bill_id IN(SELECT bill_id FROM bill_on)'''
+                        AND v1.vote=v2.vote))'''
 
 LIKE_DISTRICTS_QUERY = '''SELECT v.bill_id, v.title FROM districts d JOIN
                           (SELECT b.bill_id, b.title FROM bills b WHERE
@@ -132,24 +127,23 @@ NAY_QUERY = '''SELECT nay FROM rollcalls WHERE description LIKE "%House Passed%"
 REPS_QUERY = '''SELECT p.sponsor_name, t.party, t.start, t.end FROM term t
                 JOIN people p ON p.sponsor_id=t.sponsor_id AND t.district=?'''
 DISTRICT_INFO_QUERY = '''SELECT * FROM districts WHERE district_id=?'''
+QUESTION_QUERY = '''SELECT question_text FROM bill_on WHERE bill_id=?'''
 
 def generate_results(question_answers):
     db = get_db()
     vote_percents = start_vote_percent()
     senate, house = vote_percents
-    cantfind = set()
     for question, answer in question_answers.items():
         bill, = db.execute(BILL_ID_QUERY, (question,)).fetchone()
         rollcurs = db.execute(ROLLCALL_QUERY, (bill,))
         if not rollcurs.rowcount:
             continue
-        for rollcall, date, description in rollcurs:
+        for rollcall, date in rollcurs:
             votes = db.execute(VOTES_QUERY, (rollcall,))
             for congressman, vote in votes:
                 try:
                     districtt, = db.execute(TERM_QUERY, (congressman, date, date))
                 except ValueError:
-                    cantfind.add(congressman)
                     continue
                 district = districtt[0]
                 # count, = db.execute(ROLLCALL_COUNT_QUERY, (rollcall,)).fetchone()
@@ -179,7 +173,6 @@ def generate_results(question_answers):
             senate[district] = sum(senate[district])/len(senate[district])
         else:
             senate[district] = .5
-    print(cantfind)
     return vote_percents
 
 def calc_vote_total(vote_percent):
@@ -202,7 +195,6 @@ def main():
     questions = get_questions()
     return render_template('index.html', questions=questions)
 
-
 @application.route("/results", methods=['POST'])
 def results():
     question_answers = {}
@@ -214,10 +206,11 @@ def results():
 def calc_results(question_answers):
     district_results = generate_results(question_answers)
     totals = calc_vote_total(district_results)
+    sorted_results = sorted(district_results[1].items(), key=lambda x: int(x[0][2:]))
     session['answers'] = question_answers
     session['district_results'] = district_results
     session['totals'] = totals
-    return render_template('results.html', district_results=district_results, totals=totals)
+    return render_template('results.html', district_results=sorted_results, totals=totals)
 
 @application.route("/towin", methods=['POST'])
 def to_win():
@@ -235,7 +228,7 @@ def to_win():
         rollcurs = db.execute(ROLLCALL_QUERY, (bill,))
         if not rollcurs.rowcount:
             continue
-        for rollcall, _, _ in rollcurs:
+        for rollcall, _ in rollcurs:
             db.execute(INSERT_VOTES_QUERY, (rollcall, 1, answer))
     bills = db.execute(DISTRICT_DIFFERENCE_QUERY, ("USER", district))
     db.execute(DELETE_TERM_QUERY, (1,))
@@ -244,7 +237,7 @@ def to_win():
     result = []
     for bill, in bills:
         question, = db.execute(SELECT_BILLS, (bill,)).fetchone()
-        bill_on, = db.execute(BILL_ON_QUERY, (bill,)).fetchone()
+        bill_on, = db.execute(BILL_ON_BY_ID_QUERY, (bill,)).fetchone()
         my_answer = question_answers[str(bill_on)]
         result.append((question, 1 if my_answer == 2 else 2))
     return render_template('towin.html', bills=result)
@@ -273,7 +266,8 @@ def find_similar(district, similar=True):
         count += 1
         if count > 10:
             break
-    return str(result)
+    return render_template('similar.html', maindistrict=district,
+                           districts=result, agree=similar)
 
 @application.route('/similar', methods=['POST'])
 def similar():
@@ -312,7 +306,6 @@ def random_win():
     for question, bill in bills:
         vote = optimize_vote(bill)
         question_answers[question] = vote
-    print(question_answers)
     return calc_results(question_answers)
 
 @application.route("/districts/<districtid>", methods=["GET"])
@@ -320,13 +313,28 @@ def get_district(districtid):
     db = get_db()
     district_info = db.execute(DISTRICT_INFO_QUERY, (districtid,)).fetchone()
     reps = db.execute(REPS_QUERY, (districtid,)).fetchall()
-    sorted_reps = sorted(reps, key=lambda x: x[2])
+    sorted_reps = sorted(reps, key=lambda x: datetime.datetime.strptime(x[3], "%Y-%m-%d"))
     return render_template("district.html", district_info=district_info, reps=sorted_reps)
 
 @application.teardown_appcontext
 def close_db(error):
     if hasattr(g, 'db'):
         g.db.close()
+
+@application.template_filter("date")
+def datefilter(date):
+    if not date:
+        return 'Unknown'
+    dateobj = datetime.datetime.strptime(date, "%Y-%m-%d")
+    return dateobj.strftime("%B %d, %Y")
+
+@application.template_filter("district")
+def district(district_id):
+    if district_id.startswith("SD"):
+        house = "Senate"
+    else:
+        house = "House"
+    return "{} District {}".format(house, district_id[2:])
 
 application.secret_key = "%s" % os.urandom(24)
 

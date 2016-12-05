@@ -6,7 +6,7 @@
         <h2>You'll lose the election with only {{ '%.2f' % (totals[1] *100) }}% of the vote</h2>
     {% endif %}
     <h2>Results by district</h2>
-    {% for district, total in district_results[1].items() %}
+    {% for district, total in district_results %}
         <a href="/districts/{{ district }}"><h3>District {{ district[2:] }}</h3></a>
         <p>{{ '%.2f' % (total*100)  }}%</p>
         {% if total < 0.5 %}

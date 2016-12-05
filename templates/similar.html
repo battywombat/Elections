@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<body>
+    <h1>Top 10 districts
+        {% if agree %}
+         similar 
+        {% else %}
+        dissimilar
+        {% endif %}
+        {{ maindistrict|district }}</h1>
+    {% for district, bills in districts %}
+    <h2>{{ district|district }} agrees on</h2>
+    {% if bills|length == 0 %}
+    <p> Nothing! </p>
+    {% else %}  
+        <ul>
+            {% for question in bills %}
+            <li>
+                {{ question[0] }}
+            </li>
+            {% endfor %}
+        </ul>
+    {% endif %}
+    {% endfor %}
+</body>

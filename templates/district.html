@@ -12,7 +12,7 @@
     <ul>
     {% for name, party, start, end in reps %}
     <li>
-        {{ start }} to {{ end }}: {{ name }} ({{party }})
+        {{ start|date }} to {{ end|date }}: {{ name }} ({{party }})
     </li>
     {% endfor %}
     <ul>
