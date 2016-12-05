@@ -1,3 +1,4 @@
 legislature.db
 .dbtime
 *.pyc
+.dbtime
