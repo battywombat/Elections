@@ -20,14 +20,6 @@
                 <input class="result-submit" type="submit" value="How can I win?" />
             </form>
         {% endif %}
-        <form action="/similar" method="POST">
-            <input name="district" type="hidden" value="{{ district }}" />
-            <input class="result-submit" type="submit" value="Show me other districts like this one" />
-        </form>
-        <form action="/unsimilar" method="POST">
-            <input name="district" type="hidden" value="{{ district }}" />
-            <input class="result-submit" type="submit" value="show me districts least like this one" />
-        </form>
     </div>
         <br />
     {% endfor %}
