@@ -5,5 +5,10 @@
 }
 
 .district-result {
-    
+    outline-width: .5px;
+    outline-color: black;
+    outline-style: solid;
+    outline-color: #cdd2d2;
+    margin-bottom: 2em;
+    text-align: center;
 }

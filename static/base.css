@@ -5,7 +5,7 @@ html, body {
 
 * {
     font-family: 'Merriweather', 'serif';
-    background-color: #f8f8f8;
+    background-color: #f9f9f9;
 }
 
 #header-text {
@@ -74,7 +74,15 @@ footer {
     background-color: inherit;
 }
 
-input {
-    outline-style: solid;
+input[type="submit"] {
+    border-style: solid;
+    border-color: #cdd2d2;
+    border-width: 1px;
+    padding: 0px;
+    margin: 0px;
+}
+
+input[type="submit"]:hover {
+    border-color: black;
 }
 
