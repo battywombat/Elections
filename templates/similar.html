@@ -1,5 +1,5 @@
-<!DOCTYPE html>
-<body>
+{% extends "base.html" %}
+<div>
     <h1>Top 10 districts
         {% if agree %}
          similar 
@@ -21,4 +21,5 @@
         </ul>
     {% endif %}
     {% endfor %}
-</body>
+</div>
+{% endblock %}

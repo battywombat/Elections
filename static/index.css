@@ -1,0 +1,11 @@
+
+.question {
+    outline-width: .5px;
+    outline-color: black;
+    outline-style: solid;
+    outline-color: #cdd2d2;
+}
+
+#main-body {
+    text-align: center;
+}

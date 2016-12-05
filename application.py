@@ -336,6 +336,13 @@ def district(district_id):
         house = "House"
     return "{} District {}".format(house, district_id[2:])
 
+@application.context_processor
+def inject_globals():
+    return dict(
+        author="Paul Warner",
+        email="pew22@scarletmail.rutgers.edu"
+    )
+
 application.secret_key = "%s" % os.urandom(24)
 
 if __name__ == '__main__':

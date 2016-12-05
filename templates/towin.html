@@ -1,5 +1,6 @@
-<!DOCTYPE html>
-<body>
+{% extends "base.html" %}
+{% block body %}
+<div>
     {% if bills|length == 0 %}
     <h2>There's nothing you could do to improve your vote in this district</h2>
     {% else %}
@@ -17,4 +18,5 @@
         </p>
         {% endfor %}
     {% endif %}
-</body>
+</div>
+{% endblock %}

@@ -1,5 +1,6 @@
-<!DOCTYPE html>
-<body>
+{% extends "base.html" %}
+{% block body %}
+<div>
     <h2>
         {% if district_info[0].startswith("HD") %}
         House
@@ -16,4 +17,5 @@
     </li>
     {% endfor %}
     <ul>
-</body>
+</div>
+{% endblock %}

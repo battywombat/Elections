@@ -1,5 +1,6 @@
-<!DOCTYPE html>
-<body>
+{% extends "base.html" %}
+{% block body %}
+<div>
     {% if totals[1] > 0.5 %}
         <h2>You'll win the election with {{ '%.2f' % (totals[1] * 100) }}% of the vote</h2>
     {% else %}
@@ -26,4 +27,5 @@
         </form>
         <br />
     {% endfor %}
-</body>
+</div>
+{% endblock %}
