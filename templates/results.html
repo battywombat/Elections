@@ -10,6 +10,9 @@
         <h2>You'll lose the election with only {{ '%.2f' % (totals[1] *100) }}% of the vote</h2>
     {% endif %}
     <p>Your answers</p>
+    {% if question_answers.items()|length == 0 %}
+    <p>You gave no answers!</p>
+    {% else %}
     <ol>
         {% for question, answer in question_answers.items() %}
             <li>
@@ -27,6 +30,7 @@
     <form action="/reset" method="GET">
         <input class="result-submit" type="submit" value="Take the quiz again" />
     </form>
+    {% endif %}
     <h2>Results by district</h2>
     {% for district, total in district_results %}
     <div class="district-result">

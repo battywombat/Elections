@@ -141,29 +141,17 @@ def generate_results(question_answers):
     senate, house = vote_percents
     for question, answer in question_answers.items():
         bill, = db.execute(BILL_ID_QUERY, (question,)).fetchone()
-        rollcurs = db.execute(ROLLCALL_QUERY, (bill,))
-        if not rollcurs.rowcount:
+        rollcalls = db.execute(ROLLCALL_QUERY, (bill,))
+        if not rollcalls.rowcount:
             continue
-        for rollcall, date in rollcurs:
+        for rollcall, date in rollcalls:
             votes = db.execute(VOTES_QUERY, (rollcall,))
             for congressman, vote in votes:
-                try:
-                    districtt, = db.execute(TERM_QUERY, (congressman, date, date))
-                except ValueError:
+                districtt = db.execute(TERM_QUERY, (congressman, date, date)).fetchone()
+                if not districtt:
+                    print("Nothing here")
                     continue
                 district = districtt[0]
-                # count, = db.execute(ROLLCALL_COUNT_QUERY, (rollcall,)).fetchone()
-                # oppose, = db.execute(OPPOSING_QUERY, (rollcall, vote)).fetchone()
-                # modif = (oppose/(count-1))/2
-                # if not modif:
-                #     # print("No one opposing the bill {}, so we're skipping it".format(bill))
-                #     continue
-                # if vote == answer:
-                #     modif += .5
-                # if district.startswith("SD"):
-                #     senate[district].append(modif)
-                # else:
-                #     house[district].append(modif)
                 modif = 1 if vote == answer else 0
                 if district.startswith("SD"):
                     senate[district].append(modif)
