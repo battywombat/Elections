@@ -1,0 +1,11 @@
+{% extends "base.html" %}
+{% block body %}
+    <h2>{{ name }}</h2>
+    <ol>
+        {% for question, answer in answers %}
+            <li>
+                {{ question }}: {{ answer|answer }}
+            </li>
+        {% endfor %}
+    </ol>
+{% endblock %}

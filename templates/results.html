@@ -16,6 +16,17 @@
                 {{ question|question }}: {{ answer|answer }}
         {% endfor %}
     </ol>
+    <p>Would you like to save your results in our database?</p>
+    <form action="/adduservote" method="POST">
+        <input name="name" type="text" value="" />
+        <input class="result-submit" type="submit" value="Save" />
+    </form>
+    <form action="/similarusers" method="GET">
+        <input class="result-submit" type="submit" value="Show users similar to me" />
+    </form>
+    <form action="/reset" method="GET">
+        <input class="result-submit" type="submit" value="Take the quiz again" />
+    </form>
     <h2>Results by district</h2>
     {% for district, total in district_results %}
     <div class="district-result">

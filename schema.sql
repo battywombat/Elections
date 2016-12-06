@@ -81,3 +81,18 @@ CREATE TABLE bill_on (
     FOREIGN KEY(bill_id) REFERENCES bills(bill_id)
 );
 
+DROP TABLE IF EXISTS users;
+CREATE TABLE users (
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    name TEXT
+);
+
+DROP TABLE IF EXISTS user_votes;
+CREATE TABLE user_votes (
+    user_id INTEGER,
+    question_id INTEGER,
+    question_vote INTEGER,
+    FOREIGN KEY(user_id) REFERENCES users(id),
+    FOREIGN KEY(question_id) REFERENCES bill_on(id)
+);
+

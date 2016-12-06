@@ -2,7 +2,7 @@ import os
 import sqlite3
 import datetime
 
-from flask import Flask, request, render_template, g, session
+from flask import Flask, request, render_template, g, session, redirect
 
 from create_database import create_database
 
@@ -80,8 +80,8 @@ DISTRICT_DIFFERENCE_QUERY = '''SELECT b.bill_id FROM bills b WHERE
                                             AND t.district=?) 
                         AND v1.vote!=v2.vote))
                     AND b.bill_id IN(SELECT bill_id FROM bill_on)'''
-INSERT_USER_QUERY = '''INSERT INTO people VALUES(1, "USER")'''
-INSERT_USER_TERM_QUERY = '''INSERT INTO term(sponsor_id, district) VALUES(1,"USER")'''
+INSERT_PEOPLE_QUERY = '''INSERT INTO people VALUES(1, "USER")'''
+INSERT_PEOPLE_TERM_QUERY = '''INSERT INTO term(sponsor_id, district) VALUES(1,"USER")'''
 INSERT_VOTES_QUERY = '''INSERT INTO votes VALUES(?,?,?)'''
 DELETE_VOTES_QUERY = '''DELETE FROM votes WHERE sponsor_id=?'''
 DELETE_USER_QUERY = '''DELETE FROM people WHERE sponsor_id=?'''
@@ -129,6 +129,11 @@ REPS_QUERY = '''SELECT p.sponsor_name, t.party, t.start, t.end FROM term t
 DISTRICT_INFO_QUERY = '''SELECT * FROM districts WHERE district_id=?'''
 QUESTION_QUERY = '''SELECT question_text FROM bill_on WHERE bill_id=?'''
 QUESTION_TEXT_QUERY = '''SELECT question_text FROM bill_on WHERE id=?'''
+INSERT_USER_QUERY = '''INSERT INTO users(name) VALUES(?)'''
+INSERT_USER_VOTES_QUERY = '''INSERT INTO user_votes VALUES(?,?,?)'''
+USERS_QUERY = '''SELECT * FROM users'''
+USER_VOTES_QUERY = '''SELECT question_id, question_vote FROM user_votes WHERE user_id=?'''
+USER_NAME_QUERY = '''SELECT name FROM users WHERE id=?'''
 
 def generate_results(question_answers):
     db = get_db()
@@ -223,8 +228,8 @@ def to_win():
     db = get_db()
     district = request.form['district']
     question_answers = session['answers']
-    db.execute(INSERT_USER_QUERY)
-    db.execute(INSERT_USER_TERM_QUERY)
+    db.execute(INSERT_PEOPLE_QUERY)
+    db.execute(INSERT_PEOPLE_TERM_QUERY)
     for question, answer in question_answers.items():
         bill, = db.execute(BILL_ID_QUERY, (question,)).fetchone()
         rollcurs = db.execute(ROLLCALL_QUERY, (bill,))
@@ -232,10 +237,12 @@ def to_win():
             continue
         for rollcall, _ in rollcurs:
             db.execute(INSERT_VOTES_QUERY, (rollcall, 1, answer))
+    db.commit()
     bills = db.execute(DISTRICT_DIFFERENCE_QUERY, ("USER", district))
     db.execute(DELETE_TERM_QUERY, (1,))
     db.execute(DELETE_VOTES_QUERY, (1,))
     db.execute(DELETE_USER_QUERY, (1,))
+    db.commit()
     result = []
     for bill, in bills:
         question, = db.execute(SELECT_BILLS, (bill,)).fetchone()
@@ -318,6 +325,58 @@ def get_district(districtid):
     sorted_reps = sorted(reps, key=lambda x: datetime.datetime.strptime(x[3], "%Y-%m-%d"))
     return render_template("district.html", district_info=district_info, reps=sorted_reps)
 
+@application.route("/users/<userid>")
+def get_user(userid):
+    db = get_db()
+    name, = db.execute(USER_NAME_QUERY, (userid,)).fetchone()
+    votes = db.execute(USER_VOTES_QUERY, (userid,))
+    answers = []
+    for question_id, vote in votes:
+        question_text, = db.execute(QUESTION_TEXT_QUERY, (question_id,)).fetchone()
+        answers.append((question_text, vote))
+    return render_template('user.html', name=name, answers=answers)
+
+@application.route("/adduservote", methods=["POST"])
+def add_user_vote():
+    if 'name' not in request.form:
+        return "Couldn't add your results without a name"
+    name = request.form['name']
+    db = get_db()
+    curs = db.execute(INSERT_USER_QUERY, (name,))
+    user_id = curs.lastrowid
+    for question, answer in session['answers'].items():
+        curs = db.execute(INSERT_USER_VOTES_QUERY, (user_id, question, answer))
+    db.commit()
+    return redirect('/users/{}'.format(user_id))
+
+def user_similar_count(user, answers):
+    db = get_db()
+    votes = db.execute(USER_VOTES_QUERY, (user,))
+    return len([question for question, answer in votes if answers[str(question)] == answer])
+
+@application.route("/similarusers", methods=['GET'])
+def similar_users():
+    if 'answers' not in session:
+        return "No active session at this time"
+    db = get_db()
+    answers = session['answers']
+    users = db.execute(USERS_QUERY)
+    rankings = []
+    for user_id, user_name in users:
+        rankings.append((user_name, user_id, user_similar_count(user_id, answers)))
+    rankings.sort(key=lambda x: x[2], reverse=True)
+    return render_template('rankings.html', rankings=rankings)
+
+@application.route("/reset", methods=["GET"])
+def reset():
+    if 'answers' in session:
+        del session['answers']
+    if 'district_results' in session:
+        del session['district_results']
+    if 'totals' in session:
+        del session['totals']
+    return redirect('/')
+
 @application.teardown_appcontext
 def close_db(error):
     if hasattr(g, 'db'):
@@ -346,7 +405,6 @@ def question_filter(question_id):
 
 @application.template_filter("answer")
 def answer_filter(answer):
-    print(answer)
     return "Yes" if answer == 1 else "No"
 
 @application.context_processor
