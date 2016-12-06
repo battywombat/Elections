@@ -402,7 +402,8 @@ def inject_globals():
         email="pew22@scarletmail.rutgers.edu",
         sources=[
             ("Ohio State Assembly", "https://www.legislature.ohio.gov/"),
-            ("LegiScan", "https://legiscan.com/OH")
+            ("LegiScan", "https://legiscan.com/OH"),
+            ("Wikipedia", "https://wikipedia.org")
         ]
     )
 
