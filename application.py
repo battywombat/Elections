@@ -134,6 +134,9 @@ INSERT_USER_VOTES_QUERY = '''INSERT INTO user_votes VALUES(?,?,?)'''
 USERS_QUERY = '''SELECT * FROM users'''
 USER_VOTES_QUERY = '''SELECT question_id, question_vote FROM user_votes WHERE user_id=?'''
 USER_NAME_QUERY = '''SELECT name FROM users WHERE id=?'''
+USER_COUNT_QUERY = '''SELECT COUNT(*) FROM users WHERE id=?'''
+COUNT_DISTRICT_QUERY = '''SELECT COUNT(*) FROM districts WHERE district_id=?'''
+
 
 def generate_results(question_answers):
     db = get_db()
@@ -307,6 +310,9 @@ def random_win():
 @application.route("/districts/<districtid>", methods=["GET"])
 def get_district(districtid):
     db = get_db()
+    count, = db.execute(COUNT_DISTRICT_QUERY, (districtid,)).fetchone()
+    if not count:
+        return render_template('404.html'), 404
     district_info = db.execute(DISTRICT_INFO_QUERY, (districtid,)).fetchone()
     reps = db.execute(REPS_QUERY, (districtid,)).fetchall()
     sorted_reps = sorted(reps, key=lambda x: datetime.datetime.strptime(x[3], "%Y-%m-%d"))
@@ -315,6 +321,9 @@ def get_district(districtid):
 @application.route("/users/<userid>")
 def get_user(userid):
     db = get_db()
+    count, = db.execute(USER_COUNT_QUERY, (userid,)).fetchone()
+    if not count:
+        return render_template('404.html'), 404
     name, = db.execute(USER_NAME_QUERY, (userid,)).fetchone()
     votes = db.execute(USER_VOTES_QUERY, (userid,))
     answers = []
@@ -363,6 +372,10 @@ def reset():
     if 'totals' in session:
         del session['totals']
     return redirect('/')
+
+@application.errorhandler(404)
+def page_not_found(e):
+    return render_template('404.html'), 404
 
 @application.teardown_appcontext
 def close_db(error):
