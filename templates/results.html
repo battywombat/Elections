@@ -9,6 +9,13 @@
     {% else %}
         <h2>You'll lose the election with only {{ '%.2f' % (totals[1] *100) }}% of the vote</h2>
     {% endif %}
+    <p>Your answers</p>
+    <ol>
+        {% for question, answer in question_answers.items() %}
+            <li>
+                {{ question|question }}: {{ answer|answer }}
+        {% endfor %}
+    </ol>
     <h2>Results by district</h2>
     {% for district, total in district_results %}
     <div class="district-result">

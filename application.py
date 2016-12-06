@@ -15,18 +15,18 @@ def write_modtime(fp):
     with open(MODTIME_FILE, 'w') as mfile:
         mfile.write(str(os.path.getmtime(fp)))
 
-if not os.path.exists(MODTIME_FILE) or not os.path.exists(DATABASE_PATH):
-    print('creating new database...')
-    create_database(DATABASE_PATH)
-    write_modtime(DATABASE_PATH)
-else:
-    with open(MODTIME_FILE, 'r') as f:
-        last_modtime = float(f.read())
-    current_modtime = os.path.getmtime(DATABASE_PATH)
-    if current_modtime > last_modtime:
-        print('creating new database')
-        create_database(DATABASE_PATH)
-        write_modtime(DATABASE_PATH)
+# if not os.path.exists(MODTIME_FILE) or not os.path.exists(DATABASE_PATH):
+#     print('creating new database...')
+#     create_database(DATABASE_PATH)
+#     write_modtime(DATABASE_PATH)
+# else:
+#     with open(MODTIME_FILE, 'r') as f:
+#         last_modtime = float(f.read())
+#     current_modtime = os.path.getmtime(DATABASE_PATH)
+#     if current_modtime > last_modtime:
+#         print('creating new database')
+#         create_database(DATABASE_PATH)
+#         write_modtime(DATABASE_PATH)
 
 def get_db():
     if not hasattr(g, 'db'):
@@ -128,6 +128,7 @@ REPS_QUERY = '''SELECT p.sponsor_name, t.party, t.start, t.end FROM term t
                 JOIN people p ON p.sponsor_id=t.sponsor_id AND t.district=?'''
 DISTRICT_INFO_QUERY = '''SELECT * FROM districts WHERE district_id=?'''
 QUESTION_QUERY = '''SELECT question_text FROM bill_on WHERE bill_id=?'''
+QUESTION_TEXT_QUERY = '''SELECT question_text FROM bill_on WHERE id=?'''
 
 def generate_results(question_answers):
     db = get_db()
@@ -210,7 +211,8 @@ def calc_results(question_answers):
     session['answers'] = question_answers
     session['district_results'] = district_results
     session['totals'] = totals
-    return render_template('results.html', district_results=sorted_results, totals=totals)
+    return render_template('results.html', question_answers=question_answers,
+                           district_results=sorted_results, totals=totals)
 
 @application.route("/towin", methods=['POST'])
 def to_win():
@@ -335,6 +337,17 @@ def district(district_id):
     else:
         house = "House"
     return "{} District {}".format(house, district_id[2:])
+
+@application.template_filter("question")
+def question_filter(question_id):
+    db = get_db()
+    question, = db.execute(QUESTION_TEXT_QUERY, (question_id,))
+    return question[0]
+
+@application.template_filter("answer")
+def answer_filter(answer):
+    print(answer)
+    return "Yes" if answer == 1 else "No"
 
 @application.context_processor
 def inject_globals():

@@ -21,7 +21,7 @@ BILLS_TO_ISSUES = {
     1:[("SB184", 2007, 1, "Do you believe people should be allowed to use deadly force on unknown persons within their own property?"), 
        ("HB234", 2013, 2, "Should potential gun buyers be compelled to complete a full criminal background check?"),
        ("SB17", 2011, 1, "Sholud it be legal to carry a gun in a public place such as a school, restaurant or bar?")],
-    2:[("HB200", 2013, 2, "Should a physican be required to carry out an ultrasound of a pregnant woman no less than 48 hours before carrying out an abortion?"),
+    2:[("HB200", 2013, 2, "Should a physican be required to carry out an ultrasound of a pregnant woman no less than 48 hours before an abortion?"),
        ("HB294", 2015, 2, "Should the state defund Planned Parenthood, an organization that provides low income women with abortions and other reproductive care?"),
        ("HB64", 2015, 2, "Should medicaid funds be prevented from use for abortions?")],
     3:[("HB523", 2015, 1, "Should doctors be allowed to perscribe marijuana as a pain killer?"),
