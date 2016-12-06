@@ -149,7 +149,6 @@ def generate_results(question_answers):
             for congressman, vote in votes:
                 districtt = db.execute(TERM_QUERY, (congressman, date, date)).fetchone()
                 if not districtt:
-                    print("Nothing here")
                     continue
                 district = districtt[0]
                 modif = 1 if vote == answer else 0
