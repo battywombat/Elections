@@ -1,9 +1,13 @@
 {% extends "base.html" %}
 {% block body %}
-    <ol>
-    {% for name, id, votes in rankings %}
-    <li>
-        <a href="/users/{{ id }}">{{ name }}</a> ({{votes}})
-    </li>
-    {% endfor %}
+    {% if rankings|length == 0 %}
+    <p>I can't find anybody quite like you!</p>
+    {% else %}
+        <ol>
+        {% for name, id, votes in rankings %}
+        <li>
+            <a href="/users/{{ id }}">{{ name }}</a> ({{votes}})
+        </li>
+        {% endfor %}
+    {% endif %}
 {% endblock %}
