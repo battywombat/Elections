@@ -339,7 +339,7 @@ def add_user_vote():
 def user_similar_count(user, answers):
     db = get_db()
     votes = db.execute(USER_VOTES_QUERY, (user,))
-    return len([question for question, answer in votes if answers[str(question)] == answer])
+    return len([question for question, answer in votes if str(question) in answers and answers[str(question)] == answer])
 
 @application.route("/similarusers", methods=['GET'])
 def similar_users():
