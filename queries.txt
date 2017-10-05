@@ -1,50 +1,82 @@
-1. All legislators working in the current session
-select * from term JOIN people ON term.sponsor_id=people.sponsor_id and term.end="2016-11-04" LIMIT 10;
-16973|9|House|Democrat|2015-01-06|2016-11-04|16973|Janine Boyd
-16984|81|House|Republican|2015-01-06|2016-11-04|16984|Robert Mccolley
-13313|30|House|Republican|2011-09-14|2016-11-04|13313|Louis Terhar
-13835|15|House|Democrat|2012-12-15|2016-11-04|13835|Nicholas Celebrezze
-16982|55|House|Republican|2015-01-06|2016-11-04|16982|Nathan Manning
-13527|96|House|Democrat|2011-12-15|2016-11-04|13527|Jack Cera
-12655|50|House|Republican|2011-02-03|2016-11-04|12655|Christina Hagan
-16966|85|House|Republican|2015-01-06|2016-11-04|16966|Nino Vitale
-10996|21|House|Republican|2011-01-03|2016-11-04|10996|Mike Duffey
-11544|44|House|Democrat|2011-01-03|2016-11-04|11544|Michael Ashford
+BILL_ID_QUERY = '''SELECT bill_id FROM bill_on WHERE id=?'''
+ROLLCALL_QUERY = '''SELECT roll_call_id, date FROM rollcalls
+                    WHERE bill_id=?
+                    AND description LIKE "%Passed%"'''
+VOTES_QUERY = """SELECT sponsor_id, vote FROM votes WHERE roll_call_id=?"""
+ROLLCALL_COUNT_QUERY = '''SELECT COUNT(*) FROM votes where roll_call_id=?'''
+FAVORING_QUERY = '''SELECT COUNT(*) FROM votes WHERE roll_call_id=? AND vote=?'''
+OPPOSING_QUERY = '''SELECT COUNT(*) FROM votes WHERE roll_call_id=? AND vote!=?'''
+TERM_QUERY = '''SELECT district FROM term WHERE sponsor_id=? and start<=? and end>=?'''
+POPULATION_QUERY = '''SELECT population FROM districts WHERE district_id=?'''
+TOTAL_POPULATION_QUERY = '''SELECT SUM(population) FROM districts WHERE district_id LIKE ?'''
+DISTRICT_DIFFERENCE_QUERY = '''SELECT b.bill_id FROM bills b WHERE
+                    EXISTS(SELECT r.roll_call_id FROM rollcalls r WHERE
+                    b.bill_id=r.bill_id
+                    AND r.description LIKE "%Passed%" 
+                    AND EXISTS(SELECT v1.roll_call_id FROM votes v1, votes v2 WHERE 
+                        r.roll_call_id=v1.roll_call_id 
+                        AND v1.roll_call_id=v2.roll_call_id
+                        AND v2.sponsor_id IN(SELECT sponsor_id FROM term t
+                                              WHERE v2.sponsor_id=t.sponsor_id
+                                              AND t.district=?)
+                        AND v1.sponsor_id IN(SELECT sponsor_id FROM term t
+                                            WHERE v1.sponsor_id=t.sponsor_id 
+                                            AND t.district=?) 
+                        AND v1.vote!=v2.vote))
+                    AND b.bill_id IN(SELECT bill_id FROM bill_on)'''
+INSERT_PEOPLE_QUERY = '''INSERT INTO people VALUES(1, "USER")'''
+INSERT_PEOPLE_TERM_QUERY = '''INSERT INTO term(sponsor_id, district) VALUES(1,"USER")'''
+INSERT_VOTES_QUERY = '''INSERT INTO votes VALUES(?,?,?)'''
+DELETE_VOTES_QUERY = '''DELETE FROM votes WHERE sponsor_id=?'''
+DELETE_USER_QUERY = '''DELETE FROM people WHERE sponsor_id=?'''
+DELETE_TERM_QUERY = '''DELETE FROM term where sponsor_id=?'''
+SELECT_BILLS = '''SELECT question_text FROM bill_on WHERE bill_id=?'''
+VOTE_FROM_QUERY = '''SELECT sponsor_id, vote FROM votes WHERE '''
+BILL_ON_BY_ID_QUERY = '''SELECT id FROM bill_on WHERE bill_id=?'''
+DISTRICTS_SIMILAR_QUERY = '''SELECT question_text FROM bill_on b WHERE
+                    EXISTS(SELECT r.roll_call_id FROM rollcalls r WHERE
+                    b.bill_id=r.bill_id
+                    AND r.description LIKE "%Passed%" 
+                    AND EXISTS(SELECT v1.roll_call_id FROM votes v1, votes v2 WHERE 
+                        r.roll_call_id=v1.roll_call_id 
+                        AND v1.roll_call_id=v2.roll_call_id
+                        AND v2.sponsor_id IN(SELECT sponsor_id FROM term t
+                                              WHERE v2.sponsor_id=t.sponsor_id
+                                              AND t.district=?)
+                        AND v1.sponsor_id IN(SELECT sponsor_id FROM term t
+                                            WHERE v1.sponsor_id=t.sponsor_id 
+                                            AND t.district=?) 
+                        AND v1.vote=v2.vote))'''
 
-2. All districts whose representatives voted for SB17 2011, a bill to allow open carry of guns in bars.
-select district from
-       (select * from (select sponsor_id, vote
-       	       	       from votes where roll_call_id in
-		              (select roll_call_id from
-			       rollcalls join bills
-			       on bills.bill_id=rollcalls.bill_id and bill_number="SB17" and year="2011"
-			       and rollcalls.description like "%Passed%")) as t
-        join people on
-	people.sponsor_id=t.sponsor_id and t.vote=1) as t
-	join term on t.sponsor_id=term.sponsor_id
-	limit 10;
-HD21
-SD3
-HD83
-SD1
-HD22
-SD16
-HD54
-SD7
-HD48
-SD29
-
-3. All bills whose passage would favor expanded gun rights.
-select * from bills,
-       	      (select * from bill_on
-	       join issues on
-	       bill_on.issue_id=issues.issue_id) as t
-where bills.bill_id=t.bill_id
-and t.issue_name="Guns"
-and t.favorability=1;
-
-SB184|15858|2007|Self-defense/defend another-civil immunity/ presume acted properly|1|15858|1|1|Guns
-SB17|253361|2011|To permit a concealed carry licensee to possess a firearm in a liquor permit premises, or an open air arena, for which a D permit has been issued if the licensee is not consuming beer or intoxicating liquor or under the influence of alcohol or a drug of abuse, to modify the offense of improperly handling firearms in a motor vehicle as it applies to concealed carry licensees, and to authorize the expungement of a prior conviction of improperly handling firearms in a motor vehicle that no longer would be a crime under the bill.|1|253361|1|1|Guns
-
-
-
+LIKE_DISTRICTS_QUERY = '''SELECT v.bill_id, v.title FROM districts d JOIN
+                          (SELECT b.bill_id, b.title FROM bills b WHERE
+                            EXISTS(SELECT r.roll_call_id FROM rollcalls r WHERE
+                            b.bill_id=r.bill_id
+                            AND r.description LIKE "%Passed%" 
+                            AND EXISTS(SELECT v1.roll_call_id FROM votes v1, votes v2 WHERE 
+                                r.roll_call_id=v1.roll_call_id 
+                                AND v2.sponsor_id IN(SELECT sponsor_id FROM term t
+                                                    WHERE v2.sponsor_id=t.sponsor_id
+                                                    AND t.district="HD12")
+                                AND v1.sponsor_id IN(SELECT sponsor_id FROM term t
+                                                    WHERE v1.sponsor_id=t.sponsor_id 
+                                                    AND t.district=d.district) 
+                                AND v1.vote=v2.vote))
+                            AND b.bill_id IN(SELECT bill_id FROM bill_on)) AS v 
+                            GROUP BY v.bill_id ORDER BY COUNT(v.bill_id) DESC LIMIT 10'''
+DISTRICTS_QUERY = '''SELECT district_id FROM districts WHERE district_id LIKE ?'''
+BILL_ON_QUERY = '''SELECT id, bill_id from bill_on'''
+YEA_QUERY = '''SELECT yea FROM rollcalls WHERE description LIKE "%House Passed%" AND bill_id=?'''
+NAY_QUERY = '''SELECT nay FROM rollcalls WHERE description LIKE "%House Passed%" AND bill_id=?'''
+REPS_QUERY = '''SELECT p.sponsor_name, t.party, t.start, t.end FROM term t
+                JOIN people p ON p.sponsor_id=t.sponsor_id AND t.district=?'''
+DISTRICT_INFO_QUERY = '''SELECT * FROM districts WHERE district_id=?'''
+QUESTION_QUERY = '''SELECT question_text FROM bill_on WHERE bill_id=?'''
+QUESTION_TEXT_QUERY = '''SELECT question_text FROM bill_on WHERE id=?'''
+INSERT_USER_QUERY = '''INSERT INTO users(name) VALUES(?)'''
+INSERT_USER_VOTES_QUERY = '''INSERT INTO user_votes VALUES(?,?,?)'''
+USERS_QUERY = '''SELECT * FROM users'''
+USER_VOTES_QUERY = '''SELECT question_id, question_vote FROM user_votes WHERE user_id=?'''
+USER_NAME_QUERY = '''SELECT name FROM users WHERE id=?'''
+USER_COUNT_QUERY = '''SELECT COUNT(*) FROM users WHERE id=?'''
+COUNT_DISTRICT_QUERY = '''SELECT COUNT(*) FROM districts WHERE district_id=?'''
